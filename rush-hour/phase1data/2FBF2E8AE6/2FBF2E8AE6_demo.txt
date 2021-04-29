@@ -1,0 +1,10 @@
+Subject:2FBF2E8AE6
+ Q1:"no answer"
+ Q2:"Male"
+ Q3:"4"
+ Q4:"5"
+ Q5:["critical thinking","q5other"]		"It increases my focus and concentration"		
+ Q6:"Once every 2-3 days"		""		
+ Q7:"Keep trying"		""		
+ Q8:"no help"		""		
+ Q9:["laptop","paper"]		""		

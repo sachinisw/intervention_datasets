@@ -1,0 +1,7 @@
+o,C,R,D,Fo,DistToCritical,DistToDesirable,CurrentHasLM,Label
+PICK-UP C,0.33,0.08,0.03,1.38,5,10,0.4,N
+STACK C P,0.5,0.01,0.06,1.45,8,8,0.4,N
+PICK-UP O,0.5,0.02,0.12,1.4,7,7,0.2,N
+STACK O C,1.0,0.0,1.0,1.0,-1,2,0.2,N
+PICK-UP D,1.0,0.0,1.0,1.0,-1,1,0.1,N
+STACK D O,1.0,0.0,1.0,1.0,-1,0,0.1,N

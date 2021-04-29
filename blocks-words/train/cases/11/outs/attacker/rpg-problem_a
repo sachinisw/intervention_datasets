@@ -1,0 +1,610 @@
+
+ff: parsing domain file
+domain 'BLOCKS' defined
+ ... done.
+ff: parsing problem file
+problem 'BLOCKS_WORDS' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(CLEAR P)
+(HANDEMPTY)
+(CLEAR O)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+(ONTABLE A)
+
+EFS:
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+effect 31 to PICK-UP A
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(HOLDING O)
+(HOLDING P)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 24 to PUT-DOWN P
+effect 25 to PUT-DOWN O
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+
+LEVEL 2:
+
+FACTS:
+(ON A P)
+(ON P E)
+
+Cueing down from goal distance:    4 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(HOLDING A)
+(CLEAR P)
+(CLEAR O)
+(CLEAR E)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 27 to PUT-DOWN A
+
+LEVEL 1:
+
+FACTS:
+(ON A E)
+(ON A O)
+(ON A P)
+(HANDEMPTY)
+(CLEAR A)
+(ONTABLE A)
+
+EFS:
+effect 9 to UNSTACK A P
+effect 10 to UNSTACK A O
+effect 11 to UNSTACK A E
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+effect 31 to PICK-UP A
+
+LEVEL 2:
+
+FACTS:
+(HOLDING E)
+(HOLDING O)
+(HOLDING P)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 24 to PUT-DOWN P
+effect 25 to PUT-DOWN O
+effect 26 to PUT-DOWN E
+
+LEVEL 3:
+
+FACTS:
+(ON P E)
+                                   3            [1]
+
+LEVEL 0:
+
+FACTS:
+(ON A P)
+(HANDEMPTY)
+(CLEAR O)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 9 to UNSTACK A P
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(HOLDING O)
+(CLEAR P)
+
+EFS:
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 25 to PUT-DOWN O
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+effect 28 to PICK-UP P
+
+LEVEL 2:
+
+FACTS:
+(HOLDING P)
+(ON A E)
+(ON A O)
+(ON E A)
+(ON E O)
+(ON E P)
+(ON O A)
+(ON O E)
+(ON O P)
+(ONTABLE A)
+
+EFS:
+effect 3 to UNSTACK O P
+effect 4 to UNSTACK O E
+effect 5 to UNSTACK O A
+effect 6 to UNSTACK E P
+effect 7 to UNSTACK E O
+effect 8 to UNSTACK E A
+effect 10 to UNSTACK A O
+effect 11 to UNSTACK A E
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 24 to PUT-DOWN P
+effect 31 to PICK-UP A
+
+LEVEL 3:
+
+FACTS:
+(ON P E)
+
+LEVEL 0:
+
+FACTS:
+(ON A O)
+(CLEAR P)
+(HANDEMPTY)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 10 to UNSTACK A O
+effect 28 to PICK-UP P
+effect 30 to PICK-UP E
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(HOLDING P)
+(CLEAR O)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 24 to PUT-DOWN P
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+effect 29 to PICK-UP O
+
+LEVEL 2:
+
+FACTS:
+(ON A P)
+(ON P E)
+
+LEVEL 0:
+
+FACTS:
+(ON A E)
+(CLEAR P)
+(HANDEMPTY)
+(CLEAR O)
+(CLEAR A)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 11 to UNSTACK A E
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING O)
+(HOLDING P)
+(CLEAR E)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 24 to PUT-DOWN P
+effect 25 to PUT-DOWN O
+effect 27 to PUT-DOWN A
+effect 30 to PICK-UP E
+
+LEVEL 2:
+
+FACTS:
+(ON A P)
+(ON P E)
+
+LEVEL 0:
+
+FACTS:
+(CLEAR P)
+(HANDEMPTY)
+(CLEAR O)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE P)
+(ONTABLE O)
+(ONTABLE E)
+(ONTABLE A)
+
+EFS:
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+effect 31 to PICK-UP A
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(HOLDING O)
+(HOLDING P)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 24 to PUT-DOWN P
+effect 25 to PUT-DOWN O
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+
+LEVEL 2:
+
+FACTS:
+(ON A P)
+(ON P E)[2]
+
+LEVEL 0:
+
+FACTS:
+(HOLDING P)
+(ON A O)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 24 to PUT-DOWN P
+
+LEVEL 1:
+
+FACTS:
+(ON P A)
+(ON P E)
+(CLEAR P)
+(HANDEMPTY)
+(ONTABLE P)
+
+EFS:
+effect 1 to UNSTACK P E
+effect 2 to UNSTACK P A
+effect 10 to UNSTACK A O
+effect 28 to PICK-UP P
+effect 30 to PICK-UP E
+
+LEVEL 2:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(CLEAR O)
+
+EFS:
+effect 12 to STACK P O
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+effect 29 to PICK-UP O
+
+LEVEL 3:
+
+FACTS:
+(ON A P)
+
+LEVEL 0:
+
+FACTS:
+(HOLDING P)
+(ON A E)
+(CLEAR O)
+(CLEAR A)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 12 to STACK P O
+effect 14 to STACK P A
+effect 24 to PUT-DOWN P
+
+LEVEL 1:
+
+FACTS:
+(ON P A)
+(ON P O)
+(CLEAR P)
+(HANDEMPTY)
+(ONTABLE P)
+
+EFS:
+effect 0 to UNSTACK P O
+effect 2 to UNSTACK P A
+effect 11 to UNSTACK A E
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+
+LEVEL 2:
+
+FACTS:
+(HOLDING A)
+(HOLDING O)
+(CLEAR E)
+
+EFS:
+effect 13 to STACK P E
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 25 to PUT-DOWN O
+effect 27 to PUT-DOWN A
+effect 30 to PICK-UP E
+
+LEVEL 3:
+
+FACTS:
+(ON A P)
+(ON P E)
+
+LEVEL 0:
+
+FACTS:
+(HOLDING P)
+(CLEAR O)
+(CLEAR E)
+(CLEAR A)
+(ONTABLE O)
+(ONTABLE E)
+(ONTABLE A)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 24 to PUT-DOWN P
+
+LEVEL 1:
+
+FACTS:
+(ON P A)
+(ON P E)
+(ON P O)
+(CLEAR P)
+(HANDEMPTY)
+(ONTABLE P)
+
+EFS:
+effect 0 to UNSTACK P O
+effect 1 to UNSTACK P E
+effect 2 to UNSTACK P A
+effect 28 to PICK-UP P
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+effect 31 to PICK-UP A
+
+LEVEL 2:
+
+FACTS:
+(HOLDING A)
+(HOLDING E)
+(HOLDING O)
+
+EFS:
+effect 15 to STACK O P
+effect 16 to STACK O E
+effect 17 to STACK O A
+effect 18 to STACK E P
+effect 19 to STACK E O
+effect 20 to STACK E A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 25 to PUT-DOWN O
+effect 26 to PUT-DOWN E
+effect 27 to PUT-DOWN A
+
+LEVEL 3:
+
+FACTS:
+(ON A P)[3]
+
+LEVEL 0:
+
+FACTS:
+(ON A O)
+(ON P E)
+(CLEAR P)
+(HANDEMPTY)
+(CLEAR A)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 1 to UNSTACK P E
+effect 10 to UNSTACK A O
+
+LEVEL 1:
+
+FACTS:
+(HOLDING A)
+(HOLDING P)
+(CLEAR O)
+(CLEAR E)
+
+EFS:
+effect 12 to STACK P O
+effect 13 to STACK P E
+effect 14 to STACK P A
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 23 to STACK A E
+effect 24 to PUT-DOWN P
+effect 27 to PUT-DOWN A
+effect 29 to PICK-UP O
+effect 30 to PICK-UP E
+
+LEVEL 2:
+
+FACTS:
+(ON A P)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(HOLDING A)
+(ON P E)
+(CLEAR P)
+(CLEAR O)
+(ONTABLE O)
+(ONTABLE E)
+
+EFS:
+effect 21 to STACK A P
+effect 22 to STACK A O
+effect 27 to PUT-DOWN A
+
+LEVEL 1:
+
+FACTS:
+(ON A P)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(ON A P)
+(ON P E)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: PICK-UP A
+        1: STACK A O
+        2: PICK-UP P
+        3: STACK P E
+        4: UNSTACK A O
+        5: STACK A P
+     
+
+time spent:    0.00 seconds instantiating 32 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 25 facts and 32 actions
+               0.00 seconds creating final representation with 25 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 12 states, to a max depth of 3
+               0.00 seconds total time
+
+

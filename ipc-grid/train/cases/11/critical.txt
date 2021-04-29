@@ -1,0 +1,1 @@
+(AT-ROBOT PLACE_0_1)

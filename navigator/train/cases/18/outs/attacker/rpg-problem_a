@@ -1,0 +1,493 @@
+
+ff: parsing domain file
+domain 'NAVIGATOR' defined
+ ... done.
+ff: parsing problem file
+problem 'NAVIGATOR-WORLD' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_3)
+
+EFS:
+effect 158 to MOVE PLACE_2_3 PLACE_2_4
+effect 159 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_2_4)
+
+EFS:
+effect 152 to MOVE PLACE_3_3 PLACE_3_4
+effect 153 to MOVE PLACE_3_3 PLACE_2_3
+effect 154 to MOVE PLACE_3_3 PLACE_4_3
+effect 155 to MOVE PLACE_2_4 PLACE_2_3
+effect 156 to MOVE PLACE_2_4 PLACE_2_5
+effect 157 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_4)
+(AT PLACE_2_5)
+(AT PLACE_4_3)
+
+EFS:
+effect 129 to MOVE PLACE_3_4 PLACE_3_3
+effect 130 to MOVE PLACE_3_4 PLACE_3_5
+effect 131 to MOVE PLACE_3_4 PLACE_2_4
+effect 132 to MOVE PLACE_3_4 PLACE_4_4
+effect 146 to MOVE PLACE_4_3 PLACE_4_4
+effect 147 to MOVE PLACE_4_3 PLACE_3_3
+effect 148 to MOVE PLACE_4_3 PLACE_5_3
+effect 149 to MOVE PLACE_2_5 PLACE_2_4
+effect 150 to MOVE PLACE_2_5 PLACE_2_6
+effect 151 to MOVE PLACE_2_5 PLACE_3_5
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+(AT PLACE_5_3)
+(AT PLACE_4_4)
+
+EFS:
+effect 133 to MOVE PLACE_5_3 PLACE_5_4
+effect 134 to MOVE PLACE_5_3 PLACE_4_3
+effect 135 to MOVE PLACE_4_4 PLACE_4_3
+effect 136 to MOVE PLACE_4_4 PLACE_4_5
+effect 137 to MOVE PLACE_4_4 PLACE_3_4
+effect 138 to MOVE PLACE_4_4 PLACE_5_4
+effect 139 to MOVE PLACE_2_6 PLACE_2_5
+effect 140 to MOVE PLACE_2_6 PLACE_2_7
+effect 141 to MOVE PLACE_2_6 PLACE_3_6
+effect 142 to MOVE PLACE_3_5 PLACE_3_4
+effect 143 to MOVE PLACE_3_5 PLACE_3_6
+effect 144 to MOVE PLACE_3_5 PLACE_2_5
+effect 145 to MOVE PLACE_3_5 PLACE_4_5
+
+LEVEL 4:
+
+FACTS:
+(AT PLACE_4_5)
+(AT PLACE_3_6)
+(AT PLACE_2_7)
+(AT PLACE_5_4)
+
+EFS:
+effect 91 to MOVE PLACE_5_4 PLACE_5_3
+effect 92 to MOVE PLACE_5_4 PLACE_5_5
+effect 93 to MOVE PLACE_5_4 PLACE_4_4
+effect 98 to MOVE PLACE_3_6 PLACE_3_5
+effect 99 to MOVE PLACE_3_6 PLACE_3_7
+effect 100 to MOVE PLACE_3_6 PLACE_2_6
+effect 101 to MOVE PLACE_3_6 PLACE_4_6
+effect 122 to MOVE PLACE_4_5 PLACE_4_4
+effect 123 to MOVE PLACE_4_5 PLACE_4_6
+effect 124 to MOVE PLACE_4_5 PLACE_3_5
+effect 125 to MOVE PLACE_4_5 PLACE_5_5
+effect 126 to MOVE PLACE_2_7 PLACE_2_6
+effect 127 to MOVE PLACE_2_7 PLACE_2_8
+effect 128 to MOVE PLACE_2_7 PLACE_3_7
+
+LEVEL 5:
+
+FACTS:
+(AT PLACE_3_7)
+(AT PLACE_2_8)
+(AT PLACE_5_5)
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+effect 105 to MOVE PLACE_5_5 PLACE_5_4
+effect 106 to MOVE PLACE_5_5 PLACE_5_6
+effect 107 to MOVE PLACE_5_5 PLACE_4_5
+effect 115 to MOVE PLACE_2_8 PLACE_2_7
+effect 116 to MOVE PLACE_2_8 PLACE_2_9
+effect 117 to MOVE PLACE_2_8 PLACE_3_8
+effect 118 to MOVE PLACE_3_7 PLACE_3_6
+effect 119 to MOVE PLACE_3_7 PLACE_3_8
+effect 120 to MOVE PLACE_3_7 PLACE_2_7
+effect 121 to MOVE PLACE_3_7 PLACE_4_7
+
+LEVEL 6:
+
+FACTS:
+(AT PLACE_4_7)
+
+Cueing down from goal distance:    6 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_4)
+
+EFS:
+effect 155 to MOVE PLACE_2_4 PLACE_2_3
+effect 156 to MOVE PLACE_2_4 PLACE_2_5
+effect 157 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_4)
+(AT PLACE_2_5)
+(AT PLACE_2_3)
+
+EFS:
+effect 129 to MOVE PLACE_3_4 PLACE_3_3
+effect 130 to MOVE PLACE_3_4 PLACE_3_5
+effect 131 to MOVE PLACE_3_4 PLACE_2_4
+effect 132 to MOVE PLACE_3_4 PLACE_4_4
+effect 149 to MOVE PLACE_2_5 PLACE_2_4
+effect 150 to MOVE PLACE_2_5 PLACE_2_6
+effect 151 to MOVE PLACE_2_5 PLACE_3_5
+effect 158 to MOVE PLACE_2_3 PLACE_2_4
+effect 159 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+(AT PLACE_4_4)
+
+EFS:
+effect 135 to MOVE PLACE_4_4 PLACE_4_3
+effect 136 to MOVE PLACE_4_4 PLACE_4_5
+effect 137 to MOVE PLACE_4_4 PLACE_3_4
+effect 138 to MOVE PLACE_4_4 PLACE_5_4
+effect 139 to MOVE PLACE_2_6 PLACE_2_5
+effect 140 to MOVE PLACE_2_6 PLACE_2_7
+effect 141 to MOVE PLACE_2_6 PLACE_3_6
+effect 142 to MOVE PLACE_3_5 PLACE_3_4
+effect 143 to MOVE PLACE_3_5 PLACE_3_6
+effect 144 to MOVE PLACE_3_5 PLACE_2_5
+effect 145 to MOVE PLACE_3_5 PLACE_4_5
+effect 152 to MOVE PLACE_3_3 PLACE_3_4
+effect 153 to MOVE PLACE_3_3 PLACE_2_3
+effect 154 to MOVE PLACE_3_3 PLACE_4_3
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_4_3)
+(AT PLACE_4_5)
+(AT PLACE_3_6)
+(AT PLACE_2_7)
+(AT PLACE_5_4)
+
+EFS:
+effect 91 to MOVE PLACE_5_4 PLACE_5_3
+effect 92 to MOVE PLACE_5_4 PLACE_5_5
+effect 93 to MOVE PLACE_5_4 PLACE_4_4
+effect 98 to MOVE PLACE_3_6 PLACE_3_5
+effect 99 to MOVE PLACE_3_6 PLACE_3_7
+effect 100 to MOVE PLACE_3_6 PLACE_2_6
+effect 101 to MOVE PLACE_3_6 PLACE_4_6
+effect 122 to MOVE PLACE_4_5 PLACE_4_4
+effect 123 to MOVE PLACE_4_5 PLACE_4_6
+effect 124 to MOVE PLACE_4_5 PLACE_3_5
+effect 125 to MOVE PLACE_4_5 PLACE_5_5
+effect 126 to MOVE PLACE_2_7 PLACE_2_6
+effect 127 to MOVE PLACE_2_7 PLACE_2_8
+effect 128 to MOVE PLACE_2_7 PLACE_3_7
+effect 146 to MOVE PLACE_4_3 PLACE_4_4
+effect 147 to MOVE PLACE_4_3 PLACE_3_3
+effect 148 to MOVE PLACE_4_3 PLACE_5_3
+
+LEVEL 4:
+
+FACTS:
+(AT PLACE_5_3)
+(AT PLACE_3_7)
+(AT PLACE_2_8)
+(AT PLACE_5_5)
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+effect 105 to MOVE PLACE_5_5 PLACE_5_4
+effect 106 to MOVE PLACE_5_5 PLACE_5_6
+effect 107 to MOVE PLACE_5_5 PLACE_4_5
+effect 115 to MOVE PLACE_2_8 PLACE_2_7
+effect 116 to MOVE PLACE_2_8 PLACE_2_9
+effect 117 to MOVE PLACE_2_8 PLACE_3_8
+effect 118 to MOVE PLACE_3_7 PLACE_3_6
+effect 119 to MOVE PLACE_3_7 PLACE_3_8
+effect 120 to MOVE PLACE_3_7 PLACE_2_7
+effect 121 to MOVE PLACE_3_7 PLACE_4_7
+effect 133 to MOVE PLACE_5_3 PLACE_5_4
+effect 134 to MOVE PLACE_5_3 PLACE_4_3
+
+LEVEL 5:
+
+FACTS:
+(AT PLACE_4_7)
+                                   5            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_5)
+
+EFS:
+effect 149 to MOVE PLACE_2_5 PLACE_2_4
+effect 150 to MOVE PLACE_2_5 PLACE_2_6
+effect 151 to MOVE PLACE_2_5 PLACE_3_5
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_2_4)
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+
+EFS:
+effect 139 to MOVE PLACE_2_6 PLACE_2_5
+effect 140 to MOVE PLACE_2_6 PLACE_2_7
+effect 141 to MOVE PLACE_2_6 PLACE_3_6
+effect 142 to MOVE PLACE_3_5 PLACE_3_4
+effect 143 to MOVE PLACE_3_5 PLACE_3_6
+effect 144 to MOVE PLACE_3_5 PLACE_2_5
+effect 145 to MOVE PLACE_3_5 PLACE_4_5
+effect 155 to MOVE PLACE_2_4 PLACE_2_3
+effect 156 to MOVE PLACE_2_4 PLACE_2_5
+effect 157 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_4)
+(AT PLACE_4_5)
+(AT PLACE_3_6)
+(AT PLACE_2_7)
+(AT PLACE_2_3)
+
+EFS:
+effect 98 to MOVE PLACE_3_6 PLACE_3_5
+effect 99 to MOVE PLACE_3_6 PLACE_3_7
+effect 100 to MOVE PLACE_3_6 PLACE_2_6
+effect 101 to MOVE PLACE_3_6 PLACE_4_6
+effect 122 to MOVE PLACE_4_5 PLACE_4_4
+effect 123 to MOVE PLACE_4_5 PLACE_4_6
+effect 124 to MOVE PLACE_4_5 PLACE_3_5
+effect 125 to MOVE PLACE_4_5 PLACE_5_5
+effect 126 to MOVE PLACE_2_7 PLACE_2_6
+effect 127 to MOVE PLACE_2_7 PLACE_2_8
+effect 128 to MOVE PLACE_2_7 PLACE_3_7
+effect 129 to MOVE PLACE_3_4 PLACE_3_3
+effect 130 to MOVE PLACE_3_4 PLACE_3_5
+effect 131 to MOVE PLACE_3_4 PLACE_2_4
+effect 132 to MOVE PLACE_3_4 PLACE_4_4
+effect 158 to MOVE PLACE_2_3 PLACE_2_4
+effect 159 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_4_4)
+(AT PLACE_3_7)
+(AT PLACE_2_8)
+(AT PLACE_5_5)
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+effect 105 to MOVE PLACE_5_5 PLACE_5_4
+effect 106 to MOVE PLACE_5_5 PLACE_5_6
+effect 107 to MOVE PLACE_5_5 PLACE_4_5
+effect 115 to MOVE PLACE_2_8 PLACE_2_7
+effect 116 to MOVE PLACE_2_8 PLACE_2_9
+effect 117 to MOVE PLACE_2_8 PLACE_3_8
+effect 118 to MOVE PLACE_3_7 PLACE_3_6
+effect 119 to MOVE PLACE_3_7 PLACE_3_8
+effect 120 to MOVE PLACE_3_7 PLACE_2_7
+effect 121 to MOVE PLACE_3_7 PLACE_4_7
+effect 135 to MOVE PLACE_4_4 PLACE_4_3
+effect 136 to MOVE PLACE_4_4 PLACE_4_5
+effect 137 to MOVE PLACE_4_4 PLACE_3_4
+effect 138 to MOVE PLACE_4_4 PLACE_5_4
+effect 152 to MOVE PLACE_3_3 PLACE_3_4
+effect 153 to MOVE PLACE_3_3 PLACE_2_3
+effect 154 to MOVE PLACE_3_3 PLACE_4_3
+
+LEVEL 4:
+
+FACTS:
+(AT PLACE_4_7)
+                                   4            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_6)
+
+EFS:
+effect 139 to MOVE PLACE_2_6 PLACE_2_5
+effect 140 to MOVE PLACE_2_6 PLACE_2_7
+effect 141 to MOVE PLACE_2_6 PLACE_3_6
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_2_5)
+(AT PLACE_3_6)
+(AT PLACE_2_7)
+
+EFS:
+effect 98 to MOVE PLACE_3_6 PLACE_3_5
+effect 99 to MOVE PLACE_3_6 PLACE_3_7
+effect 100 to MOVE PLACE_3_6 PLACE_2_6
+effect 101 to MOVE PLACE_3_6 PLACE_4_6
+effect 126 to MOVE PLACE_2_7 PLACE_2_6
+effect 127 to MOVE PLACE_2_7 PLACE_2_8
+effect 128 to MOVE PLACE_2_7 PLACE_3_7
+effect 149 to MOVE PLACE_2_5 PLACE_2_4
+effect 150 to MOVE PLACE_2_5 PLACE_2_6
+effect 151 to MOVE PLACE_2_5 PLACE_3_5
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_2_4)
+(AT PLACE_3_5)
+(AT PLACE_3_7)
+(AT PLACE_2_8)
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+effect 115 to MOVE PLACE_2_8 PLACE_2_7
+effect 116 to MOVE PLACE_2_8 PLACE_2_9
+effect 117 to MOVE PLACE_2_8 PLACE_3_8
+effect 118 to MOVE PLACE_3_7 PLACE_3_6
+effect 119 to MOVE PLACE_3_7 PLACE_3_8
+effect 120 to MOVE PLACE_3_7 PLACE_2_7
+effect 121 to MOVE PLACE_3_7 PLACE_4_7
+effect 142 to MOVE PLACE_3_5 PLACE_3_4
+effect 143 to MOVE PLACE_3_5 PLACE_3_6
+effect 144 to MOVE PLACE_3_5 PLACE_2_5
+effect 145 to MOVE PLACE_3_5 PLACE_4_5
+effect 155 to MOVE PLACE_2_4 PLACE_2_3
+effect 156 to MOVE PLACE_2_4 PLACE_2_5
+effect 157 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_4_7)
+                                   3            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_3_6)
+
+EFS:
+effect 98 to MOVE PLACE_3_6 PLACE_3_5
+effect 99 to MOVE PLACE_3_6 PLACE_3_7
+effect 100 to MOVE PLACE_3_6 PLACE_2_6
+effect 101 to MOVE PLACE_3_6 PLACE_4_6
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+(AT PLACE_3_7)
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+effect 118 to MOVE PLACE_3_7 PLACE_3_6
+effect 119 to MOVE PLACE_3_7 PLACE_3_8
+effect 120 to MOVE PLACE_3_7 PLACE_2_7
+effect 121 to MOVE PLACE_3_7 PLACE_4_7
+effect 139 to MOVE PLACE_2_6 PLACE_2_5
+effect 140 to MOVE PLACE_2_6 PLACE_2_7
+effect 141 to MOVE PLACE_2_6 PLACE_3_6
+effect 142 to MOVE PLACE_3_5 PLACE_3_4
+effect 143 to MOVE PLACE_3_5 PLACE_3_6
+effect 144 to MOVE PLACE_3_5 PLACE_2_5
+effect 145 to MOVE PLACE_3_5 PLACE_4_5
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_4_7)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_4_6)
+
+EFS:
+effect 94 to MOVE PLACE_4_6 PLACE_4_5
+effect 95 to MOVE PLACE_4_6 PLACE_4_7
+effect 96 to MOVE PLACE_4_6 PLACE_3_6
+effect 97 to MOVE PLACE_4_6 PLACE_5_6
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_4_7)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_4_7)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_2_3 PLACE_2_4
+        1: MOVE PLACE_2_4 PLACE_2_5
+        2: MOVE PLACE_2_5 PLACE_2_6
+        3: MOVE PLACE_2_6 PLACE_3_6
+        4: MOVE PLACE_3_6 PLACE_4_6
+        5: MOVE PLACE_4_6 PLACE_4_7
+     
+
+time spent:    0.00 seconds instantiating 160 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 48 facts and 160 actions
+               0.00 seconds creating final representation with 48 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 7 states, to a max depth of 1
+               0.00 seconds total time
+
+

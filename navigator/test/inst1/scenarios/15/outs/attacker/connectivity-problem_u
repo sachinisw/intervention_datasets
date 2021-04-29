@@ -1,0 +1,2599 @@
+
+ff: parsing domain file
+domain 'NAVIGATOR' defined
+ ... done.
+ff: parsing problem file
+problem 'NAV15X5' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+created connectivity graph as follows:
+
+------------------OP ARRAY:-----------------------
+
+OP: MOVE PLACE_10_5 PLACE_10_4
+----------EFFS:
+effect 0
+
+OP: MOVE PLACE_10_5 PLACE_9_5
+----------EFFS:
+effect 1
+
+OP: MOVE PLACE_9_5 PLACE_10_5
+----------EFFS:
+effect 2
+
+OP: MOVE PLACE_9_5 PLACE_8_5
+----------EFFS:
+effect 3
+
+OP: MOVE PLACE_9_5 PLACE_9_4
+----------EFFS:
+effect 4
+
+OP: MOVE PLACE_10_4 PLACE_10_3
+----------EFFS:
+effect 5
+
+OP: MOVE PLACE_10_4 PLACE_10_5
+----------EFFS:
+effect 6
+
+OP: MOVE PLACE_10_4 PLACE_9_4
+----------EFFS:
+effect 7
+
+OP: MOVE PLACE_8_5 PLACE_7_5
+----------EFFS:
+effect 8
+
+OP: MOVE PLACE_8_5 PLACE_8_4
+----------EFFS:
+effect 9
+
+OP: MOVE PLACE_8_5 PLACE_9_5
+----------EFFS:
+effect 10
+
+OP: MOVE PLACE_9_4 PLACE_10_4
+----------EFFS:
+effect 11
+
+OP: MOVE PLACE_9_4 PLACE_8_4
+----------EFFS:
+effect 12
+
+OP: MOVE PLACE_9_4 PLACE_9_3
+----------EFFS:
+effect 13
+
+OP: MOVE PLACE_9_4 PLACE_9_5
+----------EFFS:
+effect 14
+
+OP: MOVE PLACE_10_3 PLACE_10_2
+----------EFFS:
+effect 15
+
+OP: MOVE PLACE_10_3 PLACE_10_4
+----------EFFS:
+effect 16
+
+OP: MOVE PLACE_10_3 PLACE_9_3
+----------EFFS:
+effect 17
+
+OP: MOVE PLACE_7_5 PLACE_6_5
+----------EFFS:
+effect 18
+
+OP: MOVE PLACE_7_5 PLACE_7_4
+----------EFFS:
+effect 19
+
+OP: MOVE PLACE_7_5 PLACE_8_5
+----------EFFS:
+effect 20
+
+OP: MOVE PLACE_8_4 PLACE_7_4
+----------EFFS:
+effect 21
+
+OP: MOVE PLACE_8_4 PLACE_8_3
+----------EFFS:
+effect 22
+
+OP: MOVE PLACE_8_4 PLACE_8_5
+----------EFFS:
+effect 23
+
+OP: MOVE PLACE_8_4 PLACE_9_4
+----------EFFS:
+effect 24
+
+OP: MOVE PLACE_9_3 PLACE_10_3
+----------EFFS:
+effect 25
+
+OP: MOVE PLACE_9_3 PLACE_8_3
+----------EFFS:
+effect 26
+
+OP: MOVE PLACE_9_3 PLACE_9_2
+----------EFFS:
+effect 27
+
+OP: MOVE PLACE_9_3 PLACE_9_4
+----------EFFS:
+effect 28
+
+OP: MOVE PLACE_10_2 PLACE_10_3
+----------EFFS:
+effect 29
+
+OP: MOVE PLACE_10_2 PLACE_9_2
+----------EFFS:
+effect 30
+
+OP: MOVE PLACE_6_5 PLACE_5_5
+----------EFFS:
+effect 31
+
+OP: MOVE PLACE_6_5 PLACE_6_4
+----------EFFS:
+effect 32
+
+OP: MOVE PLACE_6_5 PLACE_7_5
+----------EFFS:
+effect 33
+
+OP: MOVE PLACE_7_4 PLACE_6_4
+----------EFFS:
+effect 34
+
+OP: MOVE PLACE_7_4 PLACE_7_3
+----------EFFS:
+effect 35
+
+OP: MOVE PLACE_7_4 PLACE_7_5
+----------EFFS:
+effect 36
+
+OP: MOVE PLACE_7_4 PLACE_8_4
+----------EFFS:
+effect 37
+
+OP: MOVE PLACE_8_3 PLACE_7_3
+----------EFFS:
+effect 38
+
+OP: MOVE PLACE_8_3 PLACE_8_2
+----------EFFS:
+effect 39
+
+OP: MOVE PLACE_8_3 PLACE_8_4
+----------EFFS:
+effect 40
+
+OP: MOVE PLACE_8_3 PLACE_9_3
+----------EFFS:
+effect 41
+
+OP: MOVE PLACE_9_2 PLACE_10_2
+----------EFFS:
+effect 42
+
+OP: MOVE PLACE_9_2 PLACE_8_2
+----------EFFS:
+effect 43
+
+OP: MOVE PLACE_9_2 PLACE_9_3
+----------EFFS:
+effect 44
+
+OP: MOVE PLACE_5_5 PLACE_4_5
+----------EFFS:
+effect 45
+
+OP: MOVE PLACE_5_5 PLACE_5_4
+----------EFFS:
+effect 46
+
+OP: MOVE PLACE_5_5 PLACE_6_5
+----------EFFS:
+effect 47
+
+OP: MOVE PLACE_6_4 PLACE_5_4
+----------EFFS:
+effect 48
+
+OP: MOVE PLACE_6_4 PLACE_6_3
+----------EFFS:
+effect 49
+
+OP: MOVE PLACE_6_4 PLACE_6_5
+----------EFFS:
+effect 50
+
+OP: MOVE PLACE_6_4 PLACE_7_4
+----------EFFS:
+effect 51
+
+OP: MOVE PLACE_7_3 PLACE_6_3
+----------EFFS:
+effect 52
+
+OP: MOVE PLACE_7_3 PLACE_7_2
+----------EFFS:
+effect 53
+
+OP: MOVE PLACE_7_3 PLACE_7_4
+----------EFFS:
+effect 54
+
+OP: MOVE PLACE_7_3 PLACE_8_3
+----------EFFS:
+effect 55
+
+OP: MOVE PLACE_8_2 PLACE_7_2
+----------EFFS:
+effect 56
+
+OP: MOVE PLACE_8_2 PLACE_8_3
+----------EFFS:
+effect 57
+
+OP: MOVE PLACE_8_2 PLACE_9_2
+----------EFFS:
+effect 58
+
+OP: MOVE PLACE_4_5 PLACE_3_5
+----------EFFS:
+effect 59
+
+OP: MOVE PLACE_4_5 PLACE_4_4
+----------EFFS:
+effect 60
+
+OP: MOVE PLACE_4_5 PLACE_5_5
+----------EFFS:
+effect 61
+
+OP: MOVE PLACE_5_4 PLACE_4_4
+----------EFFS:
+effect 62
+
+OP: MOVE PLACE_5_4 PLACE_5_3
+----------EFFS:
+effect 63
+
+OP: MOVE PLACE_5_4 PLACE_5_5
+----------EFFS:
+effect 64
+
+OP: MOVE PLACE_5_4 PLACE_6_4
+----------EFFS:
+effect 65
+
+OP: MOVE PLACE_6_3 PLACE_5_3
+----------EFFS:
+effect 66
+
+OP: MOVE PLACE_6_3 PLACE_6_2
+----------EFFS:
+effect 67
+
+OP: MOVE PLACE_6_3 PLACE_6_4
+----------EFFS:
+effect 68
+
+OP: MOVE PLACE_6_3 PLACE_7_3
+----------EFFS:
+effect 69
+
+OP: MOVE PLACE_7_2 PLACE_6_2
+----------EFFS:
+effect 70
+
+OP: MOVE PLACE_7_2 PLACE_7_3
+----------EFFS:
+effect 71
+
+OP: MOVE PLACE_7_2 PLACE_8_2
+----------EFFS:
+effect 72
+
+OP: MOVE PLACE_3_5 PLACE_2_5
+----------EFFS:
+effect 73
+
+OP: MOVE PLACE_3_5 PLACE_3_4
+----------EFFS:
+effect 74
+
+OP: MOVE PLACE_3_5 PLACE_4_5
+----------EFFS:
+effect 75
+
+OP: MOVE PLACE_4_4 PLACE_3_4
+----------EFFS:
+effect 76
+
+OP: MOVE PLACE_4_4 PLACE_4_3
+----------EFFS:
+effect 77
+
+OP: MOVE PLACE_4_4 PLACE_4_5
+----------EFFS:
+effect 78
+
+OP: MOVE PLACE_4_4 PLACE_5_4
+----------EFFS:
+effect 79
+
+OP: MOVE PLACE_5_3 PLACE_4_3
+----------EFFS:
+effect 80
+
+OP: MOVE PLACE_5_3 PLACE_5_2
+----------EFFS:
+effect 81
+
+OP: MOVE PLACE_5_3 PLACE_5_4
+----------EFFS:
+effect 82
+
+OP: MOVE PLACE_5_3 PLACE_6_3
+----------EFFS:
+effect 83
+
+OP: MOVE PLACE_6_2 PLACE_5_2
+----------EFFS:
+effect 84
+
+OP: MOVE PLACE_6_2 PLACE_6_3
+----------EFFS:
+effect 85
+
+OP: MOVE PLACE_6_2 PLACE_7_2
+----------EFFS:
+effect 86
+
+OP: MOVE PLACE_2_5 PLACE_2_4
+----------EFFS:
+effect 87
+
+OP: MOVE PLACE_2_5 PLACE_3_5
+----------EFFS:
+effect 88
+
+OP: MOVE PLACE_3_4 PLACE_2_4
+----------EFFS:
+effect 89
+
+OP: MOVE PLACE_3_4 PLACE_3_3
+----------EFFS:
+effect 90
+
+OP: MOVE PLACE_3_4 PLACE_3_5
+----------EFFS:
+effect 91
+
+OP: MOVE PLACE_3_4 PLACE_4_4
+----------EFFS:
+effect 92
+
+OP: MOVE PLACE_4_3 PLACE_3_3
+----------EFFS:
+effect 93
+
+OP: MOVE PLACE_4_3 PLACE_4_2
+----------EFFS:
+effect 94
+
+OP: MOVE PLACE_4_3 PLACE_4_4
+----------EFFS:
+effect 95
+
+OP: MOVE PLACE_4_3 PLACE_5_3
+----------EFFS:
+effect 96
+
+OP: MOVE PLACE_5_2 PLACE_4_2
+----------EFFS:
+effect 97
+
+OP: MOVE PLACE_5_2 PLACE_5_3
+----------EFFS:
+effect 98
+
+OP: MOVE PLACE_5_2 PLACE_6_2
+----------EFFS:
+effect 99
+
+OP: MOVE PLACE_2_4 PLACE_2_3
+----------EFFS:
+effect 100
+
+OP: MOVE PLACE_2_4 PLACE_2_5
+----------EFFS:
+effect 101
+
+OP: MOVE PLACE_2_4 PLACE_3_4
+----------EFFS:
+effect 102
+
+OP: MOVE PLACE_3_3 PLACE_2_3
+----------EFFS:
+effect 103
+
+OP: MOVE PLACE_3_3 PLACE_3_2
+----------EFFS:
+effect 104
+
+OP: MOVE PLACE_3_3 PLACE_3_4
+----------EFFS:
+effect 105
+
+OP: MOVE PLACE_3_3 PLACE_4_3
+----------EFFS:
+effect 106
+
+OP: MOVE PLACE_4_2 PLACE_3_2
+----------EFFS:
+effect 107
+
+OP: MOVE PLACE_4_2 PLACE_4_3
+----------EFFS:
+effect 108
+
+OP: MOVE PLACE_4_2 PLACE_5_2
+----------EFFS:
+effect 109
+
+OP: MOVE PLACE_2_3 PLACE_2_2
+----------EFFS:
+effect 110
+
+OP: MOVE PLACE_2_3 PLACE_2_4
+----------EFFS:
+effect 111
+
+OP: MOVE PLACE_2_3 PLACE_3_3
+----------EFFS:
+effect 112
+
+OP: MOVE PLACE_3_2 PLACE_2_2
+----------EFFS:
+effect 113
+
+OP: MOVE PLACE_3_2 PLACE_3_3
+----------EFFS:
+effect 114
+
+OP: MOVE PLACE_3_2 PLACE_4_2
+----------EFFS:
+effect 115
+
+OP: MOVE PLACE_2_2 PLACE_2_3
+----------EFFS:
+effect 116
+
+OP: MOVE PLACE_2_2 PLACE_3_2
+----------EFFS:
+effect 117
+
+-------------------EFFECT ARRAY:----------------------
+
+effect 0 of op 0 cost 0.000000: MOVE PLACE_10_5 PLACE_10_4
+----------PCS:
+(AT PLACE_10_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_4)
+----------DELS:
+(AT PLACE_10_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 1 of op 1 cost 0.000000: MOVE PLACE_10_5 PLACE_9_5
+----------PCS:
+(AT PLACE_10_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_5)
+----------DELS:
+(AT PLACE_10_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 2 of op 2 cost 0.000000: MOVE PLACE_9_5 PLACE_10_5
+----------PCS:
+(AT PLACE_9_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_5)
+----------DELS:
+(AT PLACE_9_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 3 of op 3 cost 0.000000: MOVE PLACE_9_5 PLACE_8_5
+----------PCS:
+(AT PLACE_9_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_5)
+----------DELS:
+(AT PLACE_9_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 4 of op 4 cost 0.000000: MOVE PLACE_9_5 PLACE_9_4
+----------PCS:
+(AT PLACE_9_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_4)
+----------DELS:
+(AT PLACE_9_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 5 of op 5 cost 0.000000: MOVE PLACE_10_4 PLACE_10_3
+----------PCS:
+(AT PLACE_10_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_3)
+----------DELS:
+(AT PLACE_10_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 6 of op 6 cost 0.000000: MOVE PLACE_10_4 PLACE_10_5
+----------PCS:
+(AT PLACE_10_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_5)
+----------DELS:
+(AT PLACE_10_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 7 of op 7 cost 0.000000: MOVE PLACE_10_4 PLACE_9_4
+----------PCS:
+(AT PLACE_10_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_4)
+----------DELS:
+(AT PLACE_10_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 8 of op 8 cost 0.000000: MOVE PLACE_8_5 PLACE_7_5
+----------PCS:
+(AT PLACE_8_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_5)
+----------DELS:
+(AT PLACE_8_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 9 of op 9 cost 0.000000: MOVE PLACE_8_5 PLACE_8_4
+----------PCS:
+(AT PLACE_8_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_4)
+----------DELS:
+(AT PLACE_8_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 10 of op 10 cost 0.000000: MOVE PLACE_8_5 PLACE_9_5
+----------PCS:
+(AT PLACE_8_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_5)
+----------DELS:
+(AT PLACE_8_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 11 of op 11 cost 0.000000: MOVE PLACE_9_4 PLACE_10_4
+----------PCS:
+(AT PLACE_9_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_4)
+----------DELS:
+(AT PLACE_9_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 12 of op 12 cost 0.000000: MOVE PLACE_9_4 PLACE_8_4
+----------PCS:
+(AT PLACE_9_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_4)
+----------DELS:
+(AT PLACE_9_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 13 of op 13 cost 0.000000: MOVE PLACE_9_4 PLACE_9_3
+----------PCS:
+(AT PLACE_9_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_3)
+----------DELS:
+(AT PLACE_9_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 14 of op 14 cost 0.000000: MOVE PLACE_9_4 PLACE_9_5
+----------PCS:
+(AT PLACE_9_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_5)
+----------DELS:
+(AT PLACE_9_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 15 of op 15 cost 0.000000: MOVE PLACE_10_3 PLACE_10_2
+----------PCS:
+(AT PLACE_10_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_2)
+----------DELS:
+(AT PLACE_10_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 16 of op 16 cost 0.000000: MOVE PLACE_10_3 PLACE_10_4
+----------PCS:
+(AT PLACE_10_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_4)
+----------DELS:
+(AT PLACE_10_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 17 of op 17 cost 0.000000: MOVE PLACE_10_3 PLACE_9_3
+----------PCS:
+(AT PLACE_10_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_3)
+----------DELS:
+(AT PLACE_10_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 18 of op 18 cost 0.000000: MOVE PLACE_7_5 PLACE_6_5
+----------PCS:
+(AT PLACE_7_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_5)
+----------DELS:
+(AT PLACE_7_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 19 of op 19 cost 0.000000: MOVE PLACE_7_5 PLACE_7_4
+----------PCS:
+(AT PLACE_7_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_4)
+----------DELS:
+(AT PLACE_7_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 20 of op 20 cost 0.000000: MOVE PLACE_7_5 PLACE_8_5
+----------PCS:
+(AT PLACE_7_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_5)
+----------DELS:
+(AT PLACE_7_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 21 of op 21 cost 0.000000: MOVE PLACE_8_4 PLACE_7_4
+----------PCS:
+(AT PLACE_8_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_4)
+----------DELS:
+(AT PLACE_8_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 22 of op 22 cost 0.000000: MOVE PLACE_8_4 PLACE_8_3
+----------PCS:
+(AT PLACE_8_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_3)
+----------DELS:
+(AT PLACE_8_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 23 of op 23 cost 0.000000: MOVE PLACE_8_4 PLACE_8_5
+----------PCS:
+(AT PLACE_8_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_5)
+----------DELS:
+(AT PLACE_8_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 24 of op 24 cost 0.000000: MOVE PLACE_8_4 PLACE_9_4
+----------PCS:
+(AT PLACE_8_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_4)
+----------DELS:
+(AT PLACE_8_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 25 of op 25 cost 0.000000: MOVE PLACE_9_3 PLACE_10_3
+----------PCS:
+(AT PLACE_9_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_3)
+----------DELS:
+(AT PLACE_9_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 26 of op 26 cost 0.000000: MOVE PLACE_9_3 PLACE_8_3
+----------PCS:
+(AT PLACE_9_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_3)
+----------DELS:
+(AT PLACE_9_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 27 of op 27 cost 0.000000: MOVE PLACE_9_3 PLACE_9_2
+----------PCS:
+(AT PLACE_9_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_2)
+----------DELS:
+(AT PLACE_9_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 28 of op 28 cost 0.000000: MOVE PLACE_9_3 PLACE_9_4
+----------PCS:
+(AT PLACE_9_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_4)
+----------DELS:
+(AT PLACE_9_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 29 of op 29 cost 0.000000: MOVE PLACE_10_2 PLACE_10_3
+----------PCS:
+(AT PLACE_10_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_3)
+----------DELS:
+(AT PLACE_10_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 30 of op 30 cost 0.000000: MOVE PLACE_10_2 PLACE_9_2
+----------PCS:
+(AT PLACE_10_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_2)
+----------DELS:
+(AT PLACE_10_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 31 of op 31 cost 0.000000: MOVE PLACE_6_5 PLACE_5_5
+----------PCS:
+(AT PLACE_6_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_5)
+----------DELS:
+(AT PLACE_6_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 32 of op 32 cost 0.000000: MOVE PLACE_6_5 PLACE_6_4
+----------PCS:
+(AT PLACE_6_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_4)
+----------DELS:
+(AT PLACE_6_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 33 of op 33 cost 0.000000: MOVE PLACE_6_5 PLACE_7_5
+----------PCS:
+(AT PLACE_6_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_5)
+----------DELS:
+(AT PLACE_6_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 34 of op 34 cost 0.000000: MOVE PLACE_7_4 PLACE_6_4
+----------PCS:
+(AT PLACE_7_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_4)
+----------DELS:
+(AT PLACE_7_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 35 of op 35 cost 0.000000: MOVE PLACE_7_4 PLACE_7_3
+----------PCS:
+(AT PLACE_7_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_3)
+----------DELS:
+(AT PLACE_7_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 36 of op 36 cost 0.000000: MOVE PLACE_7_4 PLACE_7_5
+----------PCS:
+(AT PLACE_7_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_5)
+----------DELS:
+(AT PLACE_7_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 37 of op 37 cost 0.000000: MOVE PLACE_7_4 PLACE_8_4
+----------PCS:
+(AT PLACE_7_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_4)
+----------DELS:
+(AT PLACE_7_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 38 of op 38 cost 0.000000: MOVE PLACE_8_3 PLACE_7_3
+----------PCS:
+(AT PLACE_8_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_3)
+----------DELS:
+(AT PLACE_8_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 39 of op 39 cost 0.000000: MOVE PLACE_8_3 PLACE_8_2
+----------PCS:
+(AT PLACE_8_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_2)
+----------DELS:
+(AT PLACE_8_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 40 of op 40 cost 0.000000: MOVE PLACE_8_3 PLACE_8_4
+----------PCS:
+(AT PLACE_8_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_4)
+----------DELS:
+(AT PLACE_8_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 41 of op 41 cost 0.000000: MOVE PLACE_8_3 PLACE_9_3
+----------PCS:
+(AT PLACE_8_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_3)
+----------DELS:
+(AT PLACE_8_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 42 of op 42 cost 0.000000: MOVE PLACE_9_2 PLACE_10_2
+----------PCS:
+(AT PLACE_9_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_10_2)
+----------DELS:
+(AT PLACE_9_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 43 of op 43 cost 0.000000: MOVE PLACE_9_2 PLACE_8_2
+----------PCS:
+(AT PLACE_9_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_2)
+----------DELS:
+(AT PLACE_9_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 44 of op 44 cost 0.000000: MOVE PLACE_9_2 PLACE_9_3
+----------PCS:
+(AT PLACE_9_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_3)
+----------DELS:
+(AT PLACE_9_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 45 of op 45 cost 0.000000: MOVE PLACE_5_5 PLACE_4_5
+----------PCS:
+(AT PLACE_5_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_5)
+----------DELS:
+(AT PLACE_5_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 46 of op 46 cost 0.000000: MOVE PLACE_5_5 PLACE_5_4
+----------PCS:
+(AT PLACE_5_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_4)
+----------DELS:
+(AT PLACE_5_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 47 of op 47 cost 0.000000: MOVE PLACE_5_5 PLACE_6_5
+----------PCS:
+(AT PLACE_5_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_5)
+----------DELS:
+(AT PLACE_5_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 48 of op 48 cost 0.000000: MOVE PLACE_6_4 PLACE_5_4
+----------PCS:
+(AT PLACE_6_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_4)
+----------DELS:
+(AT PLACE_6_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 49 of op 49 cost 0.000000: MOVE PLACE_6_4 PLACE_6_3
+----------PCS:
+(AT PLACE_6_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_3)
+----------DELS:
+(AT PLACE_6_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 50 of op 50 cost 0.000000: MOVE PLACE_6_4 PLACE_6_5
+----------PCS:
+(AT PLACE_6_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_5)
+----------DELS:
+(AT PLACE_6_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 51 of op 51 cost 0.000000: MOVE PLACE_6_4 PLACE_7_4
+----------PCS:
+(AT PLACE_6_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_4)
+----------DELS:
+(AT PLACE_6_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 52 of op 52 cost 0.000000: MOVE PLACE_7_3 PLACE_6_3
+----------PCS:
+(AT PLACE_7_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_3)
+----------DELS:
+(AT PLACE_7_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 53 of op 53 cost 0.000000: MOVE PLACE_7_3 PLACE_7_2
+----------PCS:
+(AT PLACE_7_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_2)
+----------DELS:
+(AT PLACE_7_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 54 of op 54 cost 0.000000: MOVE PLACE_7_3 PLACE_7_4
+----------PCS:
+(AT PLACE_7_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_4)
+----------DELS:
+(AT PLACE_7_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 55 of op 55 cost 0.000000: MOVE PLACE_7_3 PLACE_8_3
+----------PCS:
+(AT PLACE_7_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_3)
+----------DELS:
+(AT PLACE_7_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 56 of op 56 cost 0.000000: MOVE PLACE_8_2 PLACE_7_2
+----------PCS:
+(AT PLACE_8_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_2)
+----------DELS:
+(AT PLACE_8_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 57 of op 57 cost 0.000000: MOVE PLACE_8_2 PLACE_8_3
+----------PCS:
+(AT PLACE_8_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_3)
+----------DELS:
+(AT PLACE_8_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 58 of op 58 cost 0.000000: MOVE PLACE_8_2 PLACE_9_2
+----------PCS:
+(AT PLACE_8_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_9_2)
+----------DELS:
+(AT PLACE_8_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 59 of op 59 cost 0.000000: MOVE PLACE_4_5 PLACE_3_5
+----------PCS:
+(AT PLACE_4_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_5)
+----------DELS:
+(AT PLACE_4_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 60 of op 60 cost 0.000000: MOVE PLACE_4_5 PLACE_4_4
+----------PCS:
+(AT PLACE_4_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_4)
+----------DELS:
+(AT PLACE_4_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 61 of op 61 cost 0.000000: MOVE PLACE_4_5 PLACE_5_5
+----------PCS:
+(AT PLACE_4_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_5)
+----------DELS:
+(AT PLACE_4_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 62 of op 62 cost 0.000000: MOVE PLACE_5_4 PLACE_4_4
+----------PCS:
+(AT PLACE_5_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_4)
+----------DELS:
+(AT PLACE_5_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 63 of op 63 cost 0.000000: MOVE PLACE_5_4 PLACE_5_3
+----------PCS:
+(AT PLACE_5_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_3)
+----------DELS:
+(AT PLACE_5_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 64 of op 64 cost 0.000000: MOVE PLACE_5_4 PLACE_5_5
+----------PCS:
+(AT PLACE_5_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_5)
+----------DELS:
+(AT PLACE_5_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 65 of op 65 cost 0.000000: MOVE PLACE_5_4 PLACE_6_4
+----------PCS:
+(AT PLACE_5_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_4)
+----------DELS:
+(AT PLACE_5_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 66 of op 66 cost 0.000000: MOVE PLACE_6_3 PLACE_5_3
+----------PCS:
+(AT PLACE_6_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_3)
+----------DELS:
+(AT PLACE_6_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 67 of op 67 cost 0.000000: MOVE PLACE_6_3 PLACE_6_2
+----------PCS:
+(AT PLACE_6_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_2)
+----------DELS:
+(AT PLACE_6_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 68 of op 68 cost 0.000000: MOVE PLACE_6_3 PLACE_6_4
+----------PCS:
+(AT PLACE_6_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_4)
+----------DELS:
+(AT PLACE_6_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 69 of op 69 cost 0.000000: MOVE PLACE_6_3 PLACE_7_3
+----------PCS:
+(AT PLACE_6_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_3)
+----------DELS:
+(AT PLACE_6_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 70 of op 70 cost 0.000000: MOVE PLACE_7_2 PLACE_6_2
+----------PCS:
+(AT PLACE_7_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_2)
+----------DELS:
+(AT PLACE_7_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 71 of op 71 cost 0.000000: MOVE PLACE_7_2 PLACE_7_3
+----------PCS:
+(AT PLACE_7_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_3)
+----------DELS:
+(AT PLACE_7_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 72 of op 72 cost 0.000000: MOVE PLACE_7_2 PLACE_8_2
+----------PCS:
+(AT PLACE_7_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_8_2)
+----------DELS:
+(AT PLACE_7_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 73 of op 73 cost 0.000000: MOVE PLACE_3_5 PLACE_2_5
+----------PCS:
+(AT PLACE_3_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_5)
+----------DELS:
+(AT PLACE_3_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 74 of op 74 cost 0.000000: MOVE PLACE_3_5 PLACE_3_4
+----------PCS:
+(AT PLACE_3_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_4)
+----------DELS:
+(AT PLACE_3_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 75 of op 75 cost 0.000000: MOVE PLACE_3_5 PLACE_4_5
+----------PCS:
+(AT PLACE_3_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_5)
+----------DELS:
+(AT PLACE_3_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 76 of op 76 cost 0.000000: MOVE PLACE_4_4 PLACE_3_4
+----------PCS:
+(AT PLACE_4_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_4)
+----------DELS:
+(AT PLACE_4_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 77 of op 77 cost 0.000000: MOVE PLACE_4_4 PLACE_4_3
+----------PCS:
+(AT PLACE_4_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_3)
+----------DELS:
+(AT PLACE_4_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 78 of op 78 cost 0.000000: MOVE PLACE_4_4 PLACE_4_5
+----------PCS:
+(AT PLACE_4_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_5)
+----------DELS:
+(AT PLACE_4_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 79 of op 79 cost 0.000000: MOVE PLACE_4_4 PLACE_5_4
+----------PCS:
+(AT PLACE_4_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_4)
+----------DELS:
+(AT PLACE_4_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 80 of op 80 cost 0.000000: MOVE PLACE_5_3 PLACE_4_3
+----------PCS:
+(AT PLACE_5_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_3)
+----------DELS:
+(AT PLACE_5_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 81 of op 81 cost 0.000000: MOVE PLACE_5_3 PLACE_5_2
+----------PCS:
+(AT PLACE_5_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_2)
+----------DELS:
+(AT PLACE_5_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 82 of op 82 cost 0.000000: MOVE PLACE_5_3 PLACE_5_4
+----------PCS:
+(AT PLACE_5_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_4)
+----------DELS:
+(AT PLACE_5_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 83 of op 83 cost 0.000000: MOVE PLACE_5_3 PLACE_6_3
+----------PCS:
+(AT PLACE_5_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_3)
+----------DELS:
+(AT PLACE_5_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 84 of op 84 cost 0.000000: MOVE PLACE_6_2 PLACE_5_2
+----------PCS:
+(AT PLACE_6_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_2)
+----------DELS:
+(AT PLACE_6_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 85 of op 85 cost 0.000000: MOVE PLACE_6_2 PLACE_6_3
+----------PCS:
+(AT PLACE_6_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_3)
+----------DELS:
+(AT PLACE_6_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 86 of op 86 cost 0.000000: MOVE PLACE_6_2 PLACE_7_2
+----------PCS:
+(AT PLACE_6_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_7_2)
+----------DELS:
+(AT PLACE_6_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 87 of op 87 cost 0.000000: MOVE PLACE_2_5 PLACE_2_4
+----------PCS:
+(AT PLACE_2_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_4)
+----------DELS:
+(AT PLACE_2_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 88 of op 88 cost 0.000000: MOVE PLACE_2_5 PLACE_3_5
+----------PCS:
+(AT PLACE_2_5)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_5)
+----------DELS:
+(AT PLACE_2_5)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 89 of op 89 cost 0.000000: MOVE PLACE_3_4 PLACE_2_4
+----------PCS:
+(AT PLACE_3_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_4)
+----------DELS:
+(AT PLACE_3_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 90 of op 90 cost 0.000000: MOVE PLACE_3_4 PLACE_3_3
+----------PCS:
+(AT PLACE_3_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_3)
+----------DELS:
+(AT PLACE_3_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 91 of op 91 cost 0.000000: MOVE PLACE_3_4 PLACE_3_5
+----------PCS:
+(AT PLACE_3_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_5)
+----------DELS:
+(AT PLACE_3_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 92 of op 92 cost 0.000000: MOVE PLACE_3_4 PLACE_4_4
+----------PCS:
+(AT PLACE_3_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_4)
+----------DELS:
+(AT PLACE_3_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 93 of op 93 cost 0.000000: MOVE PLACE_4_3 PLACE_3_3
+----------PCS:
+(AT PLACE_4_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_3)
+----------DELS:
+(AT PLACE_4_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 94 of op 94 cost 0.000000: MOVE PLACE_4_3 PLACE_4_2
+----------PCS:
+(AT PLACE_4_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_2)
+----------DELS:
+(AT PLACE_4_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 95 of op 95 cost 0.000000: MOVE PLACE_4_3 PLACE_4_4
+----------PCS:
+(AT PLACE_4_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_4)
+----------DELS:
+(AT PLACE_4_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 96 of op 96 cost 0.000000: MOVE PLACE_4_3 PLACE_5_3
+----------PCS:
+(AT PLACE_4_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_3)
+----------DELS:
+(AT PLACE_4_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 97 of op 97 cost 0.000000: MOVE PLACE_5_2 PLACE_4_2
+----------PCS:
+(AT PLACE_5_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_2)
+----------DELS:
+(AT PLACE_5_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 98 of op 98 cost 0.000000: MOVE PLACE_5_2 PLACE_5_3
+----------PCS:
+(AT PLACE_5_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_3)
+----------DELS:
+(AT PLACE_5_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 99 of op 99 cost 0.000000: MOVE PLACE_5_2 PLACE_6_2
+----------PCS:
+(AT PLACE_5_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_6_2)
+----------DELS:
+(AT PLACE_5_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 100 of op 100 cost 0.000000: MOVE PLACE_2_4 PLACE_2_3
+----------PCS:
+(AT PLACE_2_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_3)
+----------DELS:
+(AT PLACE_2_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 101 of op 101 cost 0.000000: MOVE PLACE_2_4 PLACE_2_5
+----------PCS:
+(AT PLACE_2_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_5)
+----------DELS:
+(AT PLACE_2_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 102 of op 102 cost 0.000000: MOVE PLACE_2_4 PLACE_3_4
+----------PCS:
+(AT PLACE_2_4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_4)
+----------DELS:
+(AT PLACE_2_4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 103 of op 103 cost 0.000000: MOVE PLACE_3_3 PLACE_2_3
+----------PCS:
+(AT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_3)
+----------DELS:
+(AT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 104 of op 104 cost 0.000000: MOVE PLACE_3_3 PLACE_3_2
+----------PCS:
+(AT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_2)
+----------DELS:
+(AT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 105 of op 105 cost 0.000000: MOVE PLACE_3_3 PLACE_3_4
+----------PCS:
+(AT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_4)
+----------DELS:
+(AT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 106 of op 106 cost 0.000000: MOVE PLACE_3_3 PLACE_4_3
+----------PCS:
+(AT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_3)
+----------DELS:
+(AT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 107 of op 107 cost 0.000000: MOVE PLACE_4_2 PLACE_3_2
+----------PCS:
+(AT PLACE_4_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_2)
+----------DELS:
+(AT PLACE_4_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 108 of op 108 cost 0.000000: MOVE PLACE_4_2 PLACE_4_3
+----------PCS:
+(AT PLACE_4_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_3)
+----------DELS:
+(AT PLACE_4_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 109 of op 109 cost 0.000000: MOVE PLACE_4_2 PLACE_5_2
+----------PCS:
+(AT PLACE_4_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_5_2)
+----------DELS:
+(AT PLACE_4_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 110 of op 110 cost 0.000000: MOVE PLACE_2_3 PLACE_2_2
+----------PCS:
+(AT PLACE_2_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_2)
+----------DELS:
+(AT PLACE_2_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 111 of op 111 cost 0.000000: MOVE PLACE_2_3 PLACE_2_4
+----------PCS:
+(AT PLACE_2_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_4)
+----------DELS:
+(AT PLACE_2_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 112 of op 112 cost 0.000000: MOVE PLACE_2_3 PLACE_3_3
+----------PCS:
+(AT PLACE_2_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_3)
+----------DELS:
+(AT PLACE_2_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 113 of op 113 cost 0.000000: MOVE PLACE_3_2 PLACE_2_2
+----------PCS:
+(AT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_2)
+----------DELS:
+(AT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 114 of op 114 cost 0.000000: MOVE PLACE_3_2 PLACE_3_3
+----------PCS:
+(AT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_3)
+----------DELS:
+(AT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 115 of op 115 cost 0.000000: MOVE PLACE_3_2 PLACE_4_2
+----------PCS:
+(AT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_4_2)
+----------DELS:
+(AT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 116 of op 116 cost 0.000000: MOVE PLACE_2_2 PLACE_2_3
+----------PCS:
+(AT PLACE_2_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_2_3)
+----------DELS:
+(AT PLACE_2_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 117 of op 117 cost 0.000000: MOVE PLACE_2_2 PLACE_3_2
+----------PCS:
+(AT PLACE_2_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT PLACE_3_2)
+----------DELS:
+(AT PLACE_2_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+----------------------FT ARRAY:-----------------------------
+
+FT: (AT PLACE_3_2) rand: 1352541
+----------PRE COND OF:
+effect 113 - op MOVE PLACE_3_2 PLACE_2_2
+effect 114 - op MOVE PLACE_3_2 PLACE_3_3
+effect 115 - op MOVE PLACE_3_2 PLACE_4_2
+----------ADD BY:
+effect 104 - op MOVE PLACE_3_3 PLACE_3_2
+effect 107 - op MOVE PLACE_4_2 PLACE_3_2
+effect 117 - op MOVE PLACE_2_2 PLACE_3_2
+----------DEL BY:
+effect 113 - op MOVE PLACE_3_2 PLACE_2_2
+effect 114 - op MOVE PLACE_3_2 PLACE_3_3
+effect 115 - op MOVE PLACE_3_2 PLACE_4_2
+
+FT: (AT PLACE_2_3) rand: 1488985
+----------PRE COND OF:
+effect 110 - op MOVE PLACE_2_3 PLACE_2_2
+effect 111 - op MOVE PLACE_2_3 PLACE_2_4
+effect 112 - op MOVE PLACE_2_3 PLACE_3_3
+----------ADD BY:
+effect 100 - op MOVE PLACE_2_4 PLACE_2_3
+effect 103 - op MOVE PLACE_3_3 PLACE_2_3
+effect 116 - op MOVE PLACE_2_2 PLACE_2_3
+----------DEL BY:
+effect 110 - op MOVE PLACE_2_3 PLACE_2_2
+effect 111 - op MOVE PLACE_2_3 PLACE_2_4
+effect 112 - op MOVE PLACE_2_3 PLACE_3_3
+
+FT: (AT PLACE_4_2) rand: 1401112
+----------PRE COND OF:
+effect 107 - op MOVE PLACE_4_2 PLACE_3_2
+effect 108 - op MOVE PLACE_4_2 PLACE_4_3
+effect 109 - op MOVE PLACE_4_2 PLACE_5_2
+----------ADD BY:
+effect 94 - op MOVE PLACE_4_3 PLACE_4_2
+effect 97 - op MOVE PLACE_5_2 PLACE_4_2
+effect 115 - op MOVE PLACE_3_2 PLACE_4_2
+----------DEL BY:
+effect 107 - op MOVE PLACE_4_2 PLACE_3_2
+effect 108 - op MOVE PLACE_4_2 PLACE_4_3
+effect 109 - op MOVE PLACE_4_2 PLACE_5_2
+
+FT: (AT PLACE_3_3) rand: 1455665
+----------PRE COND OF:
+effect 103 - op MOVE PLACE_3_3 PLACE_2_3
+effect 104 - op MOVE PLACE_3_3 PLACE_3_2
+effect 105 - op MOVE PLACE_3_3 PLACE_3_4
+effect 106 - op MOVE PLACE_3_3 PLACE_4_3
+----------ADD BY:
+effect 90 - op MOVE PLACE_3_4 PLACE_3_3
+effect 93 - op MOVE PLACE_4_3 PLACE_3_3
+effect 112 - op MOVE PLACE_2_3 PLACE_3_3
+effect 114 - op MOVE PLACE_3_2 PLACE_3_3
+----------DEL BY:
+effect 103 - op MOVE PLACE_3_3 PLACE_2_3
+effect 104 - op MOVE PLACE_3_3 PLACE_3_2
+effect 105 - op MOVE PLACE_3_3 PLACE_3_4
+effect 106 - op MOVE PLACE_3_3 PLACE_4_3
+
+FT: (AT PLACE_2_4) rand: 1311308
+----------PRE COND OF:
+effect 100 - op MOVE PLACE_2_4 PLACE_2_3
+effect 101 - op MOVE PLACE_2_4 PLACE_2_5
+effect 102 - op MOVE PLACE_2_4 PLACE_3_4
+----------ADD BY:
+effect 87 - op MOVE PLACE_2_5 PLACE_2_4
+effect 89 - op MOVE PLACE_3_4 PLACE_2_4
+effect 111 - op MOVE PLACE_2_3 PLACE_2_4
+----------DEL BY:
+effect 100 - op MOVE PLACE_2_4 PLACE_2_3
+effect 101 - op MOVE PLACE_2_4 PLACE_2_5
+effect 102 - op MOVE PLACE_2_4 PLACE_3_4
+
+FT: (AT PLACE_5_2) rand: 587285
+----------PRE COND OF:
+effect 97 - op MOVE PLACE_5_2 PLACE_4_2
+effect 98 - op MOVE PLACE_5_2 PLACE_5_3
+effect 99 - op MOVE PLACE_5_2 PLACE_6_2
+----------ADD BY:
+effect 81 - op MOVE PLACE_5_3 PLACE_5_2
+effect 84 - op MOVE PLACE_6_2 PLACE_5_2
+effect 109 - op MOVE PLACE_4_2 PLACE_5_2
+----------DEL BY:
+effect 97 - op MOVE PLACE_5_2 PLACE_4_2
+effect 98 - op MOVE PLACE_5_2 PLACE_5_3
+effect 99 - op MOVE PLACE_5_2 PLACE_6_2
+
+FT: (AT PLACE_4_3) rand: 963286
+----------PRE COND OF:
+effect 93 - op MOVE PLACE_4_3 PLACE_3_3
+effect 94 - op MOVE PLACE_4_3 PLACE_4_2
+effect 95 - op MOVE PLACE_4_3 PLACE_4_4
+effect 96 - op MOVE PLACE_4_3 PLACE_5_3
+----------ADD BY:
+effect 77 - op MOVE PLACE_4_4 PLACE_4_3
+effect 80 - op MOVE PLACE_5_3 PLACE_4_3
+effect 106 - op MOVE PLACE_3_3 PLACE_4_3
+effect 108 - op MOVE PLACE_4_2 PLACE_4_3
+----------DEL BY:
+effect 93 - op MOVE PLACE_4_3 PLACE_3_3
+effect 94 - op MOVE PLACE_4_3 PLACE_4_2
+effect 95 - op MOVE PLACE_4_3 PLACE_4_4
+effect 96 - op MOVE PLACE_4_3 PLACE_5_3
+
+FT: (AT PLACE_3_4) rand: 287043
+----------PRE COND OF:
+effect 89 - op MOVE PLACE_3_4 PLACE_2_4
+effect 90 - op MOVE PLACE_3_4 PLACE_3_3
+effect 91 - op MOVE PLACE_3_4 PLACE_3_5
+effect 92 - op MOVE PLACE_3_4 PLACE_4_4
+----------ADD BY:
+effect 74 - op MOVE PLACE_3_5 PLACE_3_4
+effect 76 - op MOVE PLACE_4_4 PLACE_3_4
+effect 102 - op MOVE PLACE_2_4 PLACE_3_4
+effect 105 - op MOVE PLACE_3_3 PLACE_3_4
+----------DEL BY:
+effect 89 - op MOVE PLACE_3_4 PLACE_2_4
+effect 90 - op MOVE PLACE_3_4 PLACE_3_3
+effect 91 - op MOVE PLACE_3_4 PLACE_3_5
+effect 92 - op MOVE PLACE_3_4 PLACE_4_4
+
+FT: (AT PLACE_2_5) rand: 977002
+----------PRE COND OF:
+effect 87 - op MOVE PLACE_2_5 PLACE_2_4
+effect 88 - op MOVE PLACE_2_5 PLACE_3_5
+----------ADD BY:
+effect 73 - op MOVE PLACE_3_5 PLACE_2_5
+effect 101 - op MOVE PLACE_2_4 PLACE_2_5
+----------DEL BY:
+effect 87 - op MOVE PLACE_2_5 PLACE_2_4
+effect 88 - op MOVE PLACE_2_5 PLACE_3_5
+
+FT: (AT PLACE_6_2) rand: 729778
+----------PRE COND OF:
+effect 84 - op MOVE PLACE_6_2 PLACE_5_2
+effect 85 - op MOVE PLACE_6_2 PLACE_6_3
+effect 86 - op MOVE PLACE_6_2 PLACE_7_2
+----------ADD BY:
+effect 67 - op MOVE PLACE_6_3 PLACE_6_2
+effect 70 - op MOVE PLACE_7_2 PLACE_6_2
+effect 99 - op MOVE PLACE_5_2 PLACE_6_2
+----------DEL BY:
+effect 84 - op MOVE PLACE_6_2 PLACE_5_2
+effect 85 - op MOVE PLACE_6_2 PLACE_6_3
+effect 86 - op MOVE PLACE_6_2 PLACE_7_2
+
+FT: (AT PLACE_5_3) rand: 441935
+----------PRE COND OF:
+effect 80 - op MOVE PLACE_5_3 PLACE_4_3
+effect 81 - op MOVE PLACE_5_3 PLACE_5_2
+effect 82 - op MOVE PLACE_5_3 PLACE_5_4
+effect 83 - op MOVE PLACE_5_3 PLACE_6_3
+----------ADD BY:
+effect 63 - op MOVE PLACE_5_4 PLACE_5_3
+effect 66 - op MOVE PLACE_6_3 PLACE_5_3
+effect 96 - op MOVE PLACE_4_3 PLACE_5_3
+effect 98 - op MOVE PLACE_5_2 PLACE_5_3
+----------DEL BY:
+effect 80 - op MOVE PLACE_5_3 PLACE_4_3
+effect 81 - op MOVE PLACE_5_3 PLACE_5_2
+effect 82 - op MOVE PLACE_5_3 PLACE_5_4
+effect 83 - op MOVE PLACE_5_3 PLACE_6_3
+
+FT: (AT PLACE_4_4) rand: 365323
+----------PRE COND OF:
+effect 76 - op MOVE PLACE_4_4 PLACE_3_4
+effect 77 - op MOVE PLACE_4_4 PLACE_4_3
+effect 78 - op MOVE PLACE_4_4 PLACE_4_5
+effect 79 - op MOVE PLACE_4_4 PLACE_5_4
+----------ADD BY:
+effect 60 - op MOVE PLACE_4_5 PLACE_4_4
+effect 62 - op MOVE PLACE_5_4 PLACE_4_4
+effect 92 - op MOVE PLACE_3_4 PLACE_4_4
+effect 95 - op MOVE PLACE_4_3 PLACE_4_4
+----------DEL BY:
+effect 76 - op MOVE PLACE_4_4 PLACE_3_4
+effect 77 - op MOVE PLACE_4_4 PLACE_4_3
+effect 78 - op MOVE PLACE_4_4 PLACE_4_5
+effect 79 - op MOVE PLACE_4_4 PLACE_5_4
+
+FT: (AT PLACE_3_5) rand: 553605
+----------PRE COND OF:
+effect 73 - op MOVE PLACE_3_5 PLACE_2_5
+effect 74 - op MOVE PLACE_3_5 PLACE_3_4
+effect 75 - op MOVE PLACE_3_5 PLACE_4_5
+----------ADD BY:
+effect 59 - op MOVE PLACE_4_5 PLACE_3_5
+effect 88 - op MOVE PLACE_2_5 PLACE_3_5
+effect 91 - op MOVE PLACE_3_4 PLACE_3_5
+----------DEL BY:
+effect 73 - op MOVE PLACE_3_5 PLACE_2_5
+effect 74 - op MOVE PLACE_3_5 PLACE_3_4
+effect 75 - op MOVE PLACE_3_5 PLACE_4_5
+
+FT: (AT PLACE_7_2) rand: 359093
+----------PRE COND OF:
+effect 70 - op MOVE PLACE_7_2 PLACE_6_2
+effect 71 - op MOVE PLACE_7_2 PLACE_7_3
+effect 72 - op MOVE PLACE_7_2 PLACE_8_2
+----------ADD BY:
+effect 53 - op MOVE PLACE_7_3 PLACE_7_2
+effect 56 - op MOVE PLACE_8_2 PLACE_7_2
+effect 86 - op MOVE PLACE_6_2 PLACE_7_2
+----------DEL BY:
+effect 70 - op MOVE PLACE_7_2 PLACE_6_2
+effect 71 - op MOVE PLACE_7_2 PLACE_7_3
+effect 72 - op MOVE PLACE_7_2 PLACE_8_2
+
+FT: (AT PLACE_6_3) rand: 851842
+----------PRE COND OF:
+effect 66 - op MOVE PLACE_6_3 PLACE_5_3
+effect 67 - op MOVE PLACE_6_3 PLACE_6_2
+effect 68 - op MOVE PLACE_6_3 PLACE_6_4
+effect 69 - op MOVE PLACE_6_3 PLACE_7_3
+----------ADD BY:
+effect 49 - op MOVE PLACE_6_4 PLACE_6_3
+effect 52 - op MOVE PLACE_7_3 PLACE_6_3
+effect 83 - op MOVE PLACE_5_3 PLACE_6_3
+effect 85 - op MOVE PLACE_6_2 PLACE_6_3
+----------DEL BY:
+effect 66 - op MOVE PLACE_6_3 PLACE_5_3
+effect 67 - op MOVE PLACE_6_3 PLACE_6_2
+effect 68 - op MOVE PLACE_6_3 PLACE_6_4
+effect 69 - op MOVE PLACE_6_3 PLACE_7_3
+
+FT: (AT PLACE_5_4) rand: 1150616
+----------PRE COND OF:
+effect 62 - op MOVE PLACE_5_4 PLACE_4_4
+effect 63 - op MOVE PLACE_5_4 PLACE_5_3
+effect 64 - op MOVE PLACE_5_4 PLACE_5_5
+effect 65 - op MOVE PLACE_5_4 PLACE_6_4
+----------ADD BY:
+effect 46 - op MOVE PLACE_5_5 PLACE_5_4
+effect 48 - op MOVE PLACE_6_4 PLACE_5_4
+effect 79 - op MOVE PLACE_4_4 PLACE_5_4
+effect 82 - op MOVE PLACE_5_3 PLACE_5_4
+----------DEL BY:
+effect 62 - op MOVE PLACE_5_4 PLACE_4_4
+effect 63 - op MOVE PLACE_5_4 PLACE_5_3
+effect 64 - op MOVE PLACE_5_4 PLACE_5_5
+effect 65 - op MOVE PLACE_5_4 PLACE_6_4
+
+FT: (AT PLACE_4_5) rand: 26400
+----------PRE COND OF:
+effect 59 - op MOVE PLACE_4_5 PLACE_3_5
+effect 60 - op MOVE PLACE_4_5 PLACE_4_4
+effect 61 - op MOVE PLACE_4_5 PLACE_5_5
+----------ADD BY:
+effect 45 - op MOVE PLACE_5_5 PLACE_4_5
+effect 75 - op MOVE PLACE_3_5 PLACE_4_5
+effect 78 - op MOVE PLACE_4_4 PLACE_4_5
+----------DEL BY:
+effect 59 - op MOVE PLACE_4_5 PLACE_3_5
+effect 60 - op MOVE PLACE_4_5 PLACE_4_4
+effect 61 - op MOVE PLACE_4_5 PLACE_5_5
+
+FT: (AT PLACE_8_2) rand: 262092
+----------PRE COND OF:
+effect 56 - op MOVE PLACE_8_2 PLACE_7_2
+effect 57 - op MOVE PLACE_8_2 PLACE_8_3
+effect 58 - op MOVE PLACE_8_2 PLACE_9_2
+----------ADD BY:
+effect 39 - op MOVE PLACE_8_3 PLACE_8_2
+effect 43 - op MOVE PLACE_9_2 PLACE_8_2
+effect 72 - op MOVE PLACE_7_2 PLACE_8_2
+----------DEL BY:
+effect 56 - op MOVE PLACE_8_2 PLACE_7_2
+effect 57 - op MOVE PLACE_8_2 PLACE_8_3
+effect 58 - op MOVE PLACE_8_2 PLACE_9_2
+
+FT: (AT PLACE_7_3) rand: 652023
+----------PRE COND OF:
+effect 52 - op MOVE PLACE_7_3 PLACE_6_3
+effect 53 - op MOVE PLACE_7_3 PLACE_7_2
+effect 54 - op MOVE PLACE_7_3 PLACE_7_4
+effect 55 - op MOVE PLACE_7_3 PLACE_8_3
+----------ADD BY:
+effect 35 - op MOVE PLACE_7_4 PLACE_7_3
+effect 38 - op MOVE PLACE_8_3 PLACE_7_3
+effect 69 - op MOVE PLACE_6_3 PLACE_7_3
+effect 71 - op MOVE PLACE_7_2 PLACE_7_3
+----------DEL BY:
+effect 52 - op MOVE PLACE_7_3 PLACE_6_3
+effect 53 - op MOVE PLACE_7_3 PLACE_7_2
+effect 54 - op MOVE PLACE_7_3 PLACE_7_4
+effect 55 - op MOVE PLACE_7_3 PLACE_8_3
+
+FT: (AT PLACE_6_4) rand: 1157944
+----------PRE COND OF:
+effect 48 - op MOVE PLACE_6_4 PLACE_5_4
+effect 49 - op MOVE PLACE_6_4 PLACE_6_3
+effect 50 - op MOVE PLACE_6_4 PLACE_6_5
+effect 51 - op MOVE PLACE_6_4 PLACE_7_4
+----------ADD BY:
+effect 32 - op MOVE PLACE_6_5 PLACE_6_4
+effect 34 - op MOVE PLACE_7_4 PLACE_6_4
+effect 65 - op MOVE PLACE_5_4 PLACE_6_4
+effect 68 - op MOVE PLACE_6_3 PLACE_6_4
+----------DEL BY:
+effect 48 - op MOVE PLACE_6_4 PLACE_5_4
+effect 49 - op MOVE PLACE_6_4 PLACE_6_3
+effect 50 - op MOVE PLACE_6_4 PLACE_6_5
+effect 51 - op MOVE PLACE_6_4 PLACE_7_4
+
+FT: (AT PLACE_5_5) rand: 189951
+----------PRE COND OF:
+effect 45 - op MOVE PLACE_5_5 PLACE_4_5
+effect 46 - op MOVE PLACE_5_5 PLACE_5_4
+effect 47 - op MOVE PLACE_5_5 PLACE_6_5
+----------ADD BY:
+effect 31 - op MOVE PLACE_6_5 PLACE_5_5
+effect 61 - op MOVE PLACE_4_5 PLACE_5_5
+effect 64 - op MOVE PLACE_5_4 PLACE_5_5
+----------DEL BY:
+effect 45 - op MOVE PLACE_5_5 PLACE_4_5
+effect 46 - op MOVE PLACE_5_5 PLACE_5_4
+effect 47 - op MOVE PLACE_5_5 PLACE_6_5
+
+FT: (AT PLACE_9_2) rand: 278270
+----------PRE COND OF:
+effect 42 - op MOVE PLACE_9_2 PLACE_10_2
+effect 43 - op MOVE PLACE_9_2 PLACE_8_2
+effect 44 - op MOVE PLACE_9_2 PLACE_9_3
+----------ADD BY:
+effect 27 - op MOVE PLACE_9_3 PLACE_9_2
+effect 30 - op MOVE PLACE_10_2 PLACE_9_2
+effect 58 - op MOVE PLACE_8_2 PLACE_9_2
+----------DEL BY:
+effect 42 - op MOVE PLACE_9_2 PLACE_10_2
+effect 43 - op MOVE PLACE_9_2 PLACE_8_2
+effect 44 - op MOVE PLACE_9_2 PLACE_9_3
+
+FT: (AT PLACE_8_3) rand: 466540
+----------PRE COND OF:
+effect 38 - op MOVE PLACE_8_3 PLACE_7_3
+effect 39 - op MOVE PLACE_8_3 PLACE_8_2
+effect 40 - op MOVE PLACE_8_3 PLACE_8_4
+effect 41 - op MOVE PLACE_8_3 PLACE_9_3
+----------ADD BY:
+effect 22 - op MOVE PLACE_8_4 PLACE_8_3
+effect 26 - op MOVE PLACE_9_3 PLACE_8_3
+effect 55 - op MOVE PLACE_7_3 PLACE_8_3
+effect 57 - op MOVE PLACE_8_2 PLACE_8_3
+----------DEL BY:
+effect 38 - op MOVE PLACE_8_3 PLACE_7_3
+effect 39 - op MOVE PLACE_8_3 PLACE_8_2
+effect 40 - op MOVE PLACE_8_3 PLACE_8_4
+effect 41 - op MOVE PLACE_8_3 PLACE_9_3
+
+FT: (AT PLACE_7_4) rand: 1298622
+----------PRE COND OF:
+effect 34 - op MOVE PLACE_7_4 PLACE_6_4
+effect 35 - op MOVE PLACE_7_4 PLACE_7_3
+effect 36 - op MOVE PLACE_7_4 PLACE_7_5
+effect 37 - op MOVE PLACE_7_4 PLACE_8_4
+----------ADD BY:
+effect 19 - op MOVE PLACE_7_5 PLACE_7_4
+effect 21 - op MOVE PLACE_8_4 PLACE_7_4
+effect 51 - op MOVE PLACE_6_4 PLACE_7_4
+effect 54 - op MOVE PLACE_7_3 PLACE_7_4
+----------DEL BY:
+effect 34 - op MOVE PLACE_7_4 PLACE_6_4
+effect 35 - op MOVE PLACE_7_4 PLACE_7_3
+effect 36 - op MOVE PLACE_7_4 PLACE_7_5
+effect 37 - op MOVE PLACE_7_4 PLACE_8_4
+
+FT: (AT PLACE_6_5) rand: 1286189
+----------PRE COND OF:
+effect 31 - op MOVE PLACE_6_5 PLACE_5_5
+effect 32 - op MOVE PLACE_6_5 PLACE_6_4
+effect 33 - op MOVE PLACE_6_5 PLACE_7_5
+----------ADD BY:
+effect 18 - op MOVE PLACE_7_5 PLACE_6_5
+effect 47 - op MOVE PLACE_5_5 PLACE_6_5
+effect 50 - op MOVE PLACE_6_4 PLACE_6_5
+----------DEL BY:
+effect 31 - op MOVE PLACE_6_5 PLACE_5_5
+effect 32 - op MOVE PLACE_6_5 PLACE_6_4
+effect 33 - op MOVE PLACE_6_5 PLACE_7_5
+
+FT: (AT PLACE_9_3) rand: 369011
+----------PRE COND OF:
+effect 25 - op MOVE PLACE_9_3 PLACE_10_3
+effect 26 - op MOVE PLACE_9_3 PLACE_8_3
+effect 27 - op MOVE PLACE_9_3 PLACE_9_2
+effect 28 - op MOVE PLACE_9_3 PLACE_9_4
+----------ADD BY:
+effect 13 - op MOVE PLACE_9_4 PLACE_9_3
+effect 17 - op MOVE PLACE_10_3 PLACE_9_3
+effect 41 - op MOVE PLACE_8_3 PLACE_9_3
+effect 44 - op MOVE PLACE_9_2 PLACE_9_3
+----------DEL BY:
+effect 25 - op MOVE PLACE_9_3 PLACE_10_3
+effect 26 - op MOVE PLACE_9_3 PLACE_8_3
+effect 27 - op MOVE PLACE_9_3 PLACE_9_2
+effect 28 - op MOVE PLACE_9_3 PLACE_9_4
+
+FT: (AT PLACE_10_2) rand: 634620
+----------PRE COND OF:
+effect 29 - op MOVE PLACE_10_2 PLACE_10_3
+effect 30 - op MOVE PLACE_10_2 PLACE_9_2
+----------ADD BY:
+effect 15 - op MOVE PLACE_10_3 PLACE_10_2
+effect 42 - op MOVE PLACE_9_2 PLACE_10_2
+----------DEL BY:
+effect 29 - op MOVE PLACE_10_2 PLACE_10_3
+effect 30 - op MOVE PLACE_10_2 PLACE_9_2
+
+FT: (AT PLACE_8_4) rand: 111028
+----------PRE COND OF:
+effect 21 - op MOVE PLACE_8_4 PLACE_7_4
+effect 22 - op MOVE PLACE_8_4 PLACE_8_3
+effect 23 - op MOVE PLACE_8_4 PLACE_8_5
+effect 24 - op MOVE PLACE_8_4 PLACE_9_4
+----------ADD BY:
+effect 9 - op MOVE PLACE_8_5 PLACE_8_4
+effect 12 - op MOVE PLACE_9_4 PLACE_8_4
+effect 37 - op MOVE PLACE_7_4 PLACE_8_4
+effect 40 - op MOVE PLACE_8_3 PLACE_8_4
+----------DEL BY:
+effect 21 - op MOVE PLACE_8_4 PLACE_7_4
+effect 22 - op MOVE PLACE_8_4 PLACE_8_3
+effect 23 - op MOVE PLACE_8_4 PLACE_8_5
+effect 24 - op MOVE PLACE_8_4 PLACE_9_4
+
+FT: (AT PLACE_7_5) rand: 237557
+----------PRE COND OF:
+effect 18 - op MOVE PLACE_7_5 PLACE_6_5
+effect 19 - op MOVE PLACE_7_5 PLACE_7_4
+effect 20 - op MOVE PLACE_7_5 PLACE_8_5
+----------ADD BY:
+effect 8 - op MOVE PLACE_8_5 PLACE_7_5
+effect 33 - op MOVE PLACE_6_5 PLACE_7_5
+effect 36 - op MOVE PLACE_7_4 PLACE_7_5
+----------DEL BY:
+effect 18 - op MOVE PLACE_7_5 PLACE_6_5
+effect 19 - op MOVE PLACE_7_5 PLACE_7_4
+effect 20 - op MOVE PLACE_7_5 PLACE_8_5
+
+FT: (AT PLACE_10_3) rand: 796575
+----------PRE COND OF:
+effect 15 - op MOVE PLACE_10_3 PLACE_10_2
+effect 16 - op MOVE PLACE_10_3 PLACE_10_4
+effect 17 - op MOVE PLACE_10_3 PLACE_9_3
+----------ADD BY:
+effect 5 - op MOVE PLACE_10_4 PLACE_10_3
+effect 25 - op MOVE PLACE_9_3 PLACE_10_3
+effect 29 - op MOVE PLACE_10_2 PLACE_10_3
+----------DEL BY:
+effect 15 - op MOVE PLACE_10_3 PLACE_10_2
+effect 16 - op MOVE PLACE_10_3 PLACE_10_4
+effect 17 - op MOVE PLACE_10_3 PLACE_9_3
+
+FT: (AT PLACE_9_4) rand: 1358455
+----------PRE COND OF:
+effect 11 - op MOVE PLACE_9_4 PLACE_10_4
+effect 12 - op MOVE PLACE_9_4 PLACE_8_4
+effect 13 - op MOVE PLACE_9_4 PLACE_9_3
+effect 14 - op MOVE PLACE_9_4 PLACE_9_5
+----------ADD BY:
+effect 4 - op MOVE PLACE_9_5 PLACE_9_4
+effect 7 - op MOVE PLACE_10_4 PLACE_9_4
+effect 24 - op MOVE PLACE_8_4 PLACE_9_4
+effect 28 - op MOVE PLACE_9_3 PLACE_9_4
+----------DEL BY:
+effect 11 - op MOVE PLACE_9_4 PLACE_10_4
+effect 12 - op MOVE PLACE_9_4 PLACE_8_4
+effect 13 - op MOVE PLACE_9_4 PLACE_9_3
+effect 14 - op MOVE PLACE_9_4 PLACE_9_5
+
+FT: (AT PLACE_8_5) rand: 606450
+----------PRE COND OF:
+effect 8 - op MOVE PLACE_8_5 PLACE_7_5
+effect 9 - op MOVE PLACE_8_5 PLACE_8_4
+effect 10 - op MOVE PLACE_8_5 PLACE_9_5
+----------ADD BY:
+effect 3 - op MOVE PLACE_9_5 PLACE_8_5
+effect 20 - op MOVE PLACE_7_5 PLACE_8_5
+effect 23 - op MOVE PLACE_8_4 PLACE_8_5
+----------DEL BY:
+effect 8 - op MOVE PLACE_8_5 PLACE_7_5
+effect 9 - op MOVE PLACE_8_5 PLACE_8_4
+effect 10 - op MOVE PLACE_8_5 PLACE_9_5
+
+FT: (AT PLACE_10_4) rand: 1301912
+----------PRE COND OF:
+effect 5 - op MOVE PLACE_10_4 PLACE_10_3
+effect 6 - op MOVE PLACE_10_4 PLACE_10_5
+effect 7 - op MOVE PLACE_10_4 PLACE_9_4
+----------ADD BY:
+effect 0 - op MOVE PLACE_10_5 PLACE_10_4
+effect 11 - op MOVE PLACE_9_4 PLACE_10_4
+effect 16 - op MOVE PLACE_10_3 PLACE_10_4
+----------DEL BY:
+effect 5 - op MOVE PLACE_10_4 PLACE_10_3
+effect 6 - op MOVE PLACE_10_4 PLACE_10_5
+effect 7 - op MOVE PLACE_10_4 PLACE_9_4
+
+FT: (AT PLACE_9_5) rand: 275919
+----------PRE COND OF:
+effect 2 - op MOVE PLACE_9_5 PLACE_10_5
+effect 3 - op MOVE PLACE_9_5 PLACE_8_5
+effect 4 - op MOVE PLACE_9_5 PLACE_9_4
+----------ADD BY:
+effect 1 - op MOVE PLACE_10_5 PLACE_9_5
+effect 10 - op MOVE PLACE_8_5 PLACE_9_5
+effect 14 - op MOVE PLACE_9_4 PLACE_9_5
+----------DEL BY:
+effect 2 - op MOVE PLACE_9_5 PLACE_10_5
+effect 3 - op MOVE PLACE_9_5 PLACE_8_5
+effect 4 - op MOVE PLACE_9_5 PLACE_9_4
+
+FT: (AT PLACE_10_5) rand: 562116
+----------PRE COND OF:
+effect 0 - op MOVE PLACE_10_5 PLACE_10_4
+effect 1 - op MOVE PLACE_10_5 PLACE_9_5
+----------ADD BY:
+effect 2 - op MOVE PLACE_9_5 PLACE_10_5
+effect 6 - op MOVE PLACE_10_4 PLACE_10_5
+----------DEL BY:
+effect 0 - op MOVE PLACE_10_5 PLACE_10_4
+effect 1 - op MOVE PLACE_10_5 PLACE_9_5
+
+FT: (AT PLACE_2_2) rand: 1113221
+----------PRE COND OF:
+effect 116 - op MOVE PLACE_2_2 PLACE_2_3
+effect 117 - op MOVE PLACE_2_2 PLACE_3_2
+----------ADD BY:
+effect 110 - op MOVE PLACE_2_3 PLACE_2_2
+effect 113 - op MOVE PLACE_3_2 PLACE_2_2
+----------DEL BY:
+effect 116 - op MOVE PLACE_2_2 PLACE_2_3
+effect 117 - op MOVE PLACE_2_2 PLACE_3_2
+
+----------------------FLUENT ARRAY:-----------------------------
+
+----------------------GOAL:-----------------------------
+(AT PLACE_8_2)
+DIRECT: 
+
+
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+Cueing down from goal distance:    6 into depth [1]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_2_2 PLACE_3_2
+        1: MOVE PLACE_3_2 PLACE_4_2
+        2: MOVE PLACE_4_2 PLACE_5_2
+        3: MOVE PLACE_5_2 PLACE_6_2
+        4: MOVE PLACE_6_2 PLACE_7_2
+        5: MOVE PLACE_7_2 PLACE_8_2
+     
+
+time spent:    0.00 seconds instantiating 118 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 36 facts and 118 actions
+               0.00 seconds creating final representation with 36 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 7 states, to a max depth of 1
+               0.00 seconds total time
+
+

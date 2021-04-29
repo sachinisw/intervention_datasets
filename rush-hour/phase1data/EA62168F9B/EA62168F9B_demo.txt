@@ -1,0 +1,10 @@
+Subject:EA62168F9B
+ Q1:"26 – 30"
+ Q2:"Male"
+ Q3:"3"
+ Q4:"4"
+ Q5:["critical thinking","fun","challenge","q5other"]		"Smiluate my driving habits"		
+ Q6:"Once every 2-3 weeks"		""		
+ Q7:"q7other"		"Ask for help and keep trying untill I solve it or lose interest and Depending on nature of puzzle and game, I may give up"		
+ Q8:"suggestion"		""		
+ Q9:["mobile","paper"]		""		

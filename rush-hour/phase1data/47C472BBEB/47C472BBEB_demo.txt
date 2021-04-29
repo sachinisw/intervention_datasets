@@ -1,0 +1,10 @@
+Subject:47C472BBEB
+ Q1:"41+"
+ Q2:"Male"
+ Q3:"4"
+ Q4:"5"
+ Q5:["critical thinking"]		""		
+ Q6:"Once a month"		""		
+ Q7:"Give up"		""		
+ Q8:"suggestion"		""		
+ Q9:["paper"]		""		

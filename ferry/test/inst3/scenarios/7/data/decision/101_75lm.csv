@@ -1,0 +1,4 @@
+o,C,R,D,Fo,DistToCritical,DistToDesirable,CurrentHasLM,Label
+SAIL L1 L4,0.25,1.0,0.0,2.25,0,-1,0.5,Y
+SAIL L4 L5,0.33,0.0,0.0,1.33,12,18,0.25,N
+DEBARK C1 L5,1.0,0.0,1.0,1.0,-1,0,0.25,N

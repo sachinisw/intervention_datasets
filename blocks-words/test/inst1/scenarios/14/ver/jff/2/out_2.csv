@@ -1,0 +1,6 @@
+N:,PICK-UP U,null
+N:,STACK U E,null
+N:,PICK-UP C,desirable:(ON C U)(ON U E)
+N:,STACK C U,desirable:(ON C U)(ON U E)
+N:,PICK-UP R,desirable:(ON C U)(ON U E)
+N:,STACK R C,desirable:(ON C U)(ON U E)

@@ -1,0 +1,1997 @@
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/0/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_2_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_2_10
+observation :: MOVE PLACE_2_10 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/1/obs/7
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+observation :: MOVE PLACE_3_10 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+observation :: MOVE PLACE_3_10 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/2/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/10
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/100
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/101
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+observation :: MOVE PLACE_4_10 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/102
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/103
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/104
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+observation :: MOVE PLACE_4_10 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/105
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+observation :: MOVE PLACE_5_9 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/3/obs/106
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+observation :: MOVE PLACE_3_10 PLACE_4_10
+observation :: MOVE PLACE_4_10 PLACE_5_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/4/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/5/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/6/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/10
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/11
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/12
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/13
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/14
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/15
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/16
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/7/obs/17
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+observation :: MOVE PLACE_5_7 PLACE_5_8
+observation :: MOVE PLACE_5_8 PLACE_5_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/8/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/9/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/9/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/9/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/9/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/9/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/10/obs/4
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/11/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/12/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/13/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/14/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_2_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_2_10
+observation :: MOVE PLACE_2_10 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/15/obs/7
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+observation :: MOVE PLACE_3_10 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+observation :: MOVE PLACE_4_8 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_3_10
+observation :: MOVE PLACE_3_10 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/16/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_2_9
+observation :: MOVE PLACE_2_9 PLACE_3_9
+observation :: MOVE PLACE_3_9 PLACE_4_9
+observation :: MOVE PLACE_4_9 PLACE_4_10
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/17/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/18/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_2_8
+observation :: MOVE PLACE_2_8 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_3_8
+observation :: MOVE PLACE_3_8 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst2/scenarios/19/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_4_8
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/0/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/1/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/1/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/1/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/1/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/1/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/2/obs/4
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/10
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/11
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/12
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/13
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/14
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/3/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/4/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/5/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/5/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/5/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/5/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/7
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/8
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/6/obs/9
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_5_4
+observation :: MOVE PLACE_5_4 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/7/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/8/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/9/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/9/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/9/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/9/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/9/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/10/obs/4
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/11/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/11/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/11/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/11/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/11/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/12/obs/4
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/10
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/11
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/12
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/13
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/14
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/13/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/14/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/14/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/14/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_2_7
+observation :: MOVE PLACE_2_7 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/14/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/14/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/10
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/11
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/12
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/13
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/14
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/15/obs/4
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/10
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/11
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_5_5
+observation :: MOVE PLACE_5_5 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/12
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/13
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/14
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/15
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_5_6
+observation :: MOVE PLACE_5_6 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/16
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+observation :: MOVE PLACE_4_6 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/16/obs/17
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_3_7
+observation :: MOVE PLACE_3_7 PLACE_4_7
+observation :: MOVE PLACE_4_7 PLACE_5_7
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/17/obs/0
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/18/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/18/obs/1
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/18/obs/2
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/18/obs/3
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/0
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_4_3
+observation :: MOVE PLACE_4_3 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/1
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/2
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/3
+observation :: MOVE PLACE_2_3 PLACE_3_3
+observation :: MOVE PLACE_3_3 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/4
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_2_6
+observation :: MOVE PLACE_2_6 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/5
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/6
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_2_5
+observation :: MOVE PLACE_2_5 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/7
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_4_4
+observation :: MOVE PLACE_4_4 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/8
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_4_5
+observation :: MOVE PLACE_4_5 PLACE_4_6
+Current file::   /home/sachini/domains/NAVIGATOR/scenarios/TEST0/inst3/scenarios/19/obs/9
+observation :: MOVE PLACE_2_3 PLACE_2_4
+observation :: MOVE PLACE_2_4 PLACE_3_4
+observation :: MOVE PLACE_3_4 PLACE_3_5
+observation :: MOVE PLACE_3_5 PLACE_3_6
+observation :: MOVE PLACE_3_6 PLACE_4_6

@@ -1,0 +1,16 @@
+(define (problem blocks_words)
+	(:domain blocks)
+(:init
+(CLEAR C)
+(CLEAR P)
+(ONTABLE C)
+(ONTABLE D)
+(ONTABLE P)
+(CLEAR A)
+(HANDEMPTY)
+(ON A D)
+)
+(:goal (and
+(ON C A)(ON A P)
+))
+)

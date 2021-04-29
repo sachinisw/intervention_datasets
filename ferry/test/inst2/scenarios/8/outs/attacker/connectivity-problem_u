@@ -1,0 +1,697 @@
+
+ff: parsing domain file
+domain 'FERRY' defined
+ ... done.
+ff: parsing problem file
+problem 'FERRY43' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+created connectivity graph as follows:
+
+------------------OP ARRAY:-----------------------
+
+OP: BOARD C2 L4
+----------EFFS:
+effect 0
+
+OP: BOARD C2 L2
+----------EFFS:
+effect 1
+
+OP: BOARD C2 L1
+----------EFFS:
+effect 2
+
+OP: BOARD C1 L4
+----------EFFS:
+effect 3
+
+OP: BOARD C1 L3
+----------EFFS:
+effect 4
+
+OP: BOARD C1 L2
+----------EFFS:
+effect 5
+
+OP: SAIL L3 L2
+----------EFFS:
+effect 6
+
+OP: SAIL L3 L4
+----------EFFS:
+effect 7
+
+OP: SAIL L4 L1
+----------EFFS:
+effect 8
+
+OP: SAIL L4 L3
+----------EFFS:
+effect 9
+
+OP: DEBARK C2 L4
+----------EFFS:
+effect 10
+
+OP: DEBARK C2 L3
+----------EFFS:
+effect 11
+
+OP: DEBARK C2 L2
+----------EFFS:
+effect 12
+
+OP: DEBARK C2 L1
+----------EFFS:
+effect 13
+
+OP: DEBARK C1 L4
+----------EFFS:
+effect 14
+
+OP: DEBARK C1 L3
+----------EFFS:
+effect 15
+
+OP: DEBARK C1 L2
+----------EFFS:
+effect 16
+
+OP: DEBARK C1 L1
+----------EFFS:
+effect 17
+
+OP: BOARD C2 L3
+----------EFFS:
+effect 18
+
+OP: BOARD C1 L1
+----------EFFS:
+effect 19
+
+OP: SAIL L1 L2
+----------EFFS:
+effect 20
+
+OP: SAIL L1 L4
+----------EFFS:
+effect 21
+
+OP: SAIL L2 L1
+----------EFFS:
+effect 22
+
+OP: SAIL L2 L3
+----------EFFS:
+effect 23
+
+-------------------EFFECT ARRAY:----------------------
+
+effect 0 of op 0 cost 0.000000: BOARD C2 L4
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L4)
+(AT C2 L4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C2)
+----------DELS:
+(AT C2 L4)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 1 of op 1 cost 0.000000: BOARD C2 L2
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L2)
+(AT C2 L2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C2)
+----------DELS:
+(AT C2 L2)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 2 of op 2 cost 0.000000: BOARD C2 L1
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L1)
+(AT C2 L1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C2)
+----------DELS:
+(AT C2 L1)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 3 of op 3 cost 0.000000: BOARD C1 L4
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L4)
+(AT C1 L4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C1)
+----------DELS:
+(AT C1 L4)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 4 of op 4 cost 0.000000: BOARD C1 L3
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L3)
+(AT C1 L3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C1)
+----------DELS:
+(AT C1 L3)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 5 of op 5 cost 0.000000: BOARD C1 L2
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L2)
+(AT C1 L2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C1)
+----------DELS:
+(AT C1 L2)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 6 of op 6 cost 0.000000: SAIL L3 L2
+----------PCS:
+(AT-FERRY L3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L2)
+----------DELS:
+(AT-FERRY L3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 7 of op 7 cost 0.000000: SAIL L3 L4
+----------PCS:
+(AT-FERRY L3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L4)
+----------DELS:
+(AT-FERRY L3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 8 of op 8 cost 0.000000: SAIL L4 L1
+----------PCS:
+(AT-FERRY L4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L1)
+----------DELS:
+(AT-FERRY L4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 9 of op 9 cost 0.000000: SAIL L4 L3
+----------PCS:
+(AT-FERRY L4)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L3)
+----------DELS:
+(AT-FERRY L4)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 10 of op 10 cost 0.000000: DEBARK C2 L4
+----------PCS:
+(AT-FERRY L4)
+(ON C2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C2 L4)
+(EMPTY-FERRY)
+----------DELS:
+(ON C2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 11 of op 11 cost 0.000000: DEBARK C2 L3
+----------PCS:
+(AT-FERRY L3)
+(ON C2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C2 L3)
+(EMPTY-FERRY)
+----------DELS:
+(ON C2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 12 of op 12 cost 0.000000: DEBARK C2 L2
+----------PCS:
+(AT-FERRY L2)
+(ON C2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C2 L2)
+(EMPTY-FERRY)
+----------DELS:
+(ON C2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 13 of op 13 cost 0.000000: DEBARK C2 L1
+----------PCS:
+(AT-FERRY L1)
+(ON C2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C2 L1)
+(EMPTY-FERRY)
+----------DELS:
+(ON C2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 14 of op 14 cost 0.000000: DEBARK C1 L4
+----------PCS:
+(AT-FERRY L4)
+(ON C1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C1 L4)
+(EMPTY-FERRY)
+----------DELS:
+(ON C1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 15 of op 15 cost 0.000000: DEBARK C1 L3
+----------PCS:
+(AT-FERRY L3)
+(ON C1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C1 L3)
+(EMPTY-FERRY)
+----------DELS:
+(ON C1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 16 of op 16 cost 0.000000: DEBARK C1 L2
+----------PCS:
+(AT-FERRY L2)
+(ON C1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C1 L2)
+(EMPTY-FERRY)
+----------DELS:
+(ON C1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 17 of op 17 cost 0.000000: DEBARK C1 L1
+----------PCS:
+(AT-FERRY L1)
+(ON C1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT C1 L1)
+(EMPTY-FERRY)
+----------DELS:
+(ON C1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 18 of op 18 cost 0.000000: BOARD C2 L3
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L3)
+(AT C2 L3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C2)
+----------DELS:
+(AT C2 L3)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 19 of op 19 cost 0.000000: BOARD C1 L1
+----------PCS:
+(EMPTY-FERRY)
+(AT-FERRY L1)
+(AT C1 L1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(ON C1)
+----------DELS:
+(AT C1 L1)
+(EMPTY-FERRY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 20 of op 20 cost 0.000000: SAIL L1 L2
+----------PCS:
+(AT-FERRY L1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L2)
+----------DELS:
+(AT-FERRY L1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 21 of op 21 cost 0.000000: SAIL L1 L4
+----------PCS:
+(AT-FERRY L1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L4)
+----------DELS:
+(AT-FERRY L1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 22 of op 22 cost 0.000000: SAIL L2 L1
+----------PCS:
+(AT-FERRY L2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L1)
+----------DELS:
+(AT-FERRY L2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 23 of op 23 cost 0.000000: SAIL L2 L3
+----------PCS:
+(AT-FERRY L2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-FERRY L3)
+----------DELS:
+(AT-FERRY L2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+----------------------FT ARRAY:-----------------------------
+
+FT: (AT-FERRY L3) rand: 1011327
+----------PRE COND OF:
+effect 4 - op BOARD C1 L3
+effect 6 - op SAIL L3 L2
+effect 7 - op SAIL L3 L4
+effect 11 - op DEBARK C2 L3
+effect 15 - op DEBARK C1 L3
+effect 18 - op BOARD C2 L3
+----------ADD BY:
+effect 9 - op SAIL L4 L3
+effect 23 - op SAIL L2 L3
+----------DEL BY:
+effect 6 - op SAIL L3 L2
+effect 7 - op SAIL L3 L4
+
+FT: (AT-FERRY L1) rand: 61555
+----------PRE COND OF:
+effect 2 - op BOARD C2 L1
+effect 13 - op DEBARK C2 L1
+effect 17 - op DEBARK C1 L1
+effect 19 - op BOARD C1 L1
+effect 20 - op SAIL L1 L2
+effect 21 - op SAIL L1 L4
+----------ADD BY:
+effect 8 - op SAIL L4 L1
+effect 22 - op SAIL L2 L1
+----------DEL BY:
+effect 20 - op SAIL L1 L2
+effect 21 - op SAIL L1 L4
+
+FT: (AT-FERRY L4) rand: 855370
+----------PRE COND OF:
+effect 0 - op BOARD C2 L4
+effect 3 - op BOARD C1 L4
+effect 8 - op SAIL L4 L1
+effect 9 - op SAIL L4 L3
+effect 10 - op DEBARK C2 L4
+effect 14 - op DEBARK C1 L4
+----------ADD BY:
+effect 7 - op SAIL L3 L4
+effect 21 - op SAIL L1 L4
+----------DEL BY:
+effect 8 - op SAIL L4 L1
+effect 9 - op SAIL L4 L3
+
+FT: (ON C1) rand: 1448897
+----------PRE COND OF:
+effect 14 - op DEBARK C1 L4
+effect 15 - op DEBARK C1 L3
+effect 16 - op DEBARK C1 L2
+effect 17 - op DEBARK C1 L1
+----------ADD BY:
+effect 3 - op BOARD C1 L4
+effect 4 - op BOARD C1 L3
+effect 5 - op BOARD C1 L2
+effect 19 - op BOARD C1 L1
+----------DEL BY:
+effect 14 - op DEBARK C1 L4
+effect 15 - op DEBARK C1 L3
+effect 16 - op DEBARK C1 L2
+effect 17 - op DEBARK C1 L1
+
+FT: (ON C2) rand: 1458287
+----------PRE COND OF:
+effect 10 - op DEBARK C2 L4
+effect 11 - op DEBARK C2 L3
+effect 12 - op DEBARK C2 L2
+effect 13 - op DEBARK C2 L1
+----------ADD BY:
+effect 0 - op BOARD C2 L4
+effect 1 - op BOARD C2 L2
+effect 2 - op BOARD C2 L1
+effect 18 - op BOARD C2 L3
+----------DEL BY:
+effect 10 - op DEBARK C2 L4
+effect 11 - op DEBARK C2 L3
+effect 12 - op DEBARK C2 L2
+effect 13 - op DEBARK C2 L1
+
+FT: (AT C1 L2) rand: 578959
+----------PRE COND OF:
+effect 5 - op BOARD C1 L2
+----------ADD BY:
+effect 16 - op DEBARK C1 L2
+----------DEL BY:
+effect 5 - op BOARD C1 L2
+
+FT: (AT C1 L3) rand: 1032605
+----------PRE COND OF:
+effect 4 - op BOARD C1 L3
+----------ADD BY:
+effect 15 - op DEBARK C1 L3
+----------DEL BY:
+effect 4 - op BOARD C1 L3
+
+FT: (AT C1 L4) rand: 431651
+----------PRE COND OF:
+effect 3 - op BOARD C1 L4
+----------ADD BY:
+effect 14 - op DEBARK C1 L4
+----------DEL BY:
+effect 3 - op BOARD C1 L4
+
+FT: (AT C2 L1) rand: 453163
+----------PRE COND OF:
+effect 2 - op BOARD C2 L1
+----------ADD BY:
+effect 13 - op DEBARK C2 L1
+----------DEL BY:
+effect 2 - op BOARD C2 L1
+
+FT: (AT C2 L2) rand: 327595
+----------PRE COND OF:
+effect 1 - op BOARD C2 L2
+----------ADD BY:
+effect 12 - op DEBARK C2 L2
+----------DEL BY:
+effect 1 - op BOARD C2 L2
+
+FT: (AT C2 L4) rand: 685109
+----------PRE COND OF:
+effect 0 - op BOARD C2 L4
+----------ADD BY:
+effect 10 - op DEBARK C2 L4
+----------DEL BY:
+effect 0 - op BOARD C2 L4
+
+FT: (EMPTY-FERRY) rand: 860576
+----------PRE COND OF:
+effect 0 - op BOARD C2 L4
+effect 1 - op BOARD C2 L2
+effect 2 - op BOARD C2 L1
+effect 3 - op BOARD C1 L4
+effect 4 - op BOARD C1 L3
+effect 5 - op BOARD C1 L2
+effect 18 - op BOARD C2 L3
+effect 19 - op BOARD C1 L1
+----------ADD BY:
+effect 10 - op DEBARK C2 L4
+effect 11 - op DEBARK C2 L3
+effect 12 - op DEBARK C2 L2
+effect 13 - op DEBARK C2 L1
+effect 14 - op DEBARK C1 L4
+effect 15 - op DEBARK C1 L3
+effect 16 - op DEBARK C1 L2
+effect 17 - op DEBARK C1 L1
+----------DEL BY:
+effect 0 - op BOARD C2 L4
+effect 1 - op BOARD C2 L2
+effect 2 - op BOARD C2 L1
+effect 3 - op BOARD C1 L4
+effect 4 - op BOARD C1 L3
+effect 5 - op BOARD C1 L2
+effect 18 - op BOARD C2 L3
+effect 19 - op BOARD C1 L1
+
+FT: (AT C2 L3) rand: 1317753
+----------PRE COND OF:
+effect 18 - op BOARD C2 L3
+----------ADD BY:
+effect 11 - op DEBARK C2 L3
+----------DEL BY:
+effect 18 - op BOARD C2 L3
+
+FT: (AT C1 L1) rand: 1025600
+----------PRE COND OF:
+effect 19 - op BOARD C1 L1
+----------ADD BY:
+effect 17 - op DEBARK C1 L1
+----------DEL BY:
+effect 19 - op BOARD C1 L1
+
+FT: (AT-FERRY L2) rand: 210467
+----------PRE COND OF:
+effect 1 - op BOARD C2 L2
+effect 5 - op BOARD C1 L2
+effect 12 - op DEBARK C2 L2
+effect 16 - op DEBARK C1 L2
+effect 22 - op SAIL L2 L1
+effect 23 - op SAIL L2 L3
+----------ADD BY:
+effect 6 - op SAIL L3 L2
+effect 20 - op SAIL L1 L2
+----------DEL BY:
+effect 22 - op SAIL L2 L1
+effect 23 - op SAIL L2 L3
+
+----------------------FLUENT ARRAY:-----------------------------
+
+----------------------GOAL:-----------------------------
+(AT C1 L3)
+(AT C2 L2)
+DIRECT: 
+
+
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+Cueing down from goal distance:    6 into depth [1][2][3]
+                                   5            [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: SAIL L2 L1
+        1: BOARD C1 L1
+        2: SAIL L1 L2
+        3: SAIL L2 L3
+        4: DEBARK C1 L3
+        5: BOARD C2 L3
+        6: SAIL L3 L2
+        7: DEBARK C2 L2
+     
+
+time spent:    0.00 seconds instantiating 24 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 15 facts and 24 actions
+               0.00 seconds creating final representation with 15 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 14 states, to a max depth of 3
+               0.00 seconds total time
+
+

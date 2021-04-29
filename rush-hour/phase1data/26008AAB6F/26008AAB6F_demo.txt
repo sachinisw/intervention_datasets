@@ -1,0 +1,10 @@
+Subject:26008AAB6F
+ Q1:"36 – 40"
+ Q2:"Male"
+ Q3:"4"
+ Q4:"5"
+ Q5:["critical thinking","fun"]		""		
+ Q6:"Once a week"		""		
+ Q7:"Keep trying"		""		
+ Q8:"warning and explanation"		""		
+ Q9:["mobile","laptop"]		""		

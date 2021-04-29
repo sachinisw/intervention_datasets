@@ -1,0 +1,4 @@
+o,C,R,D,Fo,DistToCritical,DistToDesirable,CurrentHasLM,Label
+UNLOCK PLACE_1_0 PLACE_1_1 KEY_1 SHAPE_1,0.33,0.01,0.03,1.31,7,6,0.0,N
+MOVE PLACE_1_0 PLACE_2_0,0.5,0.0,0.5,1.0,-1,1,0.0,N
+MOVE PLACE_2_0 PLACE_3_0,1.0,0.0,1.0,1.0,-1,0,0.0,N

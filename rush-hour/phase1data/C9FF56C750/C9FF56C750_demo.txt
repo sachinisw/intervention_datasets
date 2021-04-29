@@ -1,0 +1,10 @@
+Subject:C9FF56C750
+ Q1:"31 – 35"
+ Q2:"Male"
+ Q3:"5"
+ Q4:"5"
+ Q5:["critical thinking","fun"]		""		
+ Q6:"Once a day"		""		
+ Q7:"Keep trying"		""		
+ Q8:"no help"		""		
+ Q9:["mobile","q9other"]		"Rubic cubes, Pyraminx, etc"		

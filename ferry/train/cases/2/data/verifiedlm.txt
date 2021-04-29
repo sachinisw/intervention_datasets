@@ -1,0 +1,27 @@
+:LGG VERIFIED
+{[(AT-FERRY L4), (ON C1)]}: 
+{[(AT C1 L1)]}: {[(ON C1)]} 
+{[(ON C1)]}: 
+{[(AT-FERRY L1)]}: {[(ON C1)]} 
+{[(EMPTY-FERRY)]}: {[(ON C1)]} 
+{[(AT-FERRY L4)]}: {[(AT-FERRY L1)]} 
+
+:VERIFIED LM
+{[(AT-FERRY L4), (ON C1)]}
+{[(ON C1)]}
+{[(EMPTY-FERRY)]}
+{[(AT-FERRY L4)]}
+{[(AT-FERRY L1)]}
+{[(AT C1 L1)]}
+
+:LGG GREEDY NECESSARY ORDERS
+{[(AT-FERRY L4), (ON C1)]}: []
+{[(ON C1)]}: [{[(AT C1 L1)]}, {[(EMPTY-FERRY)]}, {[(AT-FERRY L1)]}]
+{[(EMPTY-FERRY)]}: []
+{[(AT-FERRY L4)]}: []
+{[(AT-FERRY L1)]}: [{[(AT-FERRY L4)]}]
+{[(AT C1 L1)]}: []
+
+:LGG UNVERIFIED ACHIEVERS
+[SAIL L4 L1]	->[(AT-FERRY L4)]
+[BOARD C1 L1]	->[(AT C1 L1), (AT-FERRY L1), (EMPTY-FERRY)]

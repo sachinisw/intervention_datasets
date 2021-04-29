@@ -1,0 +1,4 @@
+N:,PICK-UP E,desirable:(ON H E)(ON E S)
+N:,STACK E S,desirable:(ON H E)(ON E S)
+N:,PICK-UP H,desirable:(ON H E)(ON E S)
+N:,STACK H E,desirable:(ON H E)(ON E S)

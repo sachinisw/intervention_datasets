@@ -1,0 +1,5 @@
+(ob__pick-up_a )
+(stack a c)
+(pick-up p)
+(stack p a)
+; cost = 4 (unit cost)

@@ -1,0 +1,92 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID-WORLD' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT-ROBOT PLACE_0_0)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 44 to PICKUP PLACE_0_0 KEY_1
+effect 45 to PICKUP PLACE_0_0 KEY_0
+effect 46 to MOVE PLACE_0_0 PLACE_1_0
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_1_0)
+(CARRYING KEY_0)
+(CARRYING KEY_1)
+
+EFS:
+effect 39 to MOVE PLACE_1_0 PLACE_0_0
+effect 40 to MOVE PLACE_1_0 PLACE_2_0
+effect 42 to UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+effect 43 to UNLOCK PLACE_1_0 PLACE_1_1 KEY_1 SHAPE_1
+
+LEVEL 2:
+
+FACTS:
+(AT-ROBOT PLACE_2_0)
+
+Cueing down from goal distance:    2 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_1_0)
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 39 to MOVE PLACE_1_0 PLACE_0_0
+effect 40 to MOVE PLACE_1_0 PLACE_2_0
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_2_0)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_2_0)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_0_0 PLACE_1_0
+        1: MOVE PLACE_1_0 PLACE_2_0
+     
+
+time spent:    0.00 seconds instantiating 77 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 39 facts and 47 actions
+               0.00 seconds creating final representation with 26 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 3 states, to a max depth of 1
+               0.00 seconds total time
+
+

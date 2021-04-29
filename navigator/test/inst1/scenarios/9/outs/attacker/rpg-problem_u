@@ -1,0 +1,137 @@
+
+ff: parsing domain file
+domain 'NAVIGATOR' defined
+ ... done.
+ff: parsing problem file
+problem 'NAV15X5' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_2)
+
+EFS:
+effect 116 to MOVE PLACE_2_2 PLACE_2_3
+effect 117 to MOVE PLACE_2_2 PLACE_3_2
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_2)
+(AT PLACE_2_3)
+
+EFS:
+effect 110 to MOVE PLACE_2_3 PLACE_2_2
+effect 111 to MOVE PLACE_2_3 PLACE_2_4
+effect 112 to MOVE PLACE_2_3 PLACE_3_3
+effect 113 to MOVE PLACE_3_2 PLACE_2_2
+effect 114 to MOVE PLACE_3_2 PLACE_3_3
+effect 115 to MOVE PLACE_3_2 PLACE_4_2
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_4_2)
+(AT PLACE_3_3)
+(AT PLACE_2_4)
+
+EFS:
+effect 100 to MOVE PLACE_2_4 PLACE_2_3
+effect 101 to MOVE PLACE_2_4 PLACE_2_5
+effect 102 to MOVE PLACE_2_4 PLACE_3_4
+effect 103 to MOVE PLACE_3_3 PLACE_2_3
+effect 104 to MOVE PLACE_3_3 PLACE_3_2
+effect 105 to MOVE PLACE_3_3 PLACE_3_4
+effect 106 to MOVE PLACE_3_3 PLACE_4_3
+effect 107 to MOVE PLACE_4_2 PLACE_3_2
+effect 108 to MOVE PLACE_4_2 PLACE_4_3
+effect 109 to MOVE PLACE_4_2 PLACE_5_2
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_3_4)
+
+Cueing down from goal distance:    3 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_3)
+
+EFS:
+effect 110 to MOVE PLACE_2_3 PLACE_2_2
+effect 111 to MOVE PLACE_2_3 PLACE_2_4
+effect 112 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_2_4)
+(AT PLACE_2_2)
+
+EFS:
+effect 100 to MOVE PLACE_2_4 PLACE_2_3
+effect 101 to MOVE PLACE_2_4 PLACE_2_5
+effect 102 to MOVE PLACE_2_4 PLACE_3_4
+effect 103 to MOVE PLACE_3_3 PLACE_2_3
+effect 104 to MOVE PLACE_3_3 PLACE_3_2
+effect 105 to MOVE PLACE_3_3 PLACE_3_4
+effect 106 to MOVE PLACE_3_3 PLACE_4_3
+effect 116 to MOVE PLACE_2_2 PLACE_2_3
+effect 117 to MOVE PLACE_2_2 PLACE_3_2
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_4)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_4)
+
+EFS:
+effect 100 to MOVE PLACE_2_4 PLACE_2_3
+effect 101 to MOVE PLACE_2_4 PLACE_2_5
+effect 102 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_4)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_3_4)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_2_2 PLACE_2_3
+        1: MOVE PLACE_2_3 PLACE_2_4
+        2: MOVE PLACE_2_4 PLACE_3_4
+     
+
+time spent:    0.00 seconds instantiating 118 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 36 facts and 118 actions
+               0.00 seconds creating final representation with 36 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 4 states, to a max depth of 1
+               0.00 seconds total time
+
+

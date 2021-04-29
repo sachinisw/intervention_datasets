@@ -1,0 +1,10 @@
+Subject:49EA14E596
+ Q1:"26 – 30"
+ Q2:"Female"
+ Q3:"5"
+ Q4:"5"
+ Q5:["critical thinking"]		""		
+ Q6:"Once a day"		""		
+ Q7:"Keep trying"		""		
+ Q8:"no help"		""		
+ Q9:["paper"]		""		

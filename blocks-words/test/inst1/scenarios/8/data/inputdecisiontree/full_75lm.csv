@@ -1,0 +1,4 @@
+ob,c,r,d,fo,0.0<=x<0.0,0.0<=x<0.1,dToCritical,dToDesirable,hasLM,Label
+STACK M A,0.5,1.0,0.0,2.5,0, 0,0,-1,0.67,Y
+PICK-UP C,0.5,1.0,0.0,2.5,0, 0,0,-1,0.33,Y
+STACK C M,1.0,1.0,0.0,3.0,0, 0,0,-1,0.67,Y

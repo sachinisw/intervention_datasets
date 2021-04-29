@@ -1,0 +1,10 @@
+Subject:A8FD329D23
+ Q1:"36 – 40"
+ Q2:"Male"
+ Q3:"2"
+ Q4:"3"
+ Q5:["fun"]		""		
+ Q6:"Once a month"		""		
+ Q7:"Give up"		""		
+ Q8:"q8other"		"Give up"		
+ Q9:["q9other"]		"Doesnt play much"		

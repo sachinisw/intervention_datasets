@@ -1,0 +1,13 @@
+
+Mode:full
+Total Observations = 2935
+TP	TN	FP	FN
+1	0.975	0.025	0
+ precision=0.558282208588957 recall=1.0 F1=0.7165354330708662
+
+Mode:tk
+Total Observations = 0
+TP	TN	FP	FN
+NaN	NaN	NaN	NaN
+ precision=NaN recall=NaN F1=NaN
+

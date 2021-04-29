@@ -1,0 +1,18 @@
+:LGG VERIFIED
+{[(AT-FERRY L4), (ON C2)]}: 
+{[(AT C2 L3)]}: {[(ON C2)]} 
+{[(ON C2)]}: 
+{[(EMPTY-FERRY)]}: {[(ON C2)]} 
+{[(AT-FERRY L2)]}: 
+
+:VERIFIED LM
+{[(AT-FERRY L4), (ON C2)]}
+{[(EMPTY-FERRY)]}
+{[(AT-FERRY L2)]}
+{[(AT C2 L3)]}
+{[(ON C2)]}
+
+:LGG UNVERIFIED ACHIEVERS
+[SAIL L2 L3]	->[(AT-FERRY L2)]
+[BOARD C2 L3]	->[(AT C2 L3), (AT-FERRY L3), (EMPTY-FERRY)]
+[SAIL L1 L4, SAIL L3 L4]	->[]

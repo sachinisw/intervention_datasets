@@ -1,0 +1,10 @@
+Subject:0FE0872870
+ Q1:"31 – 35"
+ Q2:"Male"
+ Q3:"4"
+ Q4:"5"
+ Q5:["critical thinking","fun"]		""		
+ Q6:"q6other"		"When ever I come across an interesting one"		
+ Q7:"Keep trying"		""		
+ Q8:"no help"		""		
+ Q9:["paper","laptop"]		""		

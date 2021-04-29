@@ -1,0 +1,10 @@
+Subject:6C0EFD3D4C
+ Q1:"26 – 30"
+ Q2:"Male"
+ Q3:"5"
+ Q4:"5"
+ Q5:["fun","critical thinking"]		""		
+ Q6:"Once a week"		""		
+ Q7:"q7other"		"try it few more time, give it some rest and come back later to solve"		
+ Q8:"warning"		""		
+ Q9:["mobile","paper"]		""		

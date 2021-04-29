@@ -1,0 +1,10 @@
+Subject:503608103C
+ Q1:"36 – 40"
+ Q2:"Male"
+ Q3:"3"
+ Q4:"4"
+ Q5:["challenge","critical thinking"]		""		
+ Q6:"Once a month"		""		
+ Q7:"Keep trying"		""		
+ Q8:"suggestion"		""		
+ Q9:["mobile","laptop"]		""		

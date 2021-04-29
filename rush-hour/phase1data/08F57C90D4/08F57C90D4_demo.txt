@@ -1,0 +1,10 @@
+Subject:08F57C90D4
+ Q1:"36 – 40"
+ Q2:"Male"
+ Q3:"4"
+ Q4:"3"
+ Q5:["critical thinking"]		""		
+ Q6:"Once a month"		""		
+ Q7:"Keep trying"		""		
+ Q8:"warning"		""		
+ Q9:["mobile"]		""		

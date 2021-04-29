@@ -1,0 +1,80 @@
+(define (domain blocks)
+  (:requirements :strips :typing :equality)
+  (:types block)
+
+ (:constants
+E - block
+H - block
+T - block
+U - block
+
+ )
+
+  (:predicates (on ?x ?y - block)
+(obp_PICK-UP_H)
+(obp_STACK_E-U)
+(obp_PICK-UP_E)
+(obp_STACK_U-T)
+(obp_PICK-UP_U)
+	       (ontable ?x - block)
+	       (clear ?x - block)
+	       (handempty)
+	       (holding ?x - block)
+	       )
+
+;can only pick up a block if it is on the table
+(:action pick-up
+:parameters (?x - block )
+:precondition (and (clear ?x)(ontable ?x)(handempty))
+:effect (and (not (ontable ?x))(not (clear ?x))(not (handempty))(holding ?x))
+)
+
+(:action put-down
+:parameters (?x - block )
+:precondition (holding ?x)
+:effect (and (not (holding ?x))(clear ?x)(handempty)(ontable ?x))
+)
+
+(:action stack
+:parameters (?x ?y - block )
+:precondition (and (holding ?x)(clear ?y)(not (= ?x ?y)))
+:effect (and (not (holding ?x))(not (clear ?y))(clear ?x)(handempty)(on ?x ?y))
+)
+
+(:action unstack
+:parameters (?x ?y - block )
+:precondition (and (on ?x ?y)(clear ?x)(handempty)(not (= ?x ?y)))
+:effect (and (holding ?x)(clear ?y)(not (clear ?x))(not (handempty))(not (on ?x ?y)))
+)
+
+(:action ob__PICK-UP_U
+:parameters ()
+:precondition (and (clear U)(ontable U)(handempty))
+:effect (and (not (ontable U))(not (clear U))(not (handempty))(holding U)(obp_PICK-UP_U))
+)
+
+(:action ob__STACK_U-T
+:parameters ()
+:precondition (and (holding U)(clear T)(not (= U T))(obp_PICK-UP_U))
+:effect (and (not (holding U))(not (clear T))(clear U)(handempty)(on U T)(obp_STACK_U-T))
+)
+
+(:action ob__PICK-UP_E
+:parameters ()
+:precondition (and (clear E)(ontable E)(handempty)(obp_STACK_U-T))
+:effect (and (not (ontable E))(not (clear E))(not (handempty))(holding E)(obp_PICK-UP_E))
+)
+
+(:action ob__STACK_E-U
+:parameters ()
+:precondition (and (holding E)(clear U)(not (= E U))(obp_PICK-UP_E))
+:effect (and (not (holding E))(not (clear U))(clear E)(handempty)(on E U)(obp_STACK_E-U))
+)
+
+(:action ob__PICK-UP_H
+:parameters ()
+:precondition (and (clear H)(ontable H)(handempty)(obp_STACK_E-U))
+:effect (and (not (ontable H))(not (clear H))(not (handempty))(holding H)(obp_PICK-UP_H))
+)
+
+ )

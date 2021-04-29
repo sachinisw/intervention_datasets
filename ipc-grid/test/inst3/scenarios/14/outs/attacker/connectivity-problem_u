@@ -1,0 +1,1159 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID3X3' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+created connectivity graph as follows:
+
+------------------OP ARRAY:-----------------------
+
+OP: MOVE PLACE_2_3 PLACE_1_3
+----------EFFS:
+effect 0
+
+OP: MOVE PLACE_2_3 PLACE_3_3
+----------EFFS:
+effect 1
+
+OP: MOVE PLACE_3_3 PLACE_2_3
+----------EFFS:
+effect 2
+
+OP: MOVE PLACE_3_3 PLACE_3_2
+----------EFFS:
+effect 3
+
+OP: UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+----------EFFS:
+effect 4
+
+OP: MOVE PLACE_1_3 PLACE_0_3
+----------EFFS:
+effect 5
+
+OP: MOVE PLACE_1_3 PLACE_2_3
+----------EFFS:
+effect 6
+
+OP: MOVE PLACE_2_2 PLACE_1_2
+----------EFFS:
+effect 7
+
+OP: MOVE PLACE_2_2 PLACE_3_2
+----------EFFS:
+effect 8
+
+OP: MOVE PLACE_3_2 PLACE_2_2
+----------EFFS:
+effect 9
+
+OP: MOVE PLACE_3_2 PLACE_3_1
+----------EFFS:
+effect 10
+
+OP: MOVE PLACE_3_2 PLACE_3_3
+----------EFFS:
+effect 11
+
+OP: UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+----------EFFS:
+effect 12
+
+OP: MOVE PLACE_0_3 PLACE_0_2
+----------EFFS:
+effect 13
+
+OP: MOVE PLACE_0_3 PLACE_1_3
+----------EFFS:
+effect 14
+
+OP: MOVE PLACE_1_2 PLACE_0_2
+----------EFFS:
+effect 15
+
+OP: MOVE PLACE_1_2 PLACE_2_2
+----------EFFS:
+effect 16
+
+OP: MOVE PLACE_2_1 PLACE_1_1
+----------EFFS:
+effect 17
+
+OP: MOVE PLACE_2_1 PLACE_3_1
+----------EFFS:
+effect 18
+
+OP: MOVE PLACE_3_1 PLACE_2_1
+----------EFFS:
+effect 19
+
+OP: MOVE PLACE_3_1 PLACE_3_0
+----------EFFS:
+effect 20
+
+OP: MOVE PLACE_3_1 PLACE_3_2
+----------EFFS:
+effect 21
+
+OP: UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+----------EFFS:
+effect 22
+
+OP: UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+----------EFFS:
+effect 23
+
+OP: MOVE PLACE_0_2 PLACE_0_1
+----------EFFS:
+effect 24
+
+OP: MOVE PLACE_0_2 PLACE_0_3
+----------EFFS:
+effect 25
+
+OP: MOVE PLACE_0_2 PLACE_1_2
+----------EFFS:
+effect 26
+
+OP: MOVE PLACE_1_1 PLACE_0_1
+----------EFFS:
+effect 27
+
+OP: MOVE PLACE_1_1 PLACE_2_1
+----------EFFS:
+effect 28
+
+OP: MOVE PLACE_3_0 PLACE_2_0
+----------EFFS:
+effect 29
+
+OP: MOVE PLACE_3_0 PLACE_3_1
+----------EFFS:
+effect 30
+
+OP: UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+----------EFFS:
+effect 31
+
+OP: UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+----------EFFS:
+effect 32
+
+OP: MOVE PLACE_0_1 PLACE_0_0
+----------EFFS:
+effect 33
+
+OP: MOVE PLACE_0_1 PLACE_0_2
+----------EFFS:
+effect 34
+
+OP: MOVE PLACE_0_1 PLACE_1_1
+----------EFFS:
+effect 35
+
+OP: MOVE PLACE_2_0 PLACE_1_0
+----------EFFS:
+effect 36
+
+OP: MOVE PLACE_2_0 PLACE_3_0
+----------EFFS:
+effect 37
+
+OP: UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------EFFS:
+effect 38
+
+OP: MOVE PLACE_0_0 PLACE_0_1
+----------EFFS:
+effect 39
+
+OP: MOVE PLACE_1_0 PLACE_0_0
+----------EFFS:
+effect 40
+
+OP: MOVE PLACE_1_0 PLACE_2_0
+----------EFFS:
+effect 41
+
+OP: UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+----------EFFS:
+effect 42
+
+OP: PICKUP PLACE_0_0 KEY_1
+----------EFFS:
+effect 43
+
+OP: PICKUP PLACE_0_0 KEY_0
+----------EFFS:
+effect 44
+
+OP: MOVE PLACE_0_0 PLACE_1_0
+----------EFFS:
+effect 45
+
+-------------------EFFECT ARRAY:----------------------
+
+effect 0 of op 0 cost 0.000000: MOVE PLACE_2_3 PLACE_1_3
+----------PCS:
+(AT-ROBOT PLACE_2_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_3)
+----------DELS:
+(AT-ROBOT PLACE_2_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 1 of op 1 cost 0.000000: MOVE PLACE_2_3 PLACE_3_3
+----------PCS:
+(AT-ROBOT PLACE_2_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_3)
+----------DELS:
+(AT-ROBOT PLACE_2_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 2 of op 2 cost 0.000000: MOVE PLACE_3_3 PLACE_2_3
+----------PCS:
+(AT-ROBOT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_3)
+----------DELS:
+(AT-ROBOT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 3 of op 3 cost 0.000000: MOVE PLACE_3_3 PLACE_3_2
+----------PCS:
+(OPEN PLACE_3_2)
+(AT-ROBOT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_2)
+----------DELS:
+(AT-ROBOT PLACE_3_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 4 of op 4 cost 0.000000: UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_3_2)
+(AT-ROBOT PLACE_3_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_3_2)
+----------DELS:
+(LOCKED PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 5 of op 5 cost 0.000000: MOVE PLACE_1_3 PLACE_0_3
+----------PCS:
+(AT-ROBOT PLACE_1_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_3)
+----------DELS:
+(AT-ROBOT PLACE_1_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 6 of op 6 cost 0.000000: MOVE PLACE_1_3 PLACE_2_3
+----------PCS:
+(AT-ROBOT PLACE_1_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_3)
+----------DELS:
+(AT-ROBOT PLACE_1_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 7 of op 7 cost 0.000000: MOVE PLACE_2_2 PLACE_1_2
+----------PCS:
+(AT-ROBOT PLACE_2_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_2)
+----------DELS:
+(AT-ROBOT PLACE_2_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 8 of op 8 cost 0.000000: MOVE PLACE_2_2 PLACE_3_2
+----------PCS:
+(OPEN PLACE_3_2)
+(AT-ROBOT PLACE_2_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_2)
+----------DELS:
+(AT-ROBOT PLACE_2_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 9 of op 9 cost 0.000000: MOVE PLACE_3_2 PLACE_2_2
+----------PCS:
+(AT-ROBOT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_2)
+----------DELS:
+(AT-ROBOT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 10 of op 10 cost 0.000000: MOVE PLACE_3_2 PLACE_3_1
+----------PCS:
+(AT-ROBOT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_1)
+----------DELS:
+(AT-ROBOT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 11 of op 11 cost 0.000000: MOVE PLACE_3_2 PLACE_3_3
+----------PCS:
+(AT-ROBOT PLACE_3_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_3)
+----------DELS:
+(AT-ROBOT PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 12 of op 12 cost 0.000000: UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_3_2)
+(AT-ROBOT PLACE_2_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_3_2)
+----------DELS:
+(LOCKED PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 13 of op 13 cost 0.000000: MOVE PLACE_0_3 PLACE_0_2
+----------PCS:
+(AT-ROBOT PLACE_0_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_2)
+----------DELS:
+(AT-ROBOT PLACE_0_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 14 of op 14 cost 0.000000: MOVE PLACE_0_3 PLACE_1_3
+----------PCS:
+(AT-ROBOT PLACE_0_3)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_3)
+----------DELS:
+(AT-ROBOT PLACE_0_3)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 15 of op 15 cost 0.000000: MOVE PLACE_1_2 PLACE_0_2
+----------PCS:
+(AT-ROBOT PLACE_1_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_2)
+----------DELS:
+(AT-ROBOT PLACE_1_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 16 of op 16 cost 0.000000: MOVE PLACE_1_2 PLACE_2_2
+----------PCS:
+(AT-ROBOT PLACE_1_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_2)
+----------DELS:
+(AT-ROBOT PLACE_1_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 17 of op 17 cost 0.000000: MOVE PLACE_2_1 PLACE_1_1
+----------PCS:
+(OPEN PLACE_1_1)
+(AT-ROBOT PLACE_2_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_1)
+----------DELS:
+(AT-ROBOT PLACE_2_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 18 of op 18 cost 0.000000: MOVE PLACE_2_1 PLACE_3_1
+----------PCS:
+(AT-ROBOT PLACE_2_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_1)
+----------DELS:
+(AT-ROBOT PLACE_2_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 19 of op 19 cost 0.000000: MOVE PLACE_3_1 PLACE_2_1
+----------PCS:
+(AT-ROBOT PLACE_3_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_1)
+----------DELS:
+(AT-ROBOT PLACE_3_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 20 of op 20 cost 0.000000: MOVE PLACE_3_1 PLACE_3_0
+----------PCS:
+(AT-ROBOT PLACE_3_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_0)
+----------DELS:
+(AT-ROBOT PLACE_3_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 21 of op 21 cost 0.000000: MOVE PLACE_3_1 PLACE_3_2
+----------PCS:
+(OPEN PLACE_3_2)
+(AT-ROBOT PLACE_3_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_2)
+----------DELS:
+(AT-ROBOT PLACE_3_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 22 of op 22 cost 0.000000: UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+----------PCS:
+(CARRYING KEY_1)
+(LOCKED PLACE_1_1)
+(AT-ROBOT PLACE_2_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_1_1)
+----------DELS:
+(LOCKED PLACE_1_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 23 of op 23 cost 0.000000: UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_3_2)
+(AT-ROBOT PLACE_3_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_3_2)
+----------DELS:
+(LOCKED PLACE_3_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 24 of op 24 cost 0.000000: MOVE PLACE_0_2 PLACE_0_1
+----------PCS:
+(OPEN PLACE_0_1)
+(AT-ROBOT PLACE_0_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_1)
+----------DELS:
+(AT-ROBOT PLACE_0_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 25 of op 25 cost 0.000000: MOVE PLACE_0_2 PLACE_0_3
+----------PCS:
+(AT-ROBOT PLACE_0_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_3)
+----------DELS:
+(AT-ROBOT PLACE_0_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 26 of op 26 cost 0.000000: MOVE PLACE_0_2 PLACE_1_2
+----------PCS:
+(AT-ROBOT PLACE_0_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_2)
+----------DELS:
+(AT-ROBOT PLACE_0_2)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 27 of op 27 cost 0.000000: MOVE PLACE_1_1 PLACE_0_1
+----------PCS:
+(OPEN PLACE_0_1)
+(AT-ROBOT PLACE_1_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_1)
+----------DELS:
+(AT-ROBOT PLACE_1_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 28 of op 28 cost 0.000000: MOVE PLACE_1_1 PLACE_2_1
+----------PCS:
+(AT-ROBOT PLACE_1_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_1)
+----------DELS:
+(AT-ROBOT PLACE_1_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 29 of op 29 cost 0.000000: MOVE PLACE_3_0 PLACE_2_0
+----------PCS:
+(AT-ROBOT PLACE_3_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_0)
+----------DELS:
+(AT-ROBOT PLACE_3_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 30 of op 30 cost 0.000000: MOVE PLACE_3_0 PLACE_3_1
+----------PCS:
+(AT-ROBOT PLACE_3_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_1)
+----------DELS:
+(AT-ROBOT PLACE_3_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 31 of op 31 cost 0.000000: UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_0_1)
+(AT-ROBOT PLACE_0_2)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_0_1)
+----------DELS:
+(LOCKED PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 32 of op 32 cost 0.000000: UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_0_1)
+(AT-ROBOT PLACE_1_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_0_1)
+----------DELS:
+(LOCKED PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 33 of op 33 cost 0.000000: MOVE PLACE_0_1 PLACE_0_0
+----------PCS:
+(AT-ROBOT PLACE_0_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_0)
+----------DELS:
+(AT-ROBOT PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 34 of op 34 cost 0.000000: MOVE PLACE_0_1 PLACE_0_2
+----------PCS:
+(AT-ROBOT PLACE_0_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_2)
+----------DELS:
+(AT-ROBOT PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 35 of op 35 cost 0.000000: MOVE PLACE_0_1 PLACE_1_1
+----------PCS:
+(OPEN PLACE_1_1)
+(AT-ROBOT PLACE_0_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_1)
+----------DELS:
+(AT-ROBOT PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 36 of op 36 cost 0.000000: MOVE PLACE_2_0 PLACE_1_0
+----------PCS:
+(AT-ROBOT PLACE_2_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_0)
+----------DELS:
+(AT-ROBOT PLACE_2_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 37 of op 37 cost 0.000000: MOVE PLACE_2_0 PLACE_3_0
+----------PCS:
+(AT-ROBOT PLACE_2_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_3_0)
+----------DELS:
+(AT-ROBOT PLACE_2_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 38 of op 38 cost 0.000000: UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------PCS:
+(CARRYING KEY_1)
+(LOCKED PLACE_1_1)
+(AT-ROBOT PLACE_0_1)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_1_1)
+----------DELS:
+(LOCKED PLACE_1_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 39 of op 39 cost 0.000000: MOVE PLACE_0_0 PLACE_0_1
+----------PCS:
+(OPEN PLACE_0_1)
+(AT-ROBOT PLACE_0_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_1)
+----------DELS:
+(AT-ROBOT PLACE_0_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 40 of op 40 cost 0.000000: MOVE PLACE_1_0 PLACE_0_0
+----------PCS:
+(AT-ROBOT PLACE_1_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_0_0)
+----------DELS:
+(AT-ROBOT PLACE_1_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 41 of op 41 cost 0.000000: MOVE PLACE_1_0 PLACE_2_0
+----------PCS:
+(AT-ROBOT PLACE_1_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_2_0)
+----------DELS:
+(AT-ROBOT PLACE_1_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 42 of op 42 cost 0.000000: UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+----------PCS:
+(CARRYING KEY_0)
+(LOCKED PLACE_0_1)
+(AT-ROBOT PLACE_0_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(OPEN PLACE_0_1)
+----------DELS:
+(LOCKED PLACE_0_1)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 43 of op 43 cost 0.000000: PICKUP PLACE_0_0 KEY_1
+----------PCS:
+(AT KEY_1 PLACE_0_0)
+(AT-ROBOT PLACE_0_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CARRYING KEY_1)
+----------DELS:
+(AT KEY_1 PLACE_0_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 44 of op 44 cost 0.000000: PICKUP PLACE_0_0 KEY_0
+----------PCS:
+(AT KEY_0 PLACE_0_0)
+(AT-ROBOT PLACE_0_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CARRYING KEY_0)
+----------DELS:
+(AT KEY_0 PLACE_0_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 45 of op 45 cost 0.000000: MOVE PLACE_0_0 PLACE_1_0
+----------PCS:
+(AT-ROBOT PLACE_0_0)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(AT-ROBOT PLACE_1_0)
+----------DELS:
+(AT-ROBOT PLACE_0_0)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+----------------------FT ARRAY:-----------------------------
+
+FT: (AT-ROBOT PLACE_1_0) rand: 861386
+----------PRE COND OF:
+effect 40 - op MOVE PLACE_1_0 PLACE_0_0
+effect 41 - op MOVE PLACE_1_0 PLACE_2_0
+----------ADD BY:
+effect 36 - op MOVE PLACE_2_0 PLACE_1_0
+effect 45 - op MOVE PLACE_0_0 PLACE_1_0
+----------DEL BY:
+effect 40 - op MOVE PLACE_1_0 PLACE_0_0
+effect 41 - op MOVE PLACE_1_0 PLACE_2_0
+
+FT: (CARRYING KEY_0) rand: 660325
+----------PRE COND OF:
+effect 4 - op UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+effect 12 - op UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+effect 23 - op UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+effect 31 - op UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+effect 32 - op UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+effect 42 - op UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+----------ADD BY:
+effect 44 - op PICKUP PLACE_0_0 KEY_0
+----------DEL BY:
+
+FT: (CARRYING KEY_1) rand: 775201
+----------PRE COND OF:
+effect 22 - op UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+effect 38 - op UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------ADD BY:
+effect 43 - op PICKUP PLACE_0_0 KEY_1
+----------DEL BY:
+
+FT: (OPEN PLACE_0_1) rand: 997737
+----------PRE COND OF:
+effect 24 - op MOVE PLACE_0_2 PLACE_0_1
+effect 27 - op MOVE PLACE_1_1 PLACE_0_1
+effect 39 - op MOVE PLACE_0_0 PLACE_0_1
+----------ADD BY:
+effect 31 - op UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+effect 32 - op UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+effect 42 - op UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+----------DEL BY:
+
+FT: (AT-ROBOT PLACE_2_0) rand: 390409
+----------PRE COND OF:
+effect 36 - op MOVE PLACE_2_0 PLACE_1_0
+effect 37 - op MOVE PLACE_2_0 PLACE_3_0
+----------ADD BY:
+effect 29 - op MOVE PLACE_3_0 PLACE_2_0
+effect 41 - op MOVE PLACE_1_0 PLACE_2_0
+----------DEL BY:
+effect 36 - op MOVE PLACE_2_0 PLACE_1_0
+effect 37 - op MOVE PLACE_2_0 PLACE_3_0
+
+FT: (AT-ROBOT PLACE_0_1) rand: 1087228
+----------PRE COND OF:
+effect 33 - op MOVE PLACE_0_1 PLACE_0_0
+effect 34 - op MOVE PLACE_0_1 PLACE_0_2
+effect 35 - op MOVE PLACE_0_1 PLACE_1_1
+effect 38 - op UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------ADD BY:
+effect 24 - op MOVE PLACE_0_2 PLACE_0_1
+effect 27 - op MOVE PLACE_1_1 PLACE_0_1
+effect 39 - op MOVE PLACE_0_0 PLACE_0_1
+----------DEL BY:
+effect 33 - op MOVE PLACE_0_1 PLACE_0_0
+effect 34 - op MOVE PLACE_0_1 PLACE_0_2
+effect 35 - op MOVE PLACE_0_1 PLACE_1_1
+
+FT: (OPEN PLACE_1_1) rand: 962751
+----------PRE COND OF:
+effect 17 - op MOVE PLACE_2_1 PLACE_1_1
+effect 35 - op MOVE PLACE_0_1 PLACE_1_1
+----------ADD BY:
+effect 22 - op UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+effect 38 - op UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------DEL BY:
+
+FT: (AT-ROBOT PLACE_3_0) rand: 714278
+----------PRE COND OF:
+effect 29 - op MOVE PLACE_3_0 PLACE_2_0
+effect 30 - op MOVE PLACE_3_0 PLACE_3_1
+----------ADD BY:
+effect 20 - op MOVE PLACE_3_1 PLACE_3_0
+effect 37 - op MOVE PLACE_2_0 PLACE_3_0
+----------DEL BY:
+effect 29 - op MOVE PLACE_3_0 PLACE_2_0
+effect 30 - op MOVE PLACE_3_0 PLACE_3_1
+
+FT: (AT-ROBOT PLACE_1_1) rand: 617747
+----------PRE COND OF:
+effect 27 - op MOVE PLACE_1_1 PLACE_0_1
+effect 28 - op MOVE PLACE_1_1 PLACE_2_1
+effect 32 - op UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+----------ADD BY:
+effect 17 - op MOVE PLACE_2_1 PLACE_1_1
+effect 35 - op MOVE PLACE_0_1 PLACE_1_1
+----------DEL BY:
+effect 27 - op MOVE PLACE_1_1 PLACE_0_1
+effect 28 - op MOVE PLACE_1_1 PLACE_2_1
+
+FT: (AT-ROBOT PLACE_0_2) rand: 225801
+----------PRE COND OF:
+effect 24 - op MOVE PLACE_0_2 PLACE_0_1
+effect 25 - op MOVE PLACE_0_2 PLACE_0_3
+effect 26 - op MOVE PLACE_0_2 PLACE_1_2
+effect 31 - op UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+----------ADD BY:
+effect 13 - op MOVE PLACE_0_3 PLACE_0_2
+effect 15 - op MOVE PLACE_1_2 PLACE_0_2
+effect 34 - op MOVE PLACE_0_1 PLACE_0_2
+----------DEL BY:
+effect 24 - op MOVE PLACE_0_2 PLACE_0_1
+effect 25 - op MOVE PLACE_0_2 PLACE_0_3
+effect 26 - op MOVE PLACE_0_2 PLACE_1_2
+
+FT: (AT-ROBOT PLACE_3_1) rand: 1463798
+----------PRE COND OF:
+effect 19 - op MOVE PLACE_3_1 PLACE_2_1
+effect 20 - op MOVE PLACE_3_1 PLACE_3_0
+effect 21 - op MOVE PLACE_3_1 PLACE_3_2
+effect 23 - op UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+----------ADD BY:
+effect 10 - op MOVE PLACE_3_2 PLACE_3_1
+effect 18 - op MOVE PLACE_2_1 PLACE_3_1
+effect 30 - op MOVE PLACE_3_0 PLACE_3_1
+----------DEL BY:
+effect 19 - op MOVE PLACE_3_1 PLACE_2_1
+effect 20 - op MOVE PLACE_3_1 PLACE_3_0
+effect 21 - op MOVE PLACE_3_1 PLACE_3_2
+
+FT: (AT-ROBOT PLACE_2_1) rand: 146104
+----------PRE COND OF:
+effect 17 - op MOVE PLACE_2_1 PLACE_1_1
+effect 18 - op MOVE PLACE_2_1 PLACE_3_1
+effect 22 - op UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+----------ADD BY:
+effect 19 - op MOVE PLACE_3_1 PLACE_2_1
+effect 28 - op MOVE PLACE_1_1 PLACE_2_1
+----------DEL BY:
+effect 17 - op MOVE PLACE_2_1 PLACE_1_1
+effect 18 - op MOVE PLACE_2_1 PLACE_3_1
+
+FT: (AT-ROBOT PLACE_1_2) rand: 585513
+----------PRE COND OF:
+effect 15 - op MOVE PLACE_1_2 PLACE_0_2
+effect 16 - op MOVE PLACE_1_2 PLACE_2_2
+----------ADD BY:
+effect 7 - op MOVE PLACE_2_2 PLACE_1_2
+effect 26 - op MOVE PLACE_0_2 PLACE_1_2
+----------DEL BY:
+effect 15 - op MOVE PLACE_1_2 PLACE_0_2
+effect 16 - op MOVE PLACE_1_2 PLACE_2_2
+
+FT: (AT-ROBOT PLACE_0_3) rand: 538094
+----------PRE COND OF:
+effect 13 - op MOVE PLACE_0_3 PLACE_0_2
+effect 14 - op MOVE PLACE_0_3 PLACE_1_3
+----------ADD BY:
+effect 5 - op MOVE PLACE_1_3 PLACE_0_3
+effect 25 - op MOVE PLACE_0_2 PLACE_0_3
+----------DEL BY:
+effect 13 - op MOVE PLACE_0_3 PLACE_0_2
+effect 14 - op MOVE PLACE_0_3 PLACE_1_3
+
+FT: (OPEN PLACE_3_2) rand: 367284
+----------PRE COND OF:
+effect 3 - op MOVE PLACE_3_3 PLACE_3_2
+effect 8 - op MOVE PLACE_2_2 PLACE_3_2
+effect 21 - op MOVE PLACE_3_1 PLACE_3_2
+----------ADD BY:
+effect 4 - op UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+effect 12 - op UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+effect 23 - op UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+----------DEL BY:
+
+FT: (AT-ROBOT PLACE_3_2) rand: 1288145
+----------PRE COND OF:
+effect 9 - op MOVE PLACE_3_2 PLACE_2_2
+effect 10 - op MOVE PLACE_3_2 PLACE_3_1
+effect 11 - op MOVE PLACE_3_2 PLACE_3_3
+----------ADD BY:
+effect 3 - op MOVE PLACE_3_3 PLACE_3_2
+effect 8 - op MOVE PLACE_2_2 PLACE_3_2
+effect 21 - op MOVE PLACE_3_1 PLACE_3_2
+----------DEL BY:
+effect 9 - op MOVE PLACE_3_2 PLACE_2_2
+effect 10 - op MOVE PLACE_3_2 PLACE_3_1
+effect 11 - op MOVE PLACE_3_2 PLACE_3_3
+
+FT: (AT-ROBOT PLACE_2_2) rand: 826782
+----------PRE COND OF:
+effect 7 - op MOVE PLACE_2_2 PLACE_1_2
+effect 8 - op MOVE PLACE_2_2 PLACE_3_2
+effect 12 - op UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+----------ADD BY:
+effect 9 - op MOVE PLACE_3_2 PLACE_2_2
+effect 16 - op MOVE PLACE_1_2 PLACE_2_2
+----------DEL BY:
+effect 7 - op MOVE PLACE_2_2 PLACE_1_2
+effect 8 - op MOVE PLACE_2_2 PLACE_3_2
+
+FT: (AT-ROBOT PLACE_1_3) rand: 395504
+----------PRE COND OF:
+effect 5 - op MOVE PLACE_1_3 PLACE_0_3
+effect 6 - op MOVE PLACE_1_3 PLACE_2_3
+----------ADD BY:
+effect 0 - op MOVE PLACE_2_3 PLACE_1_3
+effect 14 - op MOVE PLACE_0_3 PLACE_1_3
+----------DEL BY:
+effect 5 - op MOVE PLACE_1_3 PLACE_0_3
+effect 6 - op MOVE PLACE_1_3 PLACE_2_3
+
+FT: (AT-ROBOT PLACE_3_3) rand: 1057228
+----------PRE COND OF:
+effect 2 - op MOVE PLACE_3_3 PLACE_2_3
+effect 3 - op MOVE PLACE_3_3 PLACE_3_2
+effect 4 - op UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+----------ADD BY:
+effect 1 - op MOVE PLACE_2_3 PLACE_3_3
+effect 11 - op MOVE PLACE_3_2 PLACE_3_3
+----------DEL BY:
+effect 2 - op MOVE PLACE_3_3 PLACE_2_3
+effect 3 - op MOVE PLACE_3_3 PLACE_3_2
+
+FT: (AT-ROBOT PLACE_2_3) rand: 1159069
+----------PRE COND OF:
+effect 0 - op MOVE PLACE_2_3 PLACE_1_3
+effect 1 - op MOVE PLACE_2_3 PLACE_3_3
+----------ADD BY:
+effect 2 - op MOVE PLACE_3_3 PLACE_2_3
+effect 6 - op MOVE PLACE_1_3 PLACE_2_3
+----------DEL BY:
+effect 0 - op MOVE PLACE_2_3 PLACE_1_3
+effect 1 - op MOVE PLACE_2_3 PLACE_3_3
+
+FT: (LOCKED PLACE_3_2) rand: 756594
+----------PRE COND OF:
+effect 4 - op UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+effect 12 - op UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+effect 23 - op UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+----------ADD BY:
+----------DEL BY:
+effect 4 - op UNLOCK PLACE_3_3 PLACE_3_2 KEY_0 SHAPE_0
+effect 12 - op UNLOCK PLACE_2_2 PLACE_3_2 KEY_0 SHAPE_0
+effect 23 - op UNLOCK PLACE_3_1 PLACE_3_2 KEY_0 SHAPE_0
+
+FT: (LOCKED PLACE_1_1) rand: 985698
+----------PRE COND OF:
+effect 22 - op UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+effect 38 - op UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+----------ADD BY:
+----------DEL BY:
+effect 22 - op UNLOCK PLACE_2_1 PLACE_1_1 KEY_1 SHAPE_1
+effect 38 - op UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+
+FT: (LOCKED PLACE_0_1) rand: 1059429
+----------PRE COND OF:
+effect 31 - op UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+effect 32 - op UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+effect 42 - op UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+----------ADD BY:
+----------DEL BY:
+effect 31 - op UNLOCK PLACE_0_2 PLACE_0_1 KEY_0 SHAPE_0
+effect 32 - op UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+effect 42 - op UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+
+FT: (AT-ROBOT PLACE_0_0) rand: 1492417
+----------PRE COND OF:
+effect 39 - op MOVE PLACE_0_0 PLACE_0_1
+effect 42 - op UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+effect 43 - op PICKUP PLACE_0_0 KEY_1
+effect 44 - op PICKUP PLACE_0_0 KEY_0
+effect 45 - op MOVE PLACE_0_0 PLACE_1_0
+----------ADD BY:
+effect 33 - op MOVE PLACE_0_1 PLACE_0_0
+effect 40 - op MOVE PLACE_1_0 PLACE_0_0
+----------DEL BY:
+effect 39 - op MOVE PLACE_0_0 PLACE_0_1
+effect 45 - op MOVE PLACE_0_0 PLACE_1_0
+
+FT: (AT KEY_1 PLACE_0_0) rand: 1194675
+----------PRE COND OF:
+effect 43 - op PICKUP PLACE_0_0 KEY_1
+----------ADD BY:
+----------DEL BY:
+effect 43 - op PICKUP PLACE_0_0 KEY_1
+
+FT: (AT KEY_0 PLACE_0_0) rand: 683623
+----------PRE COND OF:
+effect 44 - op PICKUP PLACE_0_0 KEY_0
+----------ADD BY:
+----------DEL BY:
+effect 44 - op PICKUP PLACE_0_0 KEY_0
+
+----------------------FLUENT ARRAY:-----------------------------
+
+----------------------GOAL:-----------------------------
+(AT-ROBOT PLACE_1_2)
+DIRECT: 
+
+
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+Cueing down from goal distance:    5 into depth [1]
+                                   4            [1]
+                                   3            [1]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: PICKUP PLACE_0_0 KEY_0
+        1: UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+        2: MOVE PLACE_0_0 PLACE_0_1
+        3: MOVE PLACE_0_1 PLACE_0_2
+        4: MOVE PLACE_0_2 PLACE_1_2
+     
+
+time spent:    0.00 seconds instantiating 76 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 39 facts and 46 actions
+               0.00 seconds creating final representation with 26 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 6 states, to a max depth of 1
+               0.00 seconds total time
+
+

@@ -1,0 +1,83 @@
+
+ff: parsing domain file
+domain 'NAVIGATOR' defined
+ ... done.
+ff: parsing problem file
+problem 'NAV15X5' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_3)
+
+EFS:
+effect 59 to MOVE PLACE_2_3 PLACE_2_4
+effect 60 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_2_4)
+
+EFS:
+effect 53 to MOVE PLACE_2_4 PLACE_2_3
+effect 54 to MOVE PLACE_2_4 PLACE_2_5
+effect 55 to MOVE PLACE_2_4 PLACE_3_4
+effect 56 to MOVE PLACE_3_3 PLACE_2_3
+effect 57 to MOVE PLACE_3_3 PLACE_3_4
+effect 58 to MOVE PLACE_3_3 PLACE_4_3
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_4)
+
+Cueing down from goal distance:    2 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_4)
+
+EFS:
+effect 53 to MOVE PLACE_2_4 PLACE_2_3
+effect 54 to MOVE PLACE_2_4 PLACE_2_5
+effect 55 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_4)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_3_4)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_2_3 PLACE_2_4
+        1: MOVE PLACE_2_4 PLACE_3_4
+     
+
+time spent:    0.00 seconds instantiating 61 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 20 facts and 61 actions
+               0.00 seconds creating final representation with 20 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 3 states, to a max depth of 1
+               0.00 seconds total time
+
+

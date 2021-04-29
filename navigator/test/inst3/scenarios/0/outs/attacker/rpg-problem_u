@@ -1,0 +1,220 @@
+
+ff: parsing domain file
+domain 'NAVIGATOR' defined
+ ... done.
+ff: parsing problem file
+problem 'NAV15X5' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_3)
+
+EFS:
+effect 59 to MOVE PLACE_2_3 PLACE_2_4
+effect 60 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_2_4)
+
+EFS:
+effect 53 to MOVE PLACE_2_4 PLACE_2_3
+effect 54 to MOVE PLACE_2_4 PLACE_2_5
+effect 55 to MOVE PLACE_2_4 PLACE_3_4
+effect 56 to MOVE PLACE_3_3 PLACE_2_3
+effect 57 to MOVE PLACE_3_3 PLACE_3_4
+effect 58 to MOVE PLACE_3_3 PLACE_4_3
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_4_3)
+(AT PLACE_3_4)
+(AT PLACE_2_5)
+
+EFS:
+effect 43 to MOVE PLACE_2_5 PLACE_2_4
+effect 44 to MOVE PLACE_2_5 PLACE_2_6
+effect 45 to MOVE PLACE_2_5 PLACE_3_5
+effect 46 to MOVE PLACE_3_4 PLACE_2_4
+effect 47 to MOVE PLACE_3_4 PLACE_3_3
+effect 48 to MOVE PLACE_3_4 PLACE_3_5
+effect 49 to MOVE PLACE_3_4 PLACE_4_4
+effect 50 to MOVE PLACE_4_3 PLACE_3_3
+effect 51 to MOVE PLACE_4_3 PLACE_4_4
+effect 52 to MOVE PLACE_4_3 PLACE_5_3
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_5_3)
+(AT PLACE_4_4)
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+
+EFS:
+effect 30 to MOVE PLACE_2_6 PLACE_2_5
+effect 31 to MOVE PLACE_2_6 PLACE_2_7
+effect 32 to MOVE PLACE_2_6 PLACE_3_6
+effect 33 to MOVE PLACE_3_5 PLACE_2_5
+effect 34 to MOVE PLACE_3_5 PLACE_3_4
+effect 35 to MOVE PLACE_3_5 PLACE_3_6
+effect 36 to MOVE PLACE_3_5 PLACE_4_5
+effect 37 to MOVE PLACE_4_4 PLACE_3_4
+effect 38 to MOVE PLACE_4_4 PLACE_4_3
+effect 39 to MOVE PLACE_4_4 PLACE_4_5
+effect 40 to MOVE PLACE_4_4 PLACE_5_4
+effect 41 to MOVE PLACE_5_3 PLACE_4_3
+effect 42 to MOVE PLACE_5_3 PLACE_5_4
+
+LEVEL 4:
+
+FACTS:
+(AT PLACE_2_7)
+
+Cueing down from goal distance:    4 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_4)
+
+EFS:
+effect 53 to MOVE PLACE_2_4 PLACE_2_3
+effect 54 to MOVE PLACE_2_4 PLACE_2_5
+effect 55 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_3_4)
+(AT PLACE_2_5)
+(AT PLACE_2_3)
+
+EFS:
+effect 43 to MOVE PLACE_2_5 PLACE_2_4
+effect 44 to MOVE PLACE_2_5 PLACE_2_6
+effect 45 to MOVE PLACE_2_5 PLACE_3_5
+effect 46 to MOVE PLACE_3_4 PLACE_2_4
+effect 47 to MOVE PLACE_3_4 PLACE_3_3
+effect 48 to MOVE PLACE_3_4 PLACE_3_5
+effect 49 to MOVE PLACE_3_4 PLACE_4_4
+effect 59 to MOVE PLACE_2_3 PLACE_2_4
+effect 60 to MOVE PLACE_2_3 PLACE_3_3
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_3_3)
+(AT PLACE_4_4)
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+
+EFS:
+effect 30 to MOVE PLACE_2_6 PLACE_2_5
+effect 31 to MOVE PLACE_2_6 PLACE_2_7
+effect 32 to MOVE PLACE_2_6 PLACE_3_6
+effect 33 to MOVE PLACE_3_5 PLACE_2_5
+effect 34 to MOVE PLACE_3_5 PLACE_3_4
+effect 35 to MOVE PLACE_3_5 PLACE_3_6
+effect 36 to MOVE PLACE_3_5 PLACE_4_5
+effect 37 to MOVE PLACE_4_4 PLACE_3_4
+effect 38 to MOVE PLACE_4_4 PLACE_4_3
+effect 39 to MOVE PLACE_4_4 PLACE_4_5
+effect 40 to MOVE PLACE_4_4 PLACE_5_4
+effect 56 to MOVE PLACE_3_3 PLACE_2_3
+effect 57 to MOVE PLACE_3_3 PLACE_3_4
+effect 58 to MOVE PLACE_3_3 PLACE_4_3
+
+LEVEL 3:
+
+FACTS:
+(AT PLACE_2_7)
+                                   3            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_5)
+
+EFS:
+effect 43 to MOVE PLACE_2_5 PLACE_2_4
+effect 44 to MOVE PLACE_2_5 PLACE_2_6
+effect 45 to MOVE PLACE_2_5 PLACE_3_5
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_2_4)
+(AT PLACE_3_5)
+(AT PLACE_2_6)
+
+EFS:
+effect 30 to MOVE PLACE_2_6 PLACE_2_5
+effect 31 to MOVE PLACE_2_6 PLACE_2_7
+effect 32 to MOVE PLACE_2_6 PLACE_3_6
+effect 33 to MOVE PLACE_3_5 PLACE_2_5
+effect 34 to MOVE PLACE_3_5 PLACE_3_4
+effect 35 to MOVE PLACE_3_5 PLACE_3_6
+effect 36 to MOVE PLACE_3_5 PLACE_4_5
+effect 53 to MOVE PLACE_2_4 PLACE_2_3
+effect 54 to MOVE PLACE_2_4 PLACE_2_5
+effect 55 to MOVE PLACE_2_4 PLACE_3_4
+
+LEVEL 2:
+
+FACTS:
+(AT PLACE_2_7)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_6)
+
+EFS:
+effect 30 to MOVE PLACE_2_6 PLACE_2_5
+effect 31 to MOVE PLACE_2_6 PLACE_2_7
+effect 32 to MOVE PLACE_2_6 PLACE_3_6
+
+LEVEL 1:
+
+FACTS:
+(AT PLACE_2_7)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT PLACE_2_7)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_2_3 PLACE_2_4
+        1: MOVE PLACE_2_4 PLACE_2_5
+        2: MOVE PLACE_2_5 PLACE_2_6
+        3: MOVE PLACE_2_6 PLACE_2_7
+     
+
+time spent:    0.00 seconds instantiating 61 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 20 facts and 61 actions
+               0.00 seconds creating final representation with 20 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 5 states, to a max depth of 1
+               0.00 seconds total time
+
+

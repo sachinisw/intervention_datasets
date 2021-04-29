@@ -1,0 +1,31 @@
+:LGG VERIFIED
+{[(ON A L), (ON L E)]}: 
+{[(CLEAR L)]}: {[(ON A L)]} {[(HOLDING L)]} 
+{[(ON A L)]}: 
+{[(HOLDING A)]}: {[(ON A L)]} 
+{[(CLEAR E)]}: {[(ON L E)]} 
+{[(ON L E)]}: 
+{[(HOLDING L)]}: {[(ON L E)]} 
+{[(CLEAR A)]}: {[(HOLDING A)]} 
+{[(HANDEMPTY)]}: {[(HOLDING A)]} {[(HOLDING L)]} 
+{[(ONTABLE A)]}: {[(HOLDING A)]} 
+{[(ONTABLE L)]}: {[(HOLDING L)]} 
+
+:VERIFIED LM
+{[(HOLDING L)]}
+{[(CLEAR A)]}
+{[(ON A L), (ON L E)]}
+{[(ONTABLE L)]}
+{[(ON L E)]}
+{[(ON A L)]}
+{[(CLEAR L)]}
+{[(HANDEMPTY)]}
+{[(ONTABLE A)]}
+{[(HOLDING A)]}
+{[(CLEAR E)]}
+
+:LGG UNVERIFIED ACHIEVERS
+[STACK L E]	->[(CLEAR E), (HOLDING L)]
+[PICK-UP A]	->[(CLEAR A), (HANDEMPTY), (ONTABLE A)]
+[PICK-UP L]	->[(CLEAR L), (HANDEMPTY), (ONTABLE L)]
+[STACK A L]	->[(CLEAR L), (HOLDING A)]

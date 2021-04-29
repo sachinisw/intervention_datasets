@@ -1,0 +1,217 @@
+
+ff: parsing domain file
+domain 'GRID' defined
+ ... done.
+ff: parsing problem file
+problem 'GRID3X3' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(LOCKED PLACE_2_3)
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT-ROBOT PLACE_0_0)
+(AT KEY_2 PLACE_0_0)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 46 to PICKUP PLACE_0_0 KEY_2
+effect 47 to PICKUP PLACE_0_0 KEY_1
+effect 48 to PICKUP PLACE_0_0 KEY_0
+effect 49 to MOVE PLACE_0_0 PLACE_1_0
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_1_0)
+(CARRYING KEY_0)
+(CARRYING KEY_1)
+(CARRYING KEY_2)
+
+EFS:
+effect 41 to MOVE PLACE_1_0 PLACE_0_0
+effect 43 to MOVE PLACE_1_0 PLACE_2_0
+effect 44 to UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+effect 45 to UNLOCK PLACE_1_0 PLACE_1_1 KEY_1 SHAPE_1
+
+LEVEL 2:
+
+FACTS:
+(OPEN PLACE_1_1)
+(OPEN PLACE_0_1)
+(AT-ROBOT PLACE_2_0)
+
+EFS:
+effect 36 to MOVE PLACE_2_0 PLACE_1_0
+effect 37 to MOVE PLACE_2_0 PLACE_3_0
+effect 40 to MOVE PLACE_0_0 PLACE_0_1
+effect 42 to MOVE PLACE_1_0 PLACE_1_1
+
+LEVEL 3:
+
+FACTS:
+(AT-ROBOT PLACE_1_1)
+(AT-ROBOT PLACE_0_1)
+(AT-ROBOT PLACE_3_0)
+
+EFS:
+effect 24 to MOVE PLACE_3_0 PLACE_2_0
+effect 25 to MOVE PLACE_3_0 PLACE_3_1
+effect 29 to MOVE PLACE_0_1 PLACE_0_0
+effect 30 to MOVE PLACE_0_1 PLACE_0_2
+effect 31 to MOVE PLACE_0_1 PLACE_1_1
+effect 32 to MOVE PLACE_1_1 PLACE_0_1
+effect 33 to MOVE PLACE_1_1 PLACE_1_0
+effect 34 to MOVE PLACE_1_1 PLACE_1_2
+effect 35 to MOVE PLACE_1_1 PLACE_2_1
+effect 38 to UNLOCK PLACE_1_1 PLACE_0_1 KEY_0 SHAPE_0
+effect 39 to UNLOCK PLACE_0_1 PLACE_1_1 KEY_1 SHAPE_1
+
+LEVEL 4:
+
+FACTS:
+(AT-ROBOT PLACE_3_1)
+
+Cueing down from goal distance:    4 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_1_0)
+(LOCKED PLACE_2_3)
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT KEY_2 PLACE_0_0)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 41 to MOVE PLACE_1_0 PLACE_0_0
+effect 43 to MOVE PLACE_1_0 PLACE_2_0
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_2_0)
+(AT-ROBOT PLACE_0_0)
+
+EFS:
+effect 36 to MOVE PLACE_2_0 PLACE_1_0
+effect 37 to MOVE PLACE_2_0 PLACE_3_0
+effect 46 to PICKUP PLACE_0_0 KEY_2
+effect 47 to PICKUP PLACE_0_0 KEY_1
+effect 48 to PICKUP PLACE_0_0 KEY_0
+effect 49 to MOVE PLACE_0_0 PLACE_1_0
+
+LEVEL 2:
+
+FACTS:
+(CARRYING KEY_0)
+(CARRYING KEY_1)
+(CARRYING KEY_2)
+(AT-ROBOT PLACE_3_0)
+
+EFS:
+effect 24 to MOVE PLACE_3_0 PLACE_2_0
+effect 25 to MOVE PLACE_3_0 PLACE_3_1
+effect 44 to UNLOCK PLACE_0_0 PLACE_0_1 KEY_0 SHAPE_0
+effect 45 to UNLOCK PLACE_1_0 PLACE_1_1 KEY_1 SHAPE_1
+
+LEVEL 3:
+
+FACTS:
+(AT-ROBOT PLACE_3_1)
+                                   3            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_2_0)
+(LOCKED PLACE_2_3)
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT KEY_2 PLACE_0_0)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 36 to MOVE PLACE_2_0 PLACE_1_0
+effect 37 to MOVE PLACE_2_0 PLACE_3_0
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_1_0)
+(AT-ROBOT PLACE_3_0)
+
+EFS:
+effect 24 to MOVE PLACE_3_0 PLACE_2_0
+effect 25 to MOVE PLACE_3_0 PLACE_3_1
+effect 41 to MOVE PLACE_1_0 PLACE_0_0
+effect 43 to MOVE PLACE_1_0 PLACE_2_0
+
+LEVEL 2:
+
+FACTS:
+(AT-ROBOT PLACE_3_1)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_3_0)
+(LOCKED PLACE_2_3)
+(LOCKED PLACE_3_2)
+(LOCKED PLACE_0_1)
+(LOCKED PLACE_1_1)
+(AT KEY_2 PLACE_0_0)
+(AT KEY_1 PLACE_0_0)
+(AT KEY_0 PLACE_0_0)
+
+EFS:
+effect 24 to MOVE PLACE_3_0 PLACE_2_0
+effect 25 to MOVE PLACE_3_0 PLACE_3_1
+
+LEVEL 1:
+
+FACTS:
+(AT-ROBOT PLACE_3_1)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-ROBOT PLACE_3_1)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: MOVE PLACE_0_0 PLACE_1_0
+        1: MOVE PLACE_1_0 PLACE_2_0
+        2: MOVE PLACE_2_0 PLACE_3_0
+        3: MOVE PLACE_3_0 PLACE_3_1
+     
+
+time spent:    0.00 seconds instantiating 92 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 40 facts and 50 actions
+               0.00 seconds creating final representation with 29 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 5 states, to a max depth of 1
+               0.00 seconds total time
+
+

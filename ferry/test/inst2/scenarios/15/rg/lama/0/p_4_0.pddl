@@ -1,0 +1,21 @@
+(define (problem ferry43)
+	(:domain ferry)
+(:init
+(AT C1 L1)
+(AT C2 L3)
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(NOT-EQ L1 L2)
+(NOT-EQ L1 L4)
+(NOT-EQ L2 L1)
+(NOT-EQ L2 L3)
+(NOT-EQ L3 L2)
+(NOT-EQ L3 L4)
+(NOT-EQ L4 L1)
+(NOT-EQ L4 L3)
+
+)
+(:goal (and
+(obp_SAIL_L2-L3)(obp_BOARD_C2-L3)(obp_SAIL_L3-L2)(obp_SAIL_L2-L1)(obp_DEBARK_C2-L1)(AT-FERRY L2)(ON C1)
+))
+)

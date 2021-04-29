@@ -1,0 +1,10 @@
+Subject:5F731C470B
+ Q1:"20 – 25"
+ Q2:"Female"
+ Q3:"4"
+ Q4:"4"
+ Q5:["fun","critical thinking"]		""		
+ Q6:"Once a month"		""		
+ Q7:"Give up"		""		
+ Q8:"suggestion"		""		
+ Q9:["mobile","laptop"]		""		

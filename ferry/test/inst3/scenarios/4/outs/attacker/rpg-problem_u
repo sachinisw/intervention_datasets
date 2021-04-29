@@ -1,0 +1,733 @@
+
+ff: parsing domain file
+domain 'FERRY' defined
+ ... done.
+ff: parsing problem file
+problem 'FERRY44' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+LEVEL 0:
+
+FACTS:
+(EMPTY-FERRY)
+(AT C2 L1)
+(AT C1 L1)
+(AT-FERRY L4)
+
+EFS:
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(AT-FERRY L1)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(ON C2)
+
+EFS:
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 16 to DEBARK C2 L1
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+(AT C2 L2)
+
+Cueing down from goal distance:    6 into depth [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(EMPTY-FERRY)
+(AT C2 L1)
+(AT C1 L1)
+
+EFS:
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(ON C1)
+(ON C2)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 16 to DEBARK C2 L1
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(AT C1 L4)
+(AT C2 L2)
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(AT C2 L1)
+(AT C1 L1)
+
+EFS:
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L1)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(ON C2)
+
+EFS:
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 16 to DEBARK C2 L1
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+(AT C2 L2)[2]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(ON C2)
+(AT C1 L1)
+
+EFS:
+effect 16 to DEBARK C2 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(AT C2 L1)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(AT C2 L2)
+(AT C2 L3)
+(AT C2 L4)
+(AT C2 L5)
+
+EFS:
+effect 0 to BOARD C2 L5
+effect 1 to BOARD C2 L4
+effect 2 to BOARD C2 L3
+effect 3 to BOARD C2 L2
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(ON C1)
+(AT C2 L1)
+
+EFS:
+effect 21 to DEBARK C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(AT C1 L1)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C2)
+(AT C1 L2)
+(AT C1 L3)
+(AT C1 L4)
+(AT C1 L5)
+
+EFS:
+effect 4 to BOARD C1 L5
+effect 5 to BOARD C1 L4
+effect 6 to BOARD C1 L3
+effect 7 to BOARD C1 L2
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 16 to DEBARK C2 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C2 L2)[3]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L2)
+(ON C2)
+(AT C1 L1)
+
+EFS:
+effect 15 to DEBARK C2 L2
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L1)
+(AT C2 L2)
+(EMPTY-FERRY)
+(AT-FERRY L4)
+
+EFS:
+effect 3 to BOARD C2 L2
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 16 to DEBARK C2 L1
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(AT C2 L3)
+(AT C2 L4)
+(AT C2 L5)
+(AT C2 L1)
+
+EFS:
+effect 0 to BOARD C2 L5
+effect 1 to BOARD C2 L4
+effect 2 to BOARD C2 L3
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+effect 22 to BOARD C2 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+                                   5            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(ON C2)
+(AT C1 L1)
+
+EFS:
+effect 16 to DEBARK C2 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(AT C2 L1)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 22 to BOARD C2 L1
+effect 23 to BOARD C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(AT C2 L2)
+(AT C2 L3)
+(AT C2 L4)
+(AT C2 L5)
+
+EFS:
+effect 0 to BOARD C2 L5
+effect 1 to BOARD C2 L4
+effect 2 to BOARD C2 L3
+effect 3 to BOARD C2 L2
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L2)
+(AT C2 L2)
+(EMPTY-FERRY)
+(AT C1 L1)
+
+EFS:
+effect 3 to BOARD C2 L2
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L1)
+(ON C2)
+(AT-FERRY L4)
+
+EFS:
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 12 to DEBARK C2 L5
+effect 13 to DEBARK C2 L4
+effect 14 to DEBARK C2 L3
+effect 15 to DEBARK C2 L2
+effect 16 to DEBARK C2 L1
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(ON C1)
+(AT C2 L3)
+(AT C2 L4)
+(AT C2 L5)
+(AT C2 L1)
+
+EFS:
+effect 0 to BOARD C2 L5
+effect 1 to BOARD C2 L4
+effect 2 to BOARD C2 L3
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+effect 22 to BOARD C2 L1
+
+LEVEL 3:
+
+FACTS:
+(AT C1 L4)
+                                   4            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(AT C2 L2)
+(EMPTY-FERRY)
+(AT C1 L1)
+
+EFS:
+effect 23 to BOARD C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(ON C1)
+(AT-FERRY L4)
+
+EFS:
+effect 3 to BOARD C2 L2
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 21 to DEBARK C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(AT C1 L4)
+                                   3            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT-FERRY L1)
+(ON C1)
+(AT C2 L2)
+
+EFS:
+effect 21 to DEBARK C1 L1
+effect 24 to SAIL L1 L2
+effect 25 to SAIL L1 L3
+effect 26 to SAIL L1 L4
+effect 27 to SAIL L1 L5
+
+LEVEL 1:
+
+FACTS:
+(AT-FERRY L5)
+(AT-FERRY L3)
+(AT-FERRY L2)
+(EMPTY-FERRY)
+(AT C1 L1)
+(AT-FERRY L4)
+
+EFS:
+effect 3 to BOARD C2 L2
+effect 8 to SAIL L5 L1
+effect 9 to SAIL L5 L2
+effect 10 to SAIL L5 L3
+effect 11 to SAIL L5 L4
+effect 17 to DEBARK C1 L5
+effect 18 to DEBARK C1 L4
+effect 19 to DEBARK C1 L3
+effect 20 to DEBARK C1 L2
+effect 23 to BOARD C1 L1
+effect 28 to SAIL L2 L1
+effect 29 to SAIL L2 L3
+effect 30 to SAIL L2 L4
+effect 31 to SAIL L2 L5
+effect 32 to SAIL L3 L1
+effect 33 to SAIL L3 L2
+effect 34 to SAIL L3 L4
+effect 35 to SAIL L3 L5
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 2:
+
+FACTS:
+(AT C1 L4)
+                                   2            [1]
+
+LEVEL 0:
+
+FACTS:
+(ON C1)
+(AT C2 L2)
+(AT-FERRY L4)
+
+EFS:
+effect 18 to DEBARK C1 L4
+effect 36 to SAIL L4 L1
+effect 37 to SAIL L4 L2
+effect 38 to SAIL L4 L3
+effect 39 to SAIL L4 L5
+
+LEVEL 1:
+
+FACTS:
+(AT C1 L4)
+                                   1            [1]
+
+LEVEL 0:
+
+FACTS:
+(AT C1 L4)
+(AT C2 L2)
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: SAIL L4 L1
+        1: BOARD C2 L1
+        2: SAIL L1 L2
+        3: DEBARK C2 L2
+        4: SAIL L2 L1
+        5: BOARD C1 L1
+        6: SAIL L1 L4
+        7: DEBARK C1 L4
+     
+
+time spent:    0.00 seconds instantiating 40 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 18 facts and 40 actions
+               0.00 seconds creating final representation with 18 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 12 states, to a max depth of 3
+               0.00 seconds total time
+
+

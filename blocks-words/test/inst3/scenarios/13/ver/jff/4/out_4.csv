@@ -1,0 +1,6 @@
+N:,PICK-UP O,(ON R O)(ON O W)
+N:,STACK O W,(ON R O)(ON O W)
+N:,PICK-UP A,(ON R O)(ON O W)
+N:,STACK A O,(ON R O)(ON O W)
+N:,PICK-UP R,(ON R O)(ON O W)
+N:,STACK R A,(ON R O)(ON O W)

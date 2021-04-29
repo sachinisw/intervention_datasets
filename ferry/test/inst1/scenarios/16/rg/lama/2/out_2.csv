@@ -1,0 +1,11 @@
+N:,SAIL L5 L4,null
+N:,SAIL L4 L3,null
+N:,BOARD C2 L3,null
+N:,SAIL L3 L2,(AT-FERRY L1)(ON C2)
+Y:,SAIL L2 L1,null
+N:,SAIL L1 L6,desirable:(AT C1 L2)(AT C2 L6)
+N:,DEBARK C2 L6,(AT-FERRY L1)(ON C2)
+N:,SAIL L6 L1,desirable:(AT C1 L2)(AT C2 L6)
+N:,BOARD C1 L1,desirable:(AT C1 L2)(AT C2 L6)
+N:,SAIL L1 L2,desirable:(AT C1 L2)(AT C2 L6)
+N:,DEBARK C1 L2,desirable:(AT C1 L2)(AT C2 L6)

@@ -1,0 +1,51 @@
+:LGG VERIFIED
+{[(AT C1 L2), (AT C2 L2)]}: 
+{[(AT-FERRY L2)]}: {[(AT C1 L2)]} {[(AT C2 L2)]} 
+{[(AT C1 L2)]}: 
+{[(ON C1)]}: {[(AT C1 L2)]} 
+{[(AT C2 L2)]}: 
+{[(ON C2)]}: {[(AT C2 L2)]} 
+{[(AT C1 L1)]}: {[(ON C1)]} 
+{[(AT-FERRY L1)]}: {[(ON C1)]} 
+{[(EMPTY-FERRY)]}: {[(ON C1)]} {[(ON C2)]} 
+{[(AT C2 L3)]}: {[(ON C2)]} 
+{[(AT-FERRY L3)]}: {[(ON C2)]} 
+{[(AT-FERRY L5)]}: 
+
+:VERIFIED LM
+{[(ON C1)]}
+{[(EMPTY-FERRY)]}
+{[(AT C1 L2), (AT C2 L2)]}
+{[(AT C1 L2)]}
+{[(AT C1 L1)]}
+{[(AT-FERRY L5)]}
+{[(AT-FERRY L2)]}
+{[(AT-FERRY L3)]}
+{[(AT-FERRY L1)]}
+{[(AT C2 L3)]}
+{[(AT C2 L2)]}
+{[(ON C2)]}
+
+:LGG GREEDY NECESSARY ORDERS
+{[(ON C1)]}: [{[(AT C1 L1)]}, {[(EMPTY-FERRY)]}, {[(AT-FERRY L1)]}]
+{[(EMPTY-FERRY)]}: []
+{[(AT-FERRY L5)]}: []
+{[(AT C1 L2), (AT C2 L2)]}: []
+{[(AT-FERRY L2)]}: []
+{[(AT-FERRY L3)]}: []
+{[(AT-FERRY L1)]}: []
+{[(AT C2 L3)]}: []
+{[(AT C2 L2)]}: [{[(ON C2)]}, {[(AT-FERRY L2)]}]
+{[(ON C2)]}: [{[(AT C2 L3)]}, {[(EMPTY-FERRY)]}, {[(AT-FERRY L3)]}]
+{[(AT C1 L2)]}: [{[(ON C1)]}, {[(AT-FERRY L2)]}]
+{[(AT C1 L1)]}: []
+
+:LGG UNVERIFIED ACHIEVERS
+[SAIL L4 L3]	->[(AT-FERRY L4)]
+[DEBARK C1 L2]	->[(AT-FERRY L2), (ON C1)]
+[SAIL L5 L4]	->[(AT-FERRY L5)]
+[DEBARK C2 L2]	->[(AT-FERRY L2), (ON C2)]
+[SAIL L1 L2, SAIL L3 L2]	->[]
+[SAIL L4 L1, SAIL L6 L1]	->[]
+[BOARD C1 L1]	->[(AT C1 L1), (AT-FERRY L1), (EMPTY-FERRY)]
+[BOARD C2 L3]	->[(AT C2 L3), (AT-FERRY L3), (EMPTY-FERRY)]

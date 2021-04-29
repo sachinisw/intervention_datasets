@@ -1,0 +1,4 @@
+ob,c,r,d,fo,0.0<=x<1.0,1.0<=x<1.1,dToCritical,dToDesirable,hasLM,Label
+MOVE PLACE_2_4 PLACE_3_4,1.0,0.0,1.0,1.0,1, 0,-1,0,0.0,N
+MOVE PLACE_3_3 PLACE_3_4,1.0,0.0,1.0,1.0,1, 0,-1,0,0.0,N
+MOVE PLACE_3_3 PLACE_3_4,1.0,0.0,1.0,1.0,1, 0,-1,0,0.0,N

@@ -1,0 +1,18 @@
+(define (problem blocks_words)
+	(:domain blocks)
+(:init
+(CLEAR A)
+(CLEAR H)
+(CLEAR O)
+(CLEAR W)
+(HANDEMPTY)
+(ONTABLE A)
+(ONTABLE H)
+(ONTABLE O)
+(ONTABLE W)
+
+)
+(:goal (and
+( not (obp_PICK-UP_O))( not (obp_STACK_O-A))(ON W H)(ON H A)
+))
+)

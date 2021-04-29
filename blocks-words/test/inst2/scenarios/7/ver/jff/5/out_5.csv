@@ -1,0 +1,6 @@
+N:,PICK-UP U,(ON H U)(ON U T)
+N:,STACK U T,(ON H U)(ON U T)
+N:,PICK-UP E,(ON H U)(ON U T)
+N:,STACK E U,(ON H U)(ON U T)
+N:,PICK-UP H,(ON H U)(ON U T)
+N:,STACK H E,(ON H U)(ON U T)

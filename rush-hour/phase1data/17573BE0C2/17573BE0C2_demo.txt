@@ -1,0 +1,10 @@
+Subject:17573BE0C2
+ Q1:"20 – 25"
+ Q2:"Male"
+ Q3:"5"
+ Q4:"5"
+ Q5:["critical thinking","fun"]		""		
+ Q6:"Once every 2-3 days"		""		
+ Q7:"Ask for help"		""		
+ Q8:"suggestion"		""		
+ Q9:["mobile","console","laptop","q9other"]		"Physical puzzles like Rubiks Cubes"		

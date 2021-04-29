@@ -1,0 +1,15 @@
+
+Mode:tk
+Total Observations = 777
+TPR	TNR	FPR	FNR
+1	0.952	0.048	0
+precision=0.4461538461538462 recall=1.0 F1=0.6170212765957447
+
+COUNTS
+TP	TN	FP	FN
+29	712	36	0
+
+MCC
+
+
+0.652
