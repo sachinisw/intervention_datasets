@@ -3,7 +3,8 @@
 Contains datasets used in evaluating Single-agent Intervention, Multi-agent Intervention and Human-aware Intervention problems
 
 # Benchmark domains - for single-agent, multi-agent Intervention
-* Blocks-words
+* Blocks-words : directly contributing action  recognition use cases
+* Blocks-words2 : indirectly contributing sequences recognition use cases
 * EasyIPC Grid
 * Navigator
 * Ferry
