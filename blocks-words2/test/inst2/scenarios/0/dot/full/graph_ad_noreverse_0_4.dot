@@ -1,0 +1,21 @@
+digraph {
+"CLEAR C\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nON A T\nHANDEMPTY\n.5\n" -> "CLEAR C\nCLEAR T\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nHOLDING A\n.5\n"[label="UNSTACK A T\n1.0\n"];
+"CLEAR C\nCLEAR T\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nHOLDING A\n.5\n" -> "CLEAR T\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A C\nONTABLE C\nHANDEMPTY\n.5\n"[label="STACK A C\n1.0\n"];
+"CLEAR T\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A C\nONTABLE C\nHANDEMPTY\n.5\n" -> "CLEAR A\nCLEAR R\nONTABLE R\nON A C\nONTABLE C\nHOLDING T\n.5\n"[label="PICK-UP T\n1.0\n"];
+"CLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A T\nHOLDING C\n.5\n" -> "CLEAR C\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nON A T\nHANDEMPTY\n.5\n"[label="PUT-DOWN C\n1.0\n"];
+"CLEAR C\nONTABLE T\nON C A\nON A T\nHOLDING R\n.5\n" -> "CLEAR R\nON R C\nONTABLE T\nON C A\nON A T\nHANDEMPTY\n.5\n"[label="STACK R C\n1.0\n"];
+"CLEAR A\nCLEAR R\nONTABLE R\nON A C\nONTABLE C\nHOLDING T\n.5\n" -> "CLEAR T\nCLEAR R\nON T A\nONTABLE R\nON A C\nONTABLE C\nHANDEMPTY\n.5\n"[label="STACK T A\n1.0\n"];
+"CLEAR R\nONTABLE R\nONTABLE T\nON A T\nON A T\nCLEAR C\nHANDEMPTY\nON C A\nCLEAR C\nHANDEMPTY\nON C A\n1.0\n" -> "CLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A T\nHOLDING C\n.5\n"[label="UNSTACK C A\n.5\n"];
+"CLEAR R\nONTABLE R\nONTABLE T\nON A T\nON A T\nCLEAR C\nHANDEMPTY\nON C A\nCLEAR C\nHANDEMPTY\nON C A\n1.0\n" -> "CLEAR C\nONTABLE T\nON C A\nON A T\nHOLDING R\n.5\n"[label="PICK-UP R\n.5\n"];
+"CLEAR R\nON R C\nONTABLE T\nON C A\nON A T\nHANDEMPTY\n.5\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"CLEAR T\nCLEAR R\nON T A\nONTABLE R\nON A C\nONTABLE C\nHANDEMPTY\n.5\n" [shape=circle, penwidth=3];
+"CLEAR R\nON R C\nONTABLE T\nON C A\nON A T\nHANDEMPTY\n.5\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"CLEAR T\nCLEAR R\nON T A\nONTABLE R\nON A C\nONTABLE C\nHANDEMPTY\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nON A T\nHANDEMPTY\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nCLEAR T\nCLEAR R\nONTABLE R\nONTABLE T\nONTABLE C\nHOLDING A\n.5\n" [shape=circle, penwidth=3];
+"CLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A T\nHOLDING C\n.5\n" [shape=circle, penwidth=3];
+"CLEAR T\nCLEAR A\nCLEAR R\nONTABLE R\nONTABLE T\nON A C\nONTABLE C\nHANDEMPTY\n.5\n" [shape=circle, penwidth=3];
+"CLEAR R\nONTABLE R\nONTABLE T\nON A T\nON A T\nCLEAR C\nHANDEMPTY\nON C A\nCLEAR C\nHANDEMPTY\nON C A\n1.0\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"CLEAR A\nCLEAR R\nONTABLE R\nON A C\nONTABLE C\nHOLDING T\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nONTABLE T\nON C A\nON A T\nHOLDING R\n.5\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+}

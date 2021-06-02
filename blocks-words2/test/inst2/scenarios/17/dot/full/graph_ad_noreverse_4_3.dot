@@ -1,0 +1,13 @@
+digraph {
+"CLEAR C\nON E S\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n" -> "ON E S\nON S H\nHOLDING C\nONTABLE H\nCLEAR E\n.5\n"[label="PICK-UP C\n1.0\n"];
+"ON E S\nON S H\nHOLDING C\nONTABLE H\nCLEAR E\n.5\n" -> "CLEAR C\nON E S\nON S H\nHANDEMPTY\nONTABLE H\nON C E\n.5\n"[label="STACK C E\n1.0\n"];
+"CLEAR C\nONTABLE C\nONTABLE H\nCLEAR S\nON S H\nHOLDING E\nHOLDING E\n1.0\n" -> "CLEAR C\nON E S\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n"[label="STACK E S\n.5\n"];
+"CLEAR C\nONTABLE C\nONTABLE H\nCLEAR S\nON S H\nHOLDING E\nHOLDING E\n1.0\n" -> "CLEAR S\nON E C\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n"[label="STACK E C\n.5\n"];
+"CLEAR S\nON E C\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nON E S\nON S H\nHANDEMPTY\nONTABLE H\nON C E\n.5\n" [shape=circle, penwidth=3];
+"ON E S\nON S H\nHOLDING C\nONTABLE H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nONTABLE C\nONTABLE H\nCLEAR S\nON S H\nHOLDING E\nHOLDING E\n1.0\n" [shape=circle, penwidth=3];
+"CLEAR S\nON E C\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nON E S\nON S H\nHANDEMPTY\nONTABLE H\nON C E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nON E S\nON S H\nONTABLE C\nHANDEMPTY\nONTABLE H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+}

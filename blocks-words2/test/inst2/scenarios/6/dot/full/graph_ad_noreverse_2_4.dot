@@ -1,0 +1,13 @@
+digraph {
+"CLEAR C\nON U A\nHOLDING H\nONTABLE A\nONTABLE C\nCLEAR U\n.5\n" -> "ON U A\nONTABLE A\nONTABLE C\nHANDEMPTY\nCLEAR H\nCLEAR U\nON H C\n.5\n"[label="STACK H C\n1.0\n"];
+"CLEAR C\nONTABLE A\nONTABLE C\nON U A\nCLEAR H\nHANDEMPTY\nON H U\nCLEAR H\nHANDEMPTY\nON H U\n1.0\n" -> "ON U A\nONTABLE A\nHOLDING C\nON H U\nCLEAR H\n.5\n"[label="PICK-UP C\n.5\n"];
+"CLEAR C\nONTABLE A\nONTABLE C\nON U A\nCLEAR H\nHANDEMPTY\nON H U\nCLEAR H\nHANDEMPTY\nON H U\n1.0\n" -> "CLEAR C\nON U A\nHOLDING H\nONTABLE A\nONTABLE C\nCLEAR U\n.5\n"[label="UNSTACK H U\n.5\n"];
+"ON U A\nONTABLE A\nHOLDING C\nON H U\nCLEAR H\n.5\n" -> "CLEAR C\nON C H\nON U A\nONTABLE A\nHANDEMPTY\nON H U\n.5\n"[label="STACK C H\n1.0\n"];
+"ON U A\nONTABLE A\nONTABLE C\nHANDEMPTY\nCLEAR H\nCLEAR U\nON H C\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nON C H\nON U A\nONTABLE A\nHANDEMPTY\nON H U\n.5\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"CLEAR C\nONTABLE A\nONTABLE C\nON U A\nCLEAR H\nHANDEMPTY\nON H U\nCLEAR H\nHANDEMPTY\nON H U\n1.0\n" [shape=circle, penwidth=3];
+"CLEAR C\nON U A\nHOLDING H\nONTABLE A\nONTABLE C\nCLEAR U\n.5\n" [shape=circle, penwidth=3];
+"ON U A\nONTABLE A\nONTABLE C\nHANDEMPTY\nCLEAR H\nCLEAR U\nON H C\n.5\n" [shape=circle, penwidth=3];
+"ON U A\nONTABLE A\nHOLDING C\nON H U\nCLEAR H\n.5\n" [shape=circle, penwidth=3];
+"CLEAR C\nON C H\nON U A\nONTABLE A\nHANDEMPTY\nON H U\n.5\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+}

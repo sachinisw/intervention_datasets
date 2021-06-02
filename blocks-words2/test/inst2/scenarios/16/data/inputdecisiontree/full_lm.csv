@@ -1,0 +1,5 @@
+ob,c,r,d,fo,0.0<=x<1.0,1.0<=x<1.1,dToCritical,dToDesirable,hasLM,Label
+STACK A C,1.0,0.0,1.0,1.0,1, 0,-1,0,0.67,N
+STACK R A,1.0,0.0,1.0,1.0,1, 0,-1,0,0.33,N
+STACK A C,1.0,0.0,1.0,1.0,1, 0,-1,0,0.5,N
+STACK A R,1.0,0.0,1.0,1.0,1, 0,-1,0,0.67,N

@@ -1,0 +1,6 @@
+digraph {
+"ONTABLE E\nON L E\nCLEAR M\nON M L\nHOLDING A\n1.0\n" -> "ON M L\nCLEAR A\nON A M\nON L E\nONTABLE E\nHANDEMPTY\n1.0\n"[label="STACK A M\n1.0\n"];
+"ON M L\nCLEAR A\nON A M\nON L E\nONTABLE E\nHANDEMPTY\n1.0\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"ONTABLE E\nON L E\nCLEAR M\nON M L\nHOLDING A\n1.0\n" [shape=circle, penwidth=3];
+"ON M L\nCLEAR A\nON A M\nON L E\nONTABLE E\nHANDEMPTY\n1.0\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+}

@@ -1,0 +1,13 @@
+digraph {
+"CLEAR R\nONTABLE R\nONTABLE T\nCLEAR C\nON C T\nHOLDING U\nHOLDING U\n1.0\n" -> "CLEAR R\nON U C\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n"[label="STACK U C\n.5\n"];
+"CLEAR R\nONTABLE R\nONTABLE T\nCLEAR C\nON C T\nHOLDING U\nHOLDING U\n1.0\n" -> "CLEAR C\nON U R\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n"[label="STACK U R\n.5\n"];
+"ON U C\nONTABLE T\nON C T\nHOLDING R\nCLEAR U\n.5\n" -> "CLEAR R\nON U C\nON R U\nONTABLE T\nHANDEMPTY\nON C T\n.5\n"[label="STACK R U\n1.0\n"];
+"CLEAR R\nON U C\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n" -> "ON U C\nONTABLE T\nON C T\nHOLDING R\nCLEAR U\n.5\n"[label="PICK-UP R\n1.0\n"];
+"CLEAR C\nON U R\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n" [shape=circle, penwidth=3];
+"CLEAR R\nON U C\nON R U\nONTABLE T\nHANDEMPTY\nON C T\n.5\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+"CLEAR C\nON U R\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n" [shape=circle, penwidth=3];
+"CLEAR R\nON U C\nON R U\nONTABLE T\nHANDEMPTY\nON C T\n.5\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+"ON U C\nONTABLE T\nON C T\nHOLDING R\nCLEAR U\n.5\n" [shape=circle, penwidth=3];
+"CLEAR R\nONTABLE R\nONTABLE T\nCLEAR C\nON C T\nHOLDING U\nHOLDING U\n1.0\n" [shape=circle, penwidth=3];
+"CLEAR R\nON U C\nONTABLE R\nONTABLE T\nHANDEMPTY\nON C T\nCLEAR U\n.5\n" [shape=circle, penwidth=3];
+}

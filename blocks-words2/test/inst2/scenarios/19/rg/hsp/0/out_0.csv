@@ -1,0 +1,6 @@
+N:,PICK-UP A,desirable:(ON C E)(ON E R)
+Y:,STACK A R,(ON C E)(ON E A)
+Y:,PICK-UP E,(ON C E)(ON E A)
+Y:,STACK E A,(ON C E)(ON E A)
+Y:,PICK-UP C,(ON C E)(ON E A)
+Y:,STACK C E,(ON C E)(ON E A)

@@ -1,0 +1,2342 @@
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/0
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP P
+observation :: STACK P R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/1
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/2
+observation :: PICK-UP L
+observation :: STACK L R
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/3
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/4
+observation :: PICK-UP R
+observation :: STACK R L
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/0/obs/5
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP R
+observation :: STACK R P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/0
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP P
+observation :: STACK P C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/1
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP C
+observation :: STACK C P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/2
+observation :: PICK-UP M
+observation :: STACK M C
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/3
+observation :: PICK-UP C
+observation :: STACK C M
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/4
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/1/obs/5
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/0
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/1
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/2
+observation :: PICK-UP E
+observation :: STACK E P
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/3
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/4
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/2/obs/5
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/0
+observation :: PICK-UP P
+observation :: STACK P C
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/1
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP L
+observation :: STACK L C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/2
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/3
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP L
+observation :: STACK L A
+observation :: PICK-UP C
+observation :: STACK C L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/4
+observation :: PICK-UP C
+observation :: STACK C P
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/3/obs/5
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP L
+observation :: STACK L A
+observation :: PICK-UP C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/0
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP C
+observation :: STACK C R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/1
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP R
+observation :: STACK R C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/2
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/3
+observation :: PICK-UP R
+observation :: STACK R P
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/4
+observation :: PICK-UP P
+observation :: STACK P R
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/4/obs/5
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/0
+observation :: PICK-UP U
+observation :: STACK U M
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/1
+observation :: PICK-UP U
+observation :: STACK U M
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP P
+observation :: STACK P R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/2
+observation :: PICK-UP U
+observation :: STACK U M
+observation :: PICK-UP P
+observation :: STACK P U
+observation :: PICK-UP R
+observation :: STACK R P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/3
+observation :: PICK-UP U
+observation :: STACK U M
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/4
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP U
+observation :: STACK U M
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/5/obs/5
+observation :: PICK-UP P
+observation :: STACK P M
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/0
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP E
+observation :: STACK E L
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/1
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/2
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/3
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/4
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/6/obs/5
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/0
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/1
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP P
+observation :: STACK P M
+observation :: PICK-UP A
+observation :: STACK A P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/2
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/3
+observation :: PICK-UP E
+observation :: STACK E P
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/4
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP M
+observation :: STACK M P
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/7/obs/5
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/0
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP P
+observation :: STACK P C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/1
+observation :: PICK-UP P
+observation :: STACK P L
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/2
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/3
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP C
+observation :: STACK C P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/4
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/8/obs/5
+observation :: PICK-UP L
+observation :: STACK L P
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/0
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/1
+observation :: PICK-UP C
+observation :: STACK C P
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/2
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP P
+observation :: STACK P M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/3
+observation :: PICK-UP P
+observation :: STACK P C
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/4
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP M
+observation :: STACK M P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/9/obs/5
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/0
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+observation :: STACK A P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/1
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP P
+observation :: STACK P E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/2
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/3
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP P
+observation :: STACK P E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/4
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/10/obs/5
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP P
+observation :: STACK P E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/0
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP M
+observation :: STACK M U
+observation :: PICK-UP L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/1
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP M
+observation :: STACK M U
+observation :: PICK-UP L
+observation :: STACK L M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/2
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP L
+observation :: STACK L U
+observation :: PICK-UP M
+observation :: STACK M L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/3
+observation :: PICK-UP E
+observation :: STACK E L
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP M
+observation :: STACK M U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/4
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP U
+observation :: STACK U L
+observation :: PICK-UP M
+observation :: STACK M U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/11/obs/5
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP M
+observation :: STACK M U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/0
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP L
+observation :: STACK L A
+observation :: PICK-UP P
+observation :: STACK P L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/1
+observation :: PICK-UP P
+observation :: STACK P C
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/2
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/3
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP L
+observation :: STACK L P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/4
+observation :: PICK-UP C
+observation :: STACK C P
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP L
+observation :: STACK L A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/12/obs/5
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP L
+observation :: STACK L A
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/0
+observation :: PICK-UP R
+observation :: STACK R P
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/1
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/2
+observation :: PICK-UP P
+observation :: STACK P R
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/3
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP P
+observation :: STACK P U
+observation :: PICK-UP C
+observation :: STACK C P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/4
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP P
+observation :: STACK P C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/13/obs/5
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/0
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP L
+observation :: STACK L C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/1
+observation :: PICK-UP E
+observation :: STACK E L
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/2
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/3
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP L
+observation :: STACK L U
+observation :: PICK-UP C
+observation :: STACK C L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/4
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/14/obs/5
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP U
+observation :: STACK U L
+observation :: PICK-UP C
+observation :: STACK C U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/0
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/1
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP P
+observation :: STACK P U
+observation :: PICK-UP A
+observation :: STACK A P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/2
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+observation :: STACK A P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/3
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP A
+observation :: STACK A U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/4
+observation :: PICK-UP E
+observation :: STACK E U
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+observation :: STACK A P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/15/obs/5
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP A
+observation :: STACK A P
+observation :: PICK-UP U
+observation :: STACK U A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/0
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/1
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP P
+observation :: STACK P R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/2
+observation :: PICK-UP P
+observation :: STACK P E
+observation :: PICK-UP U
+observation :: STACK U P
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/3
+observation :: PICK-UP E
+observation :: STACK E P
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/4
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP P
+observation :: STACK P U
+observation :: PICK-UP R
+observation :: STACK R P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/16/obs/5
+observation :: PICK-UP U
+observation :: STACK U E
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/0
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/1
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP L
+observation :: STACK L M
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/2
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/3
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP A
+observation :: STACK A L
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/4
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP M
+observation :: STACK M L
+observation :: PICK-UP A
+observation :: STACK A M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/17/obs/5
+observation :: PICK-UP L
+observation :: STACK L E
+observation :: PICK-UP A
+observation :: STACK A L
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/0
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/1
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/2
+observation :: PICK-UP M
+observation :: STACK M R
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/3
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP P
+observation :: STACK P M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/4
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP P
+observation :: STACK P A
+observation :: PICK-UP M
+observation :: STACK M P
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/18/obs/5
+observation :: PICK-UP R
+observation :: STACK R M
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP P
+observation :: STACK P A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/0
+observation :: PICK-UP M
+observation :: STACK M R
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/1
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP M
+observation :: STACK M C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/2
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP C
+observation :: STACK C M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/3
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/4
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst1/scenarios/19/obs/5
+observation :: PICK-UP R
+observation :: STACK R M
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/0
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/1
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/2
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP C
+observation :: STACK C R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/3
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/4
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP C
+observation :: STACK C A
+observation :: PICK-UP R
+observation :: STACK R C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/0/obs/5
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/0
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP U
+observation :: STACK U C
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/1
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/2
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/3
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP C
+observation :: STACK C R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/4
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP C
+observation :: STACK C U
+observation :: PICK-UP R
+observation :: STACK R C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/1/obs/5
+observation :: PICK-UP T
+observation :: STACK T C
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP R
+observation :: STACK R U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/0
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+observation :: PICK-UP A
+observation :: STACK A T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/1
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/2
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP T
+observation :: STACK T A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/3
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/4
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/2/obs/5
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/0
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP E
+observation :: STACK E C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/1
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/2
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP E
+observation :: STACK E H
+observation :: PICK-UP C
+observation :: STACK C E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/3
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/4
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/3/obs/5
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/0
+observation :: PICK-UP E
+observation :: STACK E H
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/1
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/2
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP H
+observation :: STACK H C
+observation :: PICK-UP A
+observation :: STACK A H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/3
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/4
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/4/obs/5
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP H
+observation :: STACK H A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/0
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP S
+observation :: STACK S A
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/1
+observation :: PICK-UP T
+observation :: STACK T C
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/2
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP S
+observation :: STACK S T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/3
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP S
+observation :: STACK S A
+observation :: PICK-UP T
+observation :: STACK T S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/4
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/5/obs/5
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/0
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/1
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/2
+observation :: PICK-UP U
+observation :: STACK U A
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/3
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/4
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/6/obs/5
+observation :: PICK-UP A
+observation :: STACK A U
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP C
+observation :: STACK C H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/0
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP H
+observation :: STACK H A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/1
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP A
+observation :: STACK A H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/2
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/3
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/4
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/7/obs/5
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/0
+observation :: PICK-UP U
+observation :: STACK U A
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP T
+observation :: STACK T R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/1
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/2
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP T
+observation :: STACK T R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/3
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP A
+observation :: STACK A T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/4
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP T
+observation :: STACK T A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/8/obs/5
+observation :: PICK-UP A
+observation :: STACK A U
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP T
+observation :: STACK T R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/0
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+observation :: STACK S H
+observation :: PICK-UP A
+observation :: STACK A S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/1
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/2
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+observation :: STACK S H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/3
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+observation :: STACK S H
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/4
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP S
+observation :: STACK S H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/9/obs/5
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+observation :: STACK S H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/0
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/1
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/2
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP H
+observation :: STACK H T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/3
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/4
+observation :: PICK-UP S
+observation :: STACK S T
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/10/obs/5
+observation :: PICK-UP T
+observation :: STACK T S
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/0
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP R
+observation :: STACK R U
+observation :: PICK-UP H
+observation :: STACK H R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/1
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP H
+observation :: STACK H U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/2
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP H
+observation :: STACK H U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/3
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP R
+observation :: STACK R H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/4
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP U
+observation :: STACK U R
+observation :: PICK-UP H
+observation :: STACK H U
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/11/obs/5
+observation :: PICK-UP U
+observation :: STACK U T
+observation :: PICK-UP H
+observation :: STACK H U
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/0
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP T
+observation :: STACK T E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/1
+observation :: PICK-UP S
+observation :: STACK S T
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/2
+observation :: PICK-UP T
+observation :: STACK T S
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/3
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/4
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/12/obs/5
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP E
+observation :: STACK E T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/0
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/1
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/2
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/3
+observation :: PICK-UP E
+observation :: STACK E H
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/4
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/13/obs/5
+observation :: PICK-UP C
+observation :: STACK C H
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/0
+observation :: PICK-UP S
+observation :: STACK S A
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP R
+observation :: STACK R E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/1
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP S
+observation :: STACK S R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/2
+observation :: PICK-UP A
+observation :: STACK A S
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP R
+observation :: STACK R E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/3
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/4
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP R
+observation :: STACK R E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/14/obs/5
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP S
+observation :: STACK S E
+observation :: PICK-UP R
+observation :: STACK R S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/0
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/1
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/2
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/3
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP C
+observation :: STACK C R
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/4
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP R
+observation :: STACK R C
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/15/obs/5
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/0
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/1
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/2
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/3
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/4
+observation :: PICK-UP C
+observation :: STACK C T
+observation :: PICK-UP A
+observation :: STACK A C
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/16/obs/5
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/0
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/1
+observation :: PICK-UP S
+observation :: STACK S C
+observation :: PICK-UP E
+observation :: STACK E S
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/2
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+observation :: STACK S H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/3
+observation :: PICK-UP C
+observation :: STACK C S
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/4
+observation :: PICK-UP S
+observation :: STACK S H
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: UNSTACK S H
+observation :: STACK S E
+observation :: PICK-UP H
+observation :: STACK H S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/17/obs/5
+observation :: PICK-UP E
+observation :: STACK E C
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/0
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP S
+observation :: STACK S A
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/1
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/2
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP S
+observation :: STACK S A
+observation :: PICK-UP T
+observation :: STACK T S
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/3
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP S
+observation :: STACK S T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/4
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/18/obs/5
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP S
+observation :: STACK S A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/0
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP C
+observation :: STACK C E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/1
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+observation :: STACK A C
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/2
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP C
+observation :: STACK C E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/3
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP C
+observation :: STACK C A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/4
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP C
+observation :: STACK C E
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst2/scenarios/19/obs/5
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP C
+observation :: STACK C E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/0
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/1
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP T
+observation :: STACK T M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/2
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP T
+observation :: STACK T A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/3
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP M
+observation :: STACK M T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/4
+observation :: PICK-UP M
+observation :: STACK M W
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP T
+observation :: STACK T A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/0/obs/5
+observation :: PICK-UP W
+observation :: STACK W M
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP T
+observation :: STACK T A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/0
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/1
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/2
+observation :: PICK-UP R
+observation :: STACK R M
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/3
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP R
+observation :: STACK R H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/4
+observation :: PICK-UP M
+observation :: STACK M R
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/1/obs/5
+observation :: PICK-UP E
+observation :: STACK E M
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP H
+observation :: STACK H R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/0
+observation :: PICK-UP O
+observation :: STACK O A
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP W
+observation :: STACK W H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/1
+observation :: PICK-UP A
+observation :: STACK A O
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP W
+observation :: STACK W H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/2
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP W
+observation :: STACK W H
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/3
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP W
+observation :: STACK W H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/4
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP W
+observation :: STACK W H
+observation :: PICK-UP A
+observation :: STACK A W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/2/obs/5
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP W
+observation :: STACK W A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/0
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/1
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP A
+observation :: STACK A H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/2
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP O
+observation :: STACK O A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/3
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP O
+observation :: STACK O H
+observation :: PICK-UP A
+observation :: STACK A O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/4
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP A
+observation :: STACK A H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/3/obs/5
+observation :: PICK-UP M
+observation :: STACK M O
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP A
+observation :: STACK A H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/0
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+observation :: PICK-UP R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/1
+observation :: PICK-UP T
+observation :: STACK T R
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/2
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/3
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP W
+observation :: STACK W R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/4
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/4/obs/5
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+observation :: PICK-UP R
+observation :: STACK R W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/0
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/1
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP R
+observation :: STACK R M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/2
+observation :: PICK-UP M
+observation :: STACK M T
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/3
+observation :: PICK-UP T
+observation :: STACK T M
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/4
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP M
+observation :: STACK M R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/5/obs/5
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/0
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP H
+observation :: STACK H M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/1
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/2
+observation :: PICK-UP W
+observation :: STACK W M
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP H
+observation :: STACK H A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/3
+observation :: PICK-UP M
+observation :: STACK M W
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP H
+observation :: STACK H A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/4
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP M
+observation :: STACK M H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/6/obs/5
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP H
+observation :: STACK H A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/0
+observation :: PICK-UP W
+observation :: STACK W T
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP M
+observation :: STACK M E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/1
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP T
+observation :: STACK T M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/2
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP M
+observation :: STACK M E
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/3
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP M
+observation :: STACK M T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/4
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP M
+observation :: STACK M E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/7/obs/5
+observation :: PICK-UP T
+observation :: STACK T W
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP M
+observation :: STACK M E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/0
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+observation :: PICK-UP A
+observation :: STACK A W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/1
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/2
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/3
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/4
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP W
+observation :: STACK W E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/8/obs/5
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP W
+observation :: STACK W A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/0
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/1
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP E
+observation :: STACK E O
+observation :: PICK-UP H
+observation :: STACK H E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/2
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/3
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/4
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/9/obs/5
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP E
+observation :: STACK E H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/0
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP E
+observation :: STACK E H
+observation :: PICK-UP T
+observation :: STACK T E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/1
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/2
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP T
+observation :: STACK T H
+observation :: PICK-UP E
+observation :: STACK E T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/3
+observation :: PICK-UP A
+observation :: STACK A E
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/4
+observation :: PICK-UP E
+observation :: STACK E A
+observation :: PICK-UP H
+observation :: STACK H E
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/10/obs/5
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP T
+observation :: STACK T H
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/0
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/1
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP T
+observation :: STACK T O
+observation :: PICK-UP H
+observation :: STACK H T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/2
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP T
+observation :: STACK T H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/3
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/4
+observation :: PICK-UP O
+observation :: STACK O E
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/11/obs/5
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/0
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/1
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/2
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP E
+observation :: STACK E W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/3
+observation :: PICK-UP O
+observation :: STACK O A
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP E
+observation :: STACK E W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/4
+observation :: PICK-UP A
+observation :: STACK A O
+observation :: PICK-UP W
+observation :: STACK W A
+observation :: PICK-UP E
+observation :: STACK E W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/12/obs/5
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP E
+observation :: STACK E W
+observation :: PICK-UP A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/0
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP T
+observation :: STACK T R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/1
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP R
+observation :: STACK R A
+observation :: PICK-UP T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/2
+observation :: PICK-UP W
+observation :: STACK W T
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/3
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP T
+observation :: STACK T A
+observation :: PICK-UP R
+observation :: STACK R T
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/4
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/13/obs/5
+observation :: PICK-UP T
+observation :: STACK T W
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP R
+observation :: STACK R A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/0
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP M
+observation :: STACK M W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/1
+observation :: PICK-UP T
+observation :: STACK T W
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP M
+observation :: STACK M O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/2
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP M
+observation :: STACK M O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/3
+observation :: PICK-UP W
+observation :: STACK W T
+observation :: PICK-UP O
+observation :: STACK O W
+observation :: PICK-UP M
+observation :: STACK M O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/4
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP M
+observation :: STACK M O
+observation :: PICK-UP W
+observation :: STACK W M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/14/obs/5
+observation :: PICK-UP O
+observation :: STACK O T
+observation :: PICK-UP M
+observation :: STACK M O
+observation :: PICK-UP W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/0
+observation :: PICK-UP H
+observation :: STACK H M
+observation :: PICK-UP O
+observation :: STACK O H
+observation :: PICK-UP W
+observation :: STACK W O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/1
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP H
+observation :: STACK H O
+observation :: PICK-UP W
+observation :: STACK W H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/2
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP H
+observation :: STACK H W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/3
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP W
+observation :: STACK W O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/4
+observation :: PICK-UP M
+observation :: STACK M H
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP W
+observation :: STACK W O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/15/obs/5
+observation :: PICK-UP O
+observation :: STACK O M
+observation :: PICK-UP W
+observation :: STACK W O
+observation :: PICK-UP H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/0
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP O
+observation :: STACK O A
+observation :: PICK-UP H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/1
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP O
+observation :: STACK O A
+observation :: PICK-UP H
+observation :: STACK H O
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/2
+observation :: PICK-UP H
+observation :: STACK H T
+observation :: PICK-UP A
+observation :: STACK A H
+observation :: PICK-UP O
+observation :: STACK O A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/3
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP O
+observation :: STACK O A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/4
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP H
+observation :: STACK H A
+observation :: PICK-UP O
+observation :: STACK O H
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/16/obs/5
+observation :: PICK-UP T
+observation :: STACK T H
+observation :: PICK-UP A
+observation :: STACK A T
+observation :: PICK-UP O
+observation :: STACK O A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/0
+observation :: PICK-UP E
+observation :: STACK E T
+observation :: PICK-UP R
+observation :: STACK R E
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/1
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/2
+observation :: PICK-UP T
+observation :: STACK T E
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/3
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/4
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP E
+observation :: STACK E A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/17/obs/5
+observation :: PICK-UP R
+observation :: STACK R T
+observation :: PICK-UP E
+observation :: STACK E R
+observation :: PICK-UP A
+observation :: STACK A E
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/0
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/1
+observation :: PICK-UP R
+observation :: STACK R W
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/2
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP W
+observation :: STACK W M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/3
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/4
+observation :: PICK-UP W
+observation :: STACK W R
+observation :: PICK-UP A
+observation :: STACK A W
+observation :: PICK-UP M
+observation :: STACK M A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/18/obs/5
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP W
+observation :: STACK W A
+observation :: PICK-UP M
+observation :: STACK M W
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/0
+observation :: PICK-UP R
+observation :: STACK R M
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP W
+observation :: STACK W A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/1
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP W
+observation :: STACK W A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/2
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP W
+observation :: STACK W A
+observation :: PICK-UP M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/3
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP M
+observation :: STACK M A
+observation :: PICK-UP W
+observation :: STACK W M
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/4
+observation :: PICK-UP M
+observation :: STACK M R
+observation :: PICK-UP A
+observation :: STACK A M
+observation :: PICK-UP W
+observation :: STACK W A
+Current file::   /home/sachini/oldhp/sachini/domains/BLOCKS/scenarios/TEST1/inst3/scenarios/19/obs/5
+observation :: PICK-UP A
+observation :: STACK A R
+observation :: PICK-UP W
+observation :: STACK W A
+observation :: PICK-UP M
+observation :: STACK M W

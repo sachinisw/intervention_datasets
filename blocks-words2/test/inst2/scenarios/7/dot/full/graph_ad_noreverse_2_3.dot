@@ -1,0 +1,13 @@
+digraph {
+"CLEAR H\nONTABLE H\nONTABLE T\nCLEAR A\nON A T\nHOLDING E\nHOLDING E\n1.0\n" -> "ON E A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nCLEAR H\nCLEAR E\n.5\n"[label="STACK E A\n.5\n"];
+"CLEAR H\nONTABLE H\nONTABLE T\nCLEAR A\nON A T\nHOLDING E\nHOLDING E\n1.0\n" -> "CLEAR A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nON E H\nCLEAR E\n.5\n"[label="STACK E H\n.5\n"];
+"ON E A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nCLEAR H\nCLEAR E\n.5\n" -> "ON E A\nHOLDING H\nONTABLE T\nON A T\nCLEAR E\n.5\n"[label="PICK-UP H\n1.0\n"];
+"ON E A\nHOLDING H\nONTABLE T\nON A T\nCLEAR E\n.5\n" -> "ON E A\nONTABLE T\nON A T\nHANDEMPTY\nON H E\nCLEAR H\n.5\n"[label="STACK H E\n1.0\n"];
+"CLEAR A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nON E H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"ON E A\nONTABLE T\nON A T\nHANDEMPTY\nON H E\nCLEAR H\n.5\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+"ON E A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nCLEAR H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR A\nONTABLE T\nON A T\nHANDEMPTY\nONTABLE H\nON E H\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"CLEAR H\nONTABLE H\nONTABLE T\nCLEAR A\nON A T\nHOLDING E\nHOLDING E\n1.0\n" [shape=circle, penwidth=3];
+"ON E A\nHOLDING H\nONTABLE T\nON A T\nCLEAR E\n.5\n" [shape=circle, penwidth=3];
+"ON E A\nONTABLE T\nON A T\nHANDEMPTY\nON H E\nCLEAR H\n.5\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+}

@@ -1,0 +1,8 @@
+digraph {
+"HOLDING M\nCLEAR A\nON P C\nON A P\nONTABLE C\n1.0\n" -> "ON P C\nCLEAR M\nON A P\nONTABLE C\nHANDEMPTY\nON M A\n1.0\n"[label="STACK M A\n1.0\n"];
+"CLEAR M\nONTABLE C\nONTABLE M\nON P C\nCLEAR A\nHANDEMPTY\nON A P\n1.0\n" -> "HOLDING M\nCLEAR A\nON P C\nON A P\nONTABLE C\n1.0\n"[label="PICK-UP M\n1.0\n"];
+"ON P C\nCLEAR M\nON A P\nONTABLE C\nHANDEMPTY\nON M A\n1.0\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+"CLEAR M\nONTABLE C\nONTABLE M\nON P C\nCLEAR A\nHANDEMPTY\nON A P\n1.0\n" [shape=circle, penwidth=3];
+"HOLDING M\nCLEAR A\nON P C\nON A P\nONTABLE C\n1.0\n" [shape=circle, penwidth=3];
+"ON P C\nCLEAR M\nON A P\nONTABLE C\nHANDEMPTY\nON M A\n1.0\n" [shape=circle, style=filled color=red, fillcolor=gold, peripheries=3];
+}

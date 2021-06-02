@@ -1,0 +1,44 @@
+:LGG VERIFIED
+{[(ON P A), (ON A R)]}: 
+{[(CLEAR A)]}: {[(ON P A)]} {[(HOLDING A)]} 
+{[(ON P A)]}: 
+{[(HOLDING P)]}: {[(ON P A)]} 
+{[(CLEAR R)]}: {[(ON A R)]} 
+{[(ON A R)]}: 
+{[(HOLDING A)]}: {[(ON A R)]} 
+{[(HANDEMPTY)]}: {[(HOLDING A)]} {[(HOLDING P)]} 
+{[(ONTABLE A)]}: {[(HOLDING A)]} 
+{[(CLEAR P)]}: {[(HOLDING P)]} 
+{[(ONTABLE P)]}: {[(HOLDING P)]} 
+
+:VERIFIED LM
+{[(CLEAR A)]}
+{[(CLEAR R)]}
+{[(ON P A), (ON A R)]}
+{[(ON P A)]}
+{[(CLEAR P)]}
+{[(ONTABLE P)]}
+{[(HANDEMPTY)]}
+{[(ONTABLE A)]}
+{[(ON A R)]}
+{[(HOLDING A)]}
+{[(HOLDING P)]}
+
+:LGG GREEDY NECESSARY ORDERS
+{[(CLEAR A)]}: []
+{[(CLEAR R)]}: []
+{[(ON P A), (ON A R)]}: []
+{[(ON P A)]}: [{[(HOLDING P)]}, {[(CLEAR A)]}]
+{[(CLEAR P)]}: []
+{[(ONTABLE P)]}: []
+{[(HANDEMPTY)]}: []
+{[(ONTABLE A)]}: []
+{[(ON A R)]}: [{[(HOLDING A)]}, {[(CLEAR R)]}]
+{[(HOLDING A)]}: [{[(CLEAR A)]}, {[(HANDEMPTY)]}, {[(ONTABLE A)]}]
+{[(HOLDING P)]}: [{[(CLEAR P)]}, {[(HANDEMPTY)]}, {[(ONTABLE P)]}]
+
+:LGG UNVERIFIED ACHIEVERS
+[PICK-UP P]	->[(CLEAR P), (HANDEMPTY), (ONTABLE P)]
+[PICK-UP A]	->[(CLEAR A), (HANDEMPTY), (ONTABLE A)]
+[STACK A R]	->[(CLEAR R), (HOLDING A)]
+[STACK P A]	->[(CLEAR A), (HOLDING P)]

@@ -1,0 +1,87 @@
+(define (domain blocks)
+  (:requirements :strips :typing :equality)
+  (:types block)
+
+ (:constants
+E - block
+R - block
+T - block
+W - block
+
+ )
+
+  (:predicates (on ?x ?y - block)
+(obp_STACK_W-E)
+(obp_PICK-UP_W)
+(obp_STACK_E-R)
+(obp_PICK-UP_E)
+(obp_STACK_R-T)
+(obp_PICK-UP_R)
+	       (ontable ?x - block)
+	       (clear ?x - block)
+	       (handempty)
+	       (holding ?x - block)
+	       )
+
+;can only pick up a block if it is on the table
+(:action pick-up
+:parameters (?x - block )
+:precondition (and (clear ?x)(ontable ?x)(handempty))
+:effect (and (not (ontable ?x))(not (clear ?x))(not (handempty))(holding ?x))
+)
+
+(:action put-down
+:parameters (?x - block )
+:precondition (holding ?x)
+:effect (and (not (holding ?x))(clear ?x)(handempty)(ontable ?x))
+)
+
+(:action stack
+:parameters (?x ?y - block )
+:precondition (and (holding ?x)(clear ?y)(not (= ?x ?y)))
+:effect (and (not (holding ?x))(not (clear ?y))(clear ?x)(handempty)(on ?x ?y))
+)
+
+(:action unstack
+:parameters (?x ?y - block )
+:precondition (and (on ?x ?y)(clear ?x)(handempty)(not (= ?x ?y)))
+:effect (and (holding ?x)(clear ?y)(not (clear ?x))(not (handempty))(not (on ?x ?y)))
+)
+
+(:action ob__PICK-UP_R
+:parameters ()
+:precondition (and (clear R)(ontable R)(handempty))
+:effect (and (not (ontable R))(not (clear R))(not (handempty))(holding R)(obp_PICK-UP_R))
+)
+
+(:action ob__STACK_R-T
+:parameters ()
+:precondition (and (holding R)(clear T)(not (= R T))(obp_PICK-UP_R))
+:effect (and (not (holding R))(not (clear T))(clear R)(handempty)(on R T)(obp_STACK_R-T))
+)
+
+(:action ob__PICK-UP_E
+:parameters ()
+:precondition (and (clear E)(ontable E)(handempty)(obp_STACK_R-T))
+:effect (and (not (ontable E))(not (clear E))(not (handempty))(holding E)(obp_PICK-UP_E))
+)
+
+(:action ob__STACK_E-R
+:parameters ()
+:precondition (and (holding E)(clear R)(not (= E R))(obp_PICK-UP_E))
+:effect (and (not (holding E))(not (clear R))(clear E)(handempty)(on E R)(obp_STACK_E-R))
+)
+
+(:action ob__PICK-UP_W
+:parameters ()
+:precondition (and (clear W)(ontable W)(handempty)(obp_STACK_E-R))
+:effect (and (not (ontable W))(not (clear W))(not (handempty))(holding W)(obp_PICK-UP_W))
+)
+
+(:action ob__STACK_W-E
+:parameters ()
+:precondition (and (holding W)(clear E)(not (= W E))(obp_PICK-UP_W))
+:effect (and (not (holding W))(not (clear E))(clear W)(handempty)(on W E)(obp_STACK_W-E))
+)
+
+ )

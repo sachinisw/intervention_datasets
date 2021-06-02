@@ -1,0 +1,6 @@
+N:,PICK-UP A,null
+Y:,STACK A T,(ON H E)(ON E A)
+Y:,PICK-UP E,(ON H E)(ON E A)
+Y:,STACK E A,(ON H E)(ON E A)
+Y:,PICK-UP H,(ON H E)(ON E A)
+Y:,STACK H E,(ON H E)(ON E A)

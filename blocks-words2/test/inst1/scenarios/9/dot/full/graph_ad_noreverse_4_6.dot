@@ -1,0 +1,4 @@
+digraph {
+"ONTABLE C\nON A C\nON P A\nCLEAR M\nHANDEMPTY\nON M P\n1.0\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+"ONTABLE C\nON A C\nON P A\nCLEAR M\nHANDEMPTY\nON M P\n1.0\n" [shape=circle, style=filled, fillcolor=palegreen1, peripheries=3];
+}

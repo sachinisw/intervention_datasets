@@ -1,0 +1,1087 @@
+
+ff: parsing domain file
+domain 'BLOCKS' defined
+ ... done.
+ff: parsing problem file
+problem 'BLOCKS_WORDS' defined
+ ... done.
+
+
+no metric specified. plan length assumed.
+
+created connectivity graph as follows:
+
+------------------OP ARRAY:-----------------------
+
+OP: UNSTACK W T
+----------EFFS:
+effect 0
+
+OP: UNSTACK W R
+----------EFFS:
+effect 1
+
+OP: UNSTACK W E
+----------EFFS:
+effect 2
+
+OP: UNSTACK T W
+----------EFFS:
+effect 3
+
+OP: UNSTACK T R
+----------EFFS:
+effect 4
+
+OP: UNSTACK T E
+----------EFFS:
+effect 5
+
+OP: UNSTACK R W
+----------EFFS:
+effect 6
+
+OP: UNSTACK R T
+----------EFFS:
+effect 7
+
+OP: UNSTACK R E
+----------EFFS:
+effect 8
+
+OP: UNSTACK E W
+----------EFFS:
+effect 9
+
+OP: UNSTACK E T
+----------EFFS:
+effect 10
+
+OP: UNSTACK E R
+----------EFFS:
+effect 11
+
+OP: STACK W T
+----------EFFS:
+effect 12
+
+OP: STACK W R
+----------EFFS:
+effect 13
+
+OP: STACK W E
+----------EFFS:
+effect 14
+
+OP: STACK T W
+----------EFFS:
+effect 15
+
+OP: STACK T R
+----------EFFS:
+effect 16
+
+OP: STACK T E
+----------EFFS:
+effect 17
+
+OP: STACK R W
+----------EFFS:
+effect 18
+
+OP: STACK R T
+----------EFFS:
+effect 19
+
+OP: STACK R E
+----------EFFS:
+effect 20
+
+OP: STACK E W
+----------EFFS:
+effect 21
+
+OP: STACK E T
+----------EFFS:
+effect 22
+
+OP: STACK E R
+----------EFFS:
+effect 23
+
+OP: PUT-DOWN W
+----------EFFS:
+effect 24
+
+OP: PUT-DOWN T
+----------EFFS:
+effect 25
+
+OP: PUT-DOWN R
+----------EFFS:
+effect 26
+
+OP: PUT-DOWN E
+----------EFFS:
+effect 27
+
+OP: PICK-UP W
+----------EFFS:
+effect 28
+
+OP: PICK-UP T
+----------EFFS:
+effect 29
+
+OP: PICK-UP R
+----------EFFS:
+effect 30
+
+OP: PICK-UP E
+----------EFFS:
+effect 31
+
+-------------------EFFECT ARRAY:----------------------
+
+effect 0 of op 0 cost 0.000000: UNSTACK W T
+----------PCS:
+(HANDEMPTY)
+(CLEAR W)
+(ON W T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING W)
+(CLEAR T)
+----------DELS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 1 of op 1 cost 0.000000: UNSTACK W R
+----------PCS:
+(HANDEMPTY)
+(CLEAR W)
+(ON W R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING W)
+(CLEAR R)
+----------DELS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 2 of op 2 cost 0.000000: UNSTACK W E
+----------PCS:
+(HANDEMPTY)
+(CLEAR W)
+(ON W E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING W)
+(CLEAR E)
+----------DELS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 3 of op 3 cost 0.000000: UNSTACK T W
+----------PCS:
+(HANDEMPTY)
+(CLEAR T)
+(ON T W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING T)
+(CLEAR W)
+----------DELS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 4 of op 4 cost 0.000000: UNSTACK T R
+----------PCS:
+(HANDEMPTY)
+(CLEAR T)
+(ON T R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING T)
+(CLEAR R)
+----------DELS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 5 of op 5 cost 0.000000: UNSTACK T E
+----------PCS:
+(HANDEMPTY)
+(CLEAR T)
+(ON T E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING T)
+(CLEAR E)
+----------DELS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 6 of op 6 cost 0.000000: UNSTACK R W
+----------PCS:
+(HANDEMPTY)
+(CLEAR R)
+(ON R W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING R)
+(CLEAR W)
+----------DELS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 7 of op 7 cost 0.000000: UNSTACK R T
+----------PCS:
+(HANDEMPTY)
+(CLEAR R)
+(ON R T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING R)
+(CLEAR T)
+----------DELS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 8 of op 8 cost 0.000000: UNSTACK R E
+----------PCS:
+(HANDEMPTY)
+(CLEAR R)
+(ON R E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING R)
+(CLEAR E)
+----------DELS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 9 of op 9 cost 0.000000: UNSTACK E W
+----------PCS:
+(HANDEMPTY)
+(CLEAR E)
+(ON E W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING E)
+(CLEAR W)
+----------DELS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 10 of op 10 cost 0.000000: UNSTACK E T
+----------PCS:
+(HANDEMPTY)
+(CLEAR E)
+(ON E T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING E)
+(CLEAR T)
+----------DELS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 11 of op 11 cost 0.000000: UNSTACK E R
+----------PCS:
+(HANDEMPTY)
+(CLEAR E)
+(ON E R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING E)
+(CLEAR R)
+----------DELS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 12 of op 12 cost 0.000000: STACK W T
+----------PCS:
+(CLEAR T)
+(HOLDING W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W T)
+----------DELS:
+(HOLDING W)
+(CLEAR T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 13 of op 13 cost 0.000000: STACK W R
+----------PCS:
+(CLEAR R)
+(HOLDING W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W R)
+----------DELS:
+(HOLDING W)
+(CLEAR R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 14 of op 14 cost 0.000000: STACK W E
+----------PCS:
+(CLEAR E)
+(HOLDING W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR W)
+(HANDEMPTY)
+(ON W E)
+----------DELS:
+(HOLDING W)
+(CLEAR E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 15 of op 15 cost 0.000000: STACK T W
+----------PCS:
+(CLEAR W)
+(HOLDING T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T W)
+----------DELS:
+(HOLDING T)
+(CLEAR W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 16 of op 16 cost 0.000000: STACK T R
+----------PCS:
+(CLEAR R)
+(HOLDING T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T R)
+----------DELS:
+(HOLDING T)
+(CLEAR R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 17 of op 17 cost 0.000000: STACK T E
+----------PCS:
+(CLEAR E)
+(HOLDING T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR T)
+(HANDEMPTY)
+(ON T E)
+----------DELS:
+(HOLDING T)
+(CLEAR E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 18 of op 18 cost 0.000000: STACK R W
+----------PCS:
+(CLEAR W)
+(HOLDING R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R W)
+----------DELS:
+(HOLDING R)
+(CLEAR W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 19 of op 19 cost 0.000000: STACK R T
+----------PCS:
+(CLEAR T)
+(HOLDING R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R T)
+----------DELS:
+(HOLDING R)
+(CLEAR T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 20 of op 20 cost 0.000000: STACK R E
+----------PCS:
+(CLEAR E)
+(HOLDING R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR R)
+(HANDEMPTY)
+(ON R E)
+----------DELS:
+(HOLDING R)
+(CLEAR E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 21 of op 21 cost 0.000000: STACK E W
+----------PCS:
+(CLEAR W)
+(HOLDING E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E W)
+----------DELS:
+(HOLDING E)
+(CLEAR W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 22 of op 22 cost 0.000000: STACK E T
+----------PCS:
+(CLEAR T)
+(HOLDING E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E T)
+----------DELS:
+(HOLDING E)
+(CLEAR T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 23 of op 23 cost 0.000000: STACK E R
+----------PCS:
+(CLEAR R)
+(HOLDING E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR E)
+(HANDEMPTY)
+(ON E R)
+----------DELS:
+(HOLDING E)
+(CLEAR R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 24 of op 24 cost 0.000000: PUT-DOWN W
+----------PCS:
+(HOLDING W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR W)
+(HANDEMPTY)
+(ONTABLE W)
+----------DELS:
+(HOLDING W)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 25 of op 25 cost 0.000000: PUT-DOWN T
+----------PCS:
+(HOLDING T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR T)
+(HANDEMPTY)
+(ONTABLE T)
+----------DELS:
+(HOLDING T)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 26 of op 26 cost 0.000000: PUT-DOWN R
+----------PCS:
+(HOLDING R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR R)
+(HANDEMPTY)
+(ONTABLE R)
+----------DELS:
+(HOLDING R)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 27 of op 27 cost 0.000000: PUT-DOWN E
+----------PCS:
+(HOLDING E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(CLEAR E)
+(HANDEMPTY)
+(ONTABLE E)
+----------DELS:
+(HOLDING E)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 28 of op 28 cost 0.000000: PICK-UP W
+----------PCS:
+(HANDEMPTY)
+(ONTABLE W)
+(CLEAR W)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING W)
+----------DELS:
+(ONTABLE W)
+(CLEAR W)
+(HANDEMPTY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 29 of op 29 cost 0.000000: PICK-UP T
+----------PCS:
+(HANDEMPTY)
+(ONTABLE T)
+(CLEAR T)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING T)
+----------DELS:
+(ONTABLE T)
+(CLEAR T)
+(HANDEMPTY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 30 of op 30 cost 0.000000: PICK-UP R
+----------PCS:
+(HANDEMPTY)
+(ONTABLE R)
+(CLEAR R)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING R)
+----------DELS:
+(ONTABLE R)
+(CLEAR R)
+(HANDEMPTY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+effect 31 of op 31 cost 0.000000: PICK-UP E
+----------PCS:
+(HANDEMPTY)
+(ONTABLE E)
+(CLEAR E)
+----------f_PCS:
+DIRECT: 
+----------ADDS:
+(HOLDING E)
+----------DELS:
+(ONTABLE E)
+(CLEAR E)
+(HANDEMPTY)
+----------INCREASE:
+----------ASSIGN:
+----------IMPLIEDS:
+
+----------------------FT ARRAY:-----------------------------
+
+FT: (HOLDING E) rand: 808276
+----------PRE COND OF:
+effect 21 - op STACK E W
+effect 22 - op STACK E T
+effect 23 - op STACK E R
+effect 27 - op PUT-DOWN E
+----------ADD BY:
+effect 9 - op UNSTACK E W
+effect 10 - op UNSTACK E T
+effect 11 - op UNSTACK E R
+effect 31 - op PICK-UP E
+----------DEL BY:
+effect 21 - op STACK E W
+effect 22 - op STACK E T
+effect 23 - op STACK E R
+effect 27 - op PUT-DOWN E
+
+FT: (HOLDING R) rand: 126375
+----------PRE COND OF:
+effect 18 - op STACK R W
+effect 19 - op STACK R T
+effect 20 - op STACK R E
+effect 26 - op PUT-DOWN R
+----------ADD BY:
+effect 6 - op UNSTACK R W
+effect 7 - op UNSTACK R T
+effect 8 - op UNSTACK R E
+effect 30 - op PICK-UP R
+----------DEL BY:
+effect 18 - op STACK R W
+effect 19 - op STACK R T
+effect 20 - op STACK R E
+effect 26 - op PUT-DOWN R
+
+FT: (HOLDING T) rand: 278224
+----------PRE COND OF:
+effect 15 - op STACK T W
+effect 16 - op STACK T R
+effect 17 - op STACK T E
+effect 25 - op PUT-DOWN T
+----------ADD BY:
+effect 3 - op UNSTACK T W
+effect 4 - op UNSTACK T R
+effect 5 - op UNSTACK T E
+effect 29 - op PICK-UP T
+----------DEL BY:
+effect 15 - op STACK T W
+effect 16 - op STACK T R
+effect 17 - op STACK T E
+effect 25 - op PUT-DOWN T
+
+FT: (HOLDING W) rand: 427975
+----------PRE COND OF:
+effect 12 - op STACK W T
+effect 13 - op STACK W R
+effect 14 - op STACK W E
+effect 24 - op PUT-DOWN W
+----------ADD BY:
+effect 0 - op UNSTACK W T
+effect 1 - op UNSTACK W R
+effect 2 - op UNSTACK W E
+effect 28 - op PICK-UP W
+----------DEL BY:
+effect 12 - op STACK W T
+effect 13 - op STACK W R
+effect 14 - op STACK W E
+effect 24 - op PUT-DOWN W
+
+FT: (ON E R) rand: 1125670
+----------PRE COND OF:
+effect 11 - op UNSTACK E R
+----------ADD BY:
+effect 23 - op STACK E R
+----------DEL BY:
+effect 11 - op UNSTACK E R
+
+FT: (ON E T) rand: 767628
+----------PRE COND OF:
+effect 10 - op UNSTACK E T
+----------ADD BY:
+effect 22 - op STACK E T
+----------DEL BY:
+effect 10 - op UNSTACK E T
+
+FT: (ON E W) rand: 696109
+----------PRE COND OF:
+effect 9 - op UNSTACK E W
+----------ADD BY:
+effect 21 - op STACK E W
+----------DEL BY:
+effect 9 - op UNSTACK E W
+
+FT: (ON R E) rand: 1173349
+----------PRE COND OF:
+effect 8 - op UNSTACK R E
+----------ADD BY:
+effect 20 - op STACK R E
+----------DEL BY:
+effect 8 - op UNSTACK R E
+
+FT: (ON R T) rand: 41250
+----------PRE COND OF:
+effect 7 - op UNSTACK R T
+----------ADD BY:
+effect 19 - op STACK R T
+----------DEL BY:
+effect 7 - op UNSTACK R T
+
+FT: (ON R W) rand: 382151
+----------PRE COND OF:
+effect 6 - op UNSTACK R W
+----------ADD BY:
+effect 18 - op STACK R W
+----------DEL BY:
+effect 6 - op UNSTACK R W
+
+FT: (ON T E) rand: 1269314
+----------PRE COND OF:
+effect 5 - op UNSTACK T E
+----------ADD BY:
+effect 17 - op STACK T E
+----------DEL BY:
+effect 5 - op UNSTACK T E
+
+FT: (ON T R) rand: 1293153
+----------PRE COND OF:
+effect 4 - op UNSTACK T R
+----------ADD BY:
+effect 16 - op STACK T R
+----------DEL BY:
+effect 4 - op UNSTACK T R
+
+FT: (ON T W) rand: 889506
+----------PRE COND OF:
+effect 3 - op UNSTACK T W
+----------ADD BY:
+effect 15 - op STACK T W
+----------DEL BY:
+effect 3 - op UNSTACK T W
+
+FT: (ON W E) rand: 1254537
+----------PRE COND OF:
+effect 2 - op UNSTACK W E
+----------ADD BY:
+effect 14 - op STACK W E
+----------DEL BY:
+effect 2 - op UNSTACK W E
+
+FT: (ON W R) rand: 18228
+----------PRE COND OF:
+effect 1 - op UNSTACK W R
+----------ADD BY:
+effect 13 - op STACK W R
+----------DEL BY:
+effect 1 - op UNSTACK W R
+
+FT: (ON W T) rand: 876557
+----------PRE COND OF:
+effect 0 - op UNSTACK W T
+----------ADD BY:
+effect 12 - op STACK W T
+----------DEL BY:
+effect 0 - op UNSTACK W T
+
+FT: (CLEAR W) rand: 75249
+----------PRE COND OF:
+effect 0 - op UNSTACK W T
+effect 1 - op UNSTACK W R
+effect 2 - op UNSTACK W E
+effect 15 - op STACK T W
+effect 18 - op STACK R W
+effect 21 - op STACK E W
+effect 28 - op PICK-UP W
+----------ADD BY:
+effect 3 - op UNSTACK T W
+effect 6 - op UNSTACK R W
+effect 9 - op UNSTACK E W
+effect 12 - op STACK W T
+effect 13 - op STACK W R
+effect 14 - op STACK W E
+effect 24 - op PUT-DOWN W
+----------DEL BY:
+effect 0 - op UNSTACK W T
+effect 1 - op UNSTACK W R
+effect 2 - op UNSTACK W E
+effect 15 - op STACK T W
+effect 18 - op STACK R W
+effect 21 - op STACK E W
+effect 28 - op PICK-UP W
+
+FT: (HANDEMPTY) rand: 1064911
+----------PRE COND OF:
+effect 0 - op UNSTACK W T
+effect 1 - op UNSTACK W R
+effect 2 - op UNSTACK W E
+effect 3 - op UNSTACK T W
+effect 4 - op UNSTACK T R
+effect 5 - op UNSTACK T E
+effect 6 - op UNSTACK R W
+effect 7 - op UNSTACK R T
+effect 8 - op UNSTACK R E
+effect 9 - op UNSTACK E W
+effect 10 - op UNSTACK E T
+effect 11 - op UNSTACK E R
+effect 28 - op PICK-UP W
+effect 29 - op PICK-UP T
+effect 30 - op PICK-UP R
+effect 31 - op PICK-UP E
+----------ADD BY:
+effect 12 - op STACK W T
+effect 13 - op STACK W R
+effect 14 - op STACK W E
+effect 15 - op STACK T W
+effect 16 - op STACK T R
+effect 17 - op STACK T E
+effect 18 - op STACK R W
+effect 19 - op STACK R T
+effect 20 - op STACK R E
+effect 21 - op STACK E W
+effect 22 - op STACK E T
+effect 23 - op STACK E R
+effect 24 - op PUT-DOWN W
+effect 25 - op PUT-DOWN T
+effect 26 - op PUT-DOWN R
+effect 27 - op PUT-DOWN E
+----------DEL BY:
+effect 0 - op UNSTACK W T
+effect 1 - op UNSTACK W R
+effect 2 - op UNSTACK W E
+effect 3 - op UNSTACK T W
+effect 4 - op UNSTACK T R
+effect 5 - op UNSTACK T E
+effect 6 - op UNSTACK R W
+effect 7 - op UNSTACK R T
+effect 8 - op UNSTACK R E
+effect 9 - op UNSTACK E W
+effect 10 - op UNSTACK E T
+effect 11 - op UNSTACK E R
+effect 28 - op PICK-UP W
+effect 29 - op PICK-UP T
+effect 30 - op PICK-UP R
+effect 31 - op PICK-UP E
+
+FT: (CLEAR T) rand: 160148
+----------PRE COND OF:
+effect 3 - op UNSTACK T W
+effect 4 - op UNSTACK T R
+effect 5 - op UNSTACK T E
+effect 12 - op STACK W T
+effect 19 - op STACK R T
+effect 22 - op STACK E T
+effect 29 - op PICK-UP T
+----------ADD BY:
+effect 0 - op UNSTACK W T
+effect 7 - op UNSTACK R T
+effect 10 - op UNSTACK E T
+effect 15 - op STACK T W
+effect 16 - op STACK T R
+effect 17 - op STACK T E
+effect 25 - op PUT-DOWN T
+----------DEL BY:
+effect 3 - op UNSTACK T W
+effect 4 - op UNSTACK T R
+effect 5 - op UNSTACK T E
+effect 12 - op STACK W T
+effect 19 - op STACK R T
+effect 22 - op STACK E T
+effect 29 - op PICK-UP T
+
+FT: (CLEAR R) rand: 166219
+----------PRE COND OF:
+effect 6 - op UNSTACK R W
+effect 7 - op UNSTACK R T
+effect 8 - op UNSTACK R E
+effect 13 - op STACK W R
+effect 16 - op STACK T R
+effect 23 - op STACK E R
+effect 30 - op PICK-UP R
+----------ADD BY:
+effect 1 - op UNSTACK W R
+effect 4 - op UNSTACK T R
+effect 11 - op UNSTACK E R
+effect 18 - op STACK R W
+effect 19 - op STACK R T
+effect 20 - op STACK R E
+effect 26 - op PUT-DOWN R
+----------DEL BY:
+effect 6 - op UNSTACK R W
+effect 7 - op UNSTACK R T
+effect 8 - op UNSTACK R E
+effect 13 - op STACK W R
+effect 16 - op STACK T R
+effect 23 - op STACK E R
+effect 30 - op PICK-UP R
+
+FT: (CLEAR E) rand: 1443223
+----------PRE COND OF:
+effect 9 - op UNSTACK E W
+effect 10 - op UNSTACK E T
+effect 11 - op UNSTACK E R
+effect 14 - op STACK W E
+effect 17 - op STACK T E
+effect 20 - op STACK R E
+effect 31 - op PICK-UP E
+----------ADD BY:
+effect 2 - op UNSTACK W E
+effect 5 - op UNSTACK T E
+effect 8 - op UNSTACK R E
+effect 21 - op STACK E W
+effect 22 - op STACK E T
+effect 23 - op STACK E R
+effect 27 - op PUT-DOWN E
+----------DEL BY:
+effect 9 - op UNSTACK E W
+effect 10 - op UNSTACK E T
+effect 11 - op UNSTACK E R
+effect 14 - op STACK W E
+effect 17 - op STACK T E
+effect 20 - op STACK R E
+effect 31 - op PICK-UP E
+
+FT: (ONTABLE W) rand: 201596
+----------PRE COND OF:
+effect 28 - op PICK-UP W
+----------ADD BY:
+effect 24 - op PUT-DOWN W
+----------DEL BY:
+effect 28 - op PICK-UP W
+
+FT: (ONTABLE T) rand: 373528
+----------PRE COND OF:
+effect 29 - op PICK-UP T
+----------ADD BY:
+effect 25 - op PUT-DOWN T
+----------DEL BY:
+effect 29 - op PICK-UP T
+
+FT: (ONTABLE R) rand: 334791
+----------PRE COND OF:
+effect 30 - op PICK-UP R
+----------ADD BY:
+effect 26 - op PUT-DOWN R
+----------DEL BY:
+effect 30 - op PICK-UP R
+
+FT: (ONTABLE E) rand: 132894
+----------PRE COND OF:
+effect 31 - op PICK-UP E
+----------ADD BY:
+effect 27 - op PUT-DOWN E
+----------DEL BY:
+effect 31 - op PICK-UP E
+
+----------------------FLUENT ARRAY:-----------------------------
+
+----------------------GOAL:-----------------------------
+(ON E R)
+(ON W E)
+DIRECT: 
+
+
+
+checking for cyclic := effects --- OK.
+
+ff: search configuration is EHC, if that fails then  best-first on 1*g(s) + 5*h(s) where
+    metric is  plan length
+
+Cueing down from goal distance:    4 into depth [1]
+                                   3            [1][2][3]
+                                   2            [1]
+                                   1            [1]
+                                   0            
+
+ff: found legal plan as follows
+
+step    0: PICK-UP W
+        1: STACK W T
+        2: PICK-UP E
+        3: STACK E R
+        4: UNSTACK W T
+        5: STACK W E
+     
+
+time spent:    0.00 seconds instantiating 32 easy, 0 hard action templates
+               0.00 seconds reachability analysis, yielding 25 facts and 32 actions
+               0.00 seconds creating final representation with 25 relevant facts, 0 relevant fluents
+               0.00 seconds computing LNF
+               0.00 seconds building connectivity graph
+               0.00 seconds searching, evaluating 13 states, to a max depth of 3
+               0.00 seconds total time
+
+
